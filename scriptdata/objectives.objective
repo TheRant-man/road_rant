@@ -1,1 +1,9 @@
-<table></table>
+<table>
+	<objective description="drill_bottom_desc" id="drill_bottom" text="drill_bottom"/>
+	<objective description="find_emp_desc" id="find_emp" text="find_emp"/>
+	<objective description="payload_desc" id="payload" text="payload"/>
+	<objective description="place_ramp_desc" id="place_ramp" text="place_ramp"/>
+	<objective description="hack_truck_desc" id="hack_truck" text="hack_truck"/>
+	<objective description="protecc_hacc_desc" id="protecc_hacc" text="protecc_hacc"/>
+	<objective amount="8" description="secure_loot_desc" id="secure_loot" text="secure_loot"/>
+</table>

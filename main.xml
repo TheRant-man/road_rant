@@ -2,22 +2,14 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="america" briefing_dialog="Play_pln_glace_brf" cube="cube_apply_heist_bank" flashlights_on="true" id="icing" intro_event="Play_pln_glace_intro" max_bags="24" music="heist" player_style="">
-		<assets>
-			<asset name="ammo_bag"/>
-			<asset name="health_bag"/>
-			<asset name="grenade_crate"/>
-		</assets>
-		<environment_effects>
-			<value_node value="rain"/>
-			<value_node value="raindrop_screen"/>
-			<value_node value="lightning"/>
-		</environment_effects>
+	<level ai_group_type="america" briefing_dialog="" cube="cube_apply_heist_bank" flashlights_on="true" id="icing" intro_event="" max_bags="24" music="heist" player_style="">
+		<assets/>
+		<environment_effects/>
 		<equipment>
 			<value_node value="saw"/>
 		</equipment>
 		<outro_event>
-			<value_node value="Play_pln_glace_end"/>
+			<value_node value=""/>
 		</outro_event>
 		<packages>
 			<value_node value="packages/narr_glace"/>
@@ -33,7 +25,7 @@
 			</mod>
 		</script_data_mods>
 	</level>
-	<narrative briefing_event="Play_pln_glc_cbf_01" contact="classic" icon="guis/dlcs/bro/textures/pd2/crimenet/green_bridge" id="road_rant" jc="50" load_screen="guis/dlcs/pic/textures/loading/job_greenbridge">
+	<narrative briefing_event="" contact="shayu" hide_from_crimenet="true" id="road_rant" jc="50" load_screen="guis/dlcs/pic/textures/loading/job_greenbridge">
 		<chain>
 			<table level_id="icing" type="d" type_id="heist_type_survive"/>
 		</chain>
@@ -47,14 +39,16 @@
 			<value_node value="900000"/>
 		</contract_cost>
 		<crimenet_callouts>
-			<value_node value="Play_pln_glc_cnc_01"/>
+			<value_node value=""/>
 		</crimenet_callouts>
 		<crimenet_videos>
 			<value_node value="cn_branchbank1"/>
 			<value_node value="cn_branchbank2"/>
 			<value_node value="cn_branchbank3"/>
 		</crimenet_videos>
-		<debrief_event/>
+		<debrief_event>
+			<value_node value=""/>
+		</debrief_event>
 		<experience_mul>
 			<value_node value="1"/>
 			<value_node value="1"/>
