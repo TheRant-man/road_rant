@@ -1,0 +1,42 @@
+<table directory="assets">
+	<add from_db="true" path="units/pd2_dlc_sand/equipment/sand_interactable_car_ramp/sand_interactable_car_ramp" type="unit">
+		<object path="units/pd2_dlc_sand/equipment/sand_interactable_car_ramp/sand_interactable_car_ramp"/>
+		<sequence_manager path="units/pd2_dlc_sand/equipment/sand_interactable_car_ramp/sand_interactable_car_ramp"/>
+		<unit path="units/pd2_dlc_sand/equipment/sand_interactable_car_ramp/sand_interactable_car_ramp"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_peta/architecture/pta_2/pta_ramp" type="unit">
+		<material_config path="units/pd2_dlc_peta/architecture/pta_2/pta_ramp"/>
+		<object path="units/pd2_dlc_peta/architecture/pta_2/pta_ramp"/>
+		<unit path="units/pd2_dlc_peta/architecture/pta_2/pta_ramp"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_shoutout_raid/props/gen_prop_car_ramp/gen_prop_car_ramp" type="unit">
+		<material_config path="units/pd2_dlc_shoutout_raid/props/gen_prop_car_ramp/gen_prop_car_ramp"/>
+		<object path="units/pd2_dlc_shoutout_raid/props/gen_prop_car_ramp/gen_prop_car_ramp"/>
+		<sequence_manager path="units/pd2_dlc_shoutout_raid/props/gen_prop_car_ramp/gen_prop_car_ramp"/>
+		<unit path="units/pd2_dlc_shoutout_raid/props/gen_prop_car_ramp/gen_prop_car_ramp"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_shoutout_raid/props/gen_prop_ramp_flat/gen_prop_ramp_flat" type="unit">
+		<material_config path="units/pd2_dlc_shoutout_raid/props/gen_prop_ramp_flat/gen_prop_ramp_flat"/>
+		<object path="units/pd2_dlc_shoutout_raid/props/gen_prop_ramp_flat/gen_prop_ramp_flat"/>
+		<sequence_manager path="units/pd2_dlc_shoutout_raid/props/gen_prop_ramp_flat/gen_prop_ramp_flat"/>
+		<unit path="units/pd2_dlc_shoutout_raid/props/gen_prop_ramp_flat/gen_prop_ramp_flat"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_vit/architecture/vit_terrain_bdrop/vit_terrain_bdrop_press_ramp" type="unit">
+		<material_config path="units/pd2_dlc_vit/architecture/vit_terrain_bdrop/vit_terrain_bdrop_press_ramp"/>
+		<object path="units/pd2_dlc_vit/architecture/vit_terrain_bdrop/vit_terrain_bdrop_press_ramp"/>
+		<unit path="units/pd2_dlc_vit/architecture/vit_terrain_bdrop/vit_terrain_bdrop_press_ramp"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_xmn/architecture/xmn_ext_sidewalk/xmn_ext_road_c_parking_ramp" type="unit">
+		<material_config path="units/pd2_dlc_xmn/architecture/xmn_ext_sidewalk/xmn_ext_sidewalk_c_16x16m"/>
+		<object path="units/pd2_dlc_xmn/architecture/xmn_ext_sidewalk/xmn_ext_road_c_parking_ramp"/>
+		<unit path="units/pd2_dlc_xmn/architecture/xmn_ext_sidewalk/xmn_ext_road_c_parking_ramp"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_xmn/architecture/xmn_int_parking_garage_ramp/xmn_int_parking_garage_ramp" type="unit">
+		<material_config path="units/pd2_dlc_xmn/architecture/xmn_int_parking_garage_ramp/xmn_int_parking_garage_ramp"/>
+		<object path="units/pd2_dlc_xmn/architecture/xmn_int_parking_garage_ramp/xmn_int_parking_garage_ramp"/>
+		<unit path="units/pd2_dlc_xmn/architecture/xmn_int_parking_garage_ramp/xmn_int_parking_garage_ramp"/>
+	</add>
+	<add from_db="true" path="environments/env_1830_low_sun_clouds/env_1830_low_sun_clouds" type="environment">
+		<environment path="environments/env_1830_low_sun_clouds/env_1830_low_sun_clouds"/>
+	</add>
+</table>
