@@ -15,5 +15,6 @@
 	<continent path="editor_only/editor_only" script_data_type="binary"/>
 	<mission path="editor_only/editor_only" script_data_type="binary"/>
 	<cover_data path="cover_data" script_data_type="binary"/>
+	<environment path="environments/env_icing" script_data_type="custom_xml"/>
 	<texture path="cube_lights/dome_occlusion"/>
 </table>
