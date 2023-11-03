@@ -8,4 +8,5 @@
 	<objective amount="4" description="secure_loot_desc" id="secure_loot" text="secure_loot"/>
 	<objective description="loot_truck_desc" id="loot_truck" text="loot_truck"/>
 	<objective description="signal_desc" id="signal" text="signal"/>
+	<objective description="civies_desc" id="civies" text="civies"/>
 </table>
