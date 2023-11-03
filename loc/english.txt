@@ -1,9 +1,9 @@
 {
 	"heist_icing_name":"Some bridge in new york",
 	"heist_road_rant_name":"Road Rage: Ranted",
-	"heist_road_rant_brief":"You wanna get back to the old game? Earn some money?",
-	"heist_icing_brief":"You wanna get back to the old game? Earn some money?",
-	"drill_bottom":"Breach the armourd transport",
+	"heist_road_rant_brief":"You wanna get back to the old game? \n\n»Earn some money?",
+	"heist_icing_brief":"We're going to rob an armored transport carrying valuable rare-earth elements, a key part in the manufacutring of electronic components. There's already a decoy in place to reroute the transport to the upper level of Queensboro Bridge - currently undergoing renovation - while also confusing the transport's SWAT escort. It should give us a few minutes to set everything up. Just don't do anything to alert the driver. ",
+	"drill_bottom":"Breach the armoured transport",
 	"find_emp":"Find the jammer",
 	"payload":"Escort the transport",
 	"place_ramp":"Place a ramp",
