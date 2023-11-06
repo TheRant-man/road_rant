@@ -13081,6 +13081,21 @@
 		<table>
 			<unit_data _prev_pos="-372.622 -10103.9 5806.54" _prev_rot="-0.00345161 -9.31347e-010 5.45743e-012 -0.999994" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="gen_prop_container_a_red_005" position="-372.622 -10103.9 5806.54" rotation="-0.00345161 -9.31347e-010 5.45743e-012 -0.999994" unit_id="100110"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="-2403.86 -10030.6 5804.56" _prev_rot="-0.00345161 -9.31347e-010 5.45743e-012 -0.999994" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="gen_prop_container_a_red_006" position="-2403.86 -10032.5 6075.55" rotation="-0.00345161 -9.31347e-010 5.45743e-012 -0.999994" unit_id="100007"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2014.82 -10041.6 5789.88" _prev_rot="-0.00238182 -0.00249822 0.723764 -0.690039" continent="world" disable_shadows="true" local_pos="389.04 -11.1011 -14.6039" local_rot="6.05115e-008 5.21541e-008 -0.723768 0.690043" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_yellow" name_id="gen_prop_container_a_yellow_007" position="-2014.82 -10043.5 6060.87" rotation="-0.00238182 -0.00249822 0.723764 -0.690039" unit_id="100008"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1393.53 -10071.3 5789.68" _prev_rot="-0.00238182 -0.00249822 0.723764 -0.690039" continent="world" disable_shadows="true" local_pos="1010.33 -40.8019 -14.5986" local_rot="6.05115e-008 5.21541e-008 -0.723768 0.690043" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_yellow" name_id="gen_prop_container_a_yellow_008" position="-1393.53 -10073.2 6060.67" rotation="-0.00238182 -0.00249822 0.723764 -0.690039" unit_id="100014"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-787.22 -10100.2 5789.48" _prev_rot="-0.00238182 -0.00249822 0.723764 -0.690039" continent="world" disable_shadows="true" local_pos="1616.64 -69.703 -14.5992" local_rot="6.05115e-008 5.21541e-008 -0.723768 0.690043" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_yellow" name_id="gen_prop_container_a_yellow_009" position="-787.22 -10102.1 6060.47" rotation="-0.00238182 -0.00249822 0.723764 -0.690039" unit_id="100015"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-372.622 -10103.9 5806.54" _prev_rot="-0.00345161 -9.31347e-010 5.45743e-012 -0.999994" continent="world" disable_shadows="true" local_pos="2031.24 -73.2854 2.48595" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_red" name_id="gen_prop_container_a_red_007" position="-372.622 -10105.8 6077.53" rotation="-0.00345161 -9.31347e-010 5.45743e-012 -0.999994" unit_id="100017"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

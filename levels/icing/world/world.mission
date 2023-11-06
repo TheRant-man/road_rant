@@ -2198,61 +2198,57 @@
 						</entry>
 						<entry index="13" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="101499"/>
+							<entry key="id" type="number" value="101500"/>
 						</entry>
 						<entry index="14" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="101500"/>
+							<entry key="id" type="number" value="101501"/>
 						</entry>
 						<entry index="15" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="101501"/>
+							<entry key="id" type="number" value="101503"/>
 						</entry>
 						<entry index="16" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="101503"/>
+							<entry key="id" type="number" value="101506"/>
 						</entry>
 						<entry index="17" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="101506"/>
+							<entry key="id" type="number" value="101507"/>
 						</entry>
 						<entry index="18" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="101507"/>
+							<entry key="id" type="number" value="101513"/>
 						</entry>
 						<entry index="19" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="101513"/>
+							<entry key="id" type="number" value="101268"/>
 						</entry>
 						<entry index="20" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="101268"/>
+							<entry key="id" type="number" value="101269"/>
 						</entry>
 						<entry index="21" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="101269"/>
+							<entry key="id" type="number" value="101270"/>
 						</entry>
 						<entry index="22" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="101270"/>
+							<entry key="id" type="number" value="101405"/>
 						</entry>
 						<entry index="23" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="101405"/>
+							<entry key="id" type="number" value="101413"/>
 						</entry>
 						<entry index="24" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="101413"/>
+							<entry key="id" type="number" value="101422"/>
 						</entry>
 						<entry index="25" type="table">
 							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="101422"/>
-						</entry>
-						<entry index="26" type="table">
-							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="101490"/>
 						</entry>
-						<entry index="27" type="table">
+						<entry index="26" type="table">
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="101492"/>
 						</entry>
@@ -46944,23 +46940,6 @@
 			</entry>
 			<entry index="1738" type="table">
 				<entry key="class" type="string" value="ElementFleePoint"/>
-				<entry key="editor_name" type="string" value="point_fleepoint_021"/>
-				<entry key="id" type="number" value="101499"/>
-				<entry key="script" type="string" value="default"/>
-				<entry key="values" type="table">
-					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="functionality" type="string" value="flee_point"/>
-					<entry key="on_executed" type="table">
-					</entry>
-					<entry key="position" type="vector3" value="-469 -4050 5209.14"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
-					<entry key="trigger_times" type="number" value="0"/>
-				</entry>
-			</entry>
-			<entry index="1739" type="table">
-				<entry key="class" type="string" value="ElementFleePoint"/>
 				<entry key="editor_name" type="string" value="point_fleepoint_022"/>
 				<entry key="id" type="number" value="101500"/>
 				<entry key="script" type="string" value="default"/>
@@ -46976,7 +46955,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1740" type="table">
+			<entry index="1739" type="table">
 				<entry key="class" type="string" value="ElementFleePoint"/>
 				<entry key="editor_name" type="string" value="point_fleepoint_023"/>
 				<entry key="id" type="number" value="101501"/>
@@ -46993,7 +46972,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1741" type="table">
+			<entry index="1740" type="table">
 				<entry key="class" type="string" value="ElementFleePoint"/>
 				<entry key="editor_name" type="string" value="point_fleepoint_024"/>
 				<entry key="id" type="number" value="101503"/>
@@ -47010,7 +46989,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1742" type="table">
+			<entry index="1741" type="table">
 				<entry key="class" type="string" value="ElementFleePoint"/>
 				<entry key="editor_name" type="string" value="point_fleepoint_025"/>
 				<entry key="id" type="number" value="101506"/>
@@ -47027,7 +47006,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1743" type="table">
+			<entry index="1742" type="table">
 				<entry key="class" type="string" value="ElementFleePoint"/>
 				<entry key="editor_name" type="string" value="point_fleepoint_026"/>
 				<entry key="id" type="number" value="101507"/>
@@ -47044,7 +47023,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1744" type="table">
+			<entry index="1743" type="table">
 				<entry key="class" type="string" value="ElementFleePoint"/>
 				<entry key="editor_name" type="string" value="point_fleepoint_027"/>
 				<entry key="id" type="number" value="101513"/>
@@ -47061,7 +47040,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1745" type="table">
+			<entry index="1744" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="play_line"/>
 				<entry key="id" type="number" value="100996"/>
@@ -47082,7 +47061,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1746" type="table">
+			<entry index="1745" type="table">
 				<entry key="class" type="string" value="ElementAreaTrigger"/>
 				<entry key="editor_name" type="string" value="trigger_area_016"/>
 				<entry key="id" type="number" value="101324"/>
@@ -47117,7 +47096,7 @@
 					<entry key="width" type="number" value="2500"/>
 				</entry>
 			</entry>
-			<entry index="1747" type="table">
+			<entry index="1746" type="table">
 				<entry key="class" type="string" value="ElementAreaTrigger"/>
 				<entry key="editor_name" type="string" value="trigger_area_017"/>
 				<entry key="id" type="number" value="101325"/>
@@ -47152,7 +47131,7 @@
 					<entry key="width" type="number" value="2500"/>
 				</entry>
 			</entry>
-			<entry index="1748" type="table">
+			<entry index="1747" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="ON 1"/>
 				<entry key="id" type="number" value="101341"/>
@@ -47174,7 +47153,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1749" type="table">
+			<entry index="1748" type="table">
 				<entry key="class" type="string" value="ElementAreaTrigger"/>
 				<entry key="editor_name" type="string" value="trigger_cheevo_glace_9"/>
 				<entry key="id" type="number" value="100056"/>
@@ -47209,7 +47188,7 @@
 					<entry key="width" type="number" value="1516.59"/>
 				</entry>
 			</entry>
-			<entry index="1750" type="table">
+			<entry index="1749" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="start"/>
 				<entry key="id" type="number" value="100016"/>
@@ -47230,7 +47209,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1751" type="table">
+			<entry index="1750" type="table">
 				<entry key="class" type="string" value="ElementRandom"/>
 				<entry key="editor_name" type="string" value="pick_cuff_locations"/>
 				<entry key="id" type="number" value="100209"/>
@@ -47310,7 +47289,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1752" type="table">
+			<entry index="1751" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="cuffs_found"/>
 				<entry key="id" type="number" value="100288"/>
@@ -47334,7 +47313,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1753" type="table">
+			<entry index="1752" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="give_trophy"/>
 				<entry key="id" type="number" value="100457"/>
@@ -47359,7 +47338,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1754" type="table">
+			<entry index="1753" type="table">
 				<entry key="class" type="string" value="ElementCustomSafehouseAwardTrophy"/>
 				<entry key="editor_name" type="string" value="func_award_safehouse_trophy_001"/>
 				<entry key="id" type="number" value="100470"/>
@@ -47378,7 +47357,7 @@
 					<entry key="trophy" type="string" value="trophy_glace_cuffs"/>
 				</entry>
 			</entry>
-			<entry index="1755" type="table">
+			<entry index="1754" type="table">
 				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
 				<entry key="editor_name" type="string" value="used"/>
 				<entry key="id" type="number" value="100468"/>
@@ -47476,7 +47455,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1756" type="table">
+			<entry index="1755" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="cuff_interaction"/>
 				<entry key="id" type="number" value="100784"/>
@@ -47497,7 +47476,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1757" type="table">
+			<entry index="1756" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="001"/>
 				<entry key="id" type="number" value="102198"/>
@@ -47523,7 +47502,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1758" type="table">
+			<entry index="1757" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="002"/>
 				<entry key="id" type="number" value="100785"/>
@@ -47549,7 +47528,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1759" type="table">
+			<entry index="1758" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="003"/>
 				<entry key="id" type="number" value="100938"/>
@@ -47575,7 +47554,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1760" type="table">
+			<entry index="1759" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="004"/>
 				<entry key="id" type="number" value="101015"/>
@@ -47601,7 +47580,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1761" type="table">
+			<entry index="1760" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="005"/>
 				<entry key="id" type="number" value="101061"/>
@@ -47627,7 +47606,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1762" type="table">
+			<entry index="1761" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="006"/>
 				<entry key="id" type="number" value="101091"/>
@@ -47653,7 +47632,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1763" type="table">
+			<entry index="1762" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="007"/>
 				<entry key="id" type="number" value="101223"/>
@@ -47679,7 +47658,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1764" type="table">
+			<entry index="1763" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="008"/>
 				<entry key="id" type="number" value="101604"/>
@@ -47705,7 +47684,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1765" type="table">
+			<entry index="1764" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="009"/>
 				<entry key="id" type="number" value="101610"/>
@@ -47731,7 +47710,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1766" type="table">
+			<entry index="1765" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="010"/>
 				<entry key="id" type="number" value="102181"/>
@@ -47757,7 +47736,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1767" type="table">
+			<entry index="1766" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="011"/>
 				<entry key="id" type="number" value="102186"/>
@@ -47783,7 +47762,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1768" type="table">
+			<entry index="1767" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="012"/>
 				<entry key="id" type="number" value="102187"/>
@@ -47809,7 +47788,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1769" type="table">
+			<entry index="1768" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="013"/>
 				<entry key="id" type="number" value="102194"/>
@@ -47835,7 +47814,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1770" type="table">
+			<entry index="1769" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="014"/>
 				<entry key="id" type="number" value="102196"/>
@@ -47861,7 +47840,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1771" type="table">
+			<entry index="1770" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="015"/>
 				<entry key="id" type="number" value="102197"/>
@@ -47887,7 +47866,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1772" type="table">
+			<entry index="1771" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="UNLOCkED CUFF TROPHY"/>
 				<entry key="id" type="number" value="103049"/>
@@ -47907,7 +47886,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1773" type="table">
+			<entry index="1772" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="point_debug_127"/>
 				<entry key="id" type="number" value="102241"/>
@@ -47927,7 +47906,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1774" type="table">
+			<entry index="1773" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="point_debug_128"/>
 				<entry key="id" type="number" value="102606"/>
@@ -47947,7 +47926,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1775" type="table">
+			<entry index="1774" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="point_debug_129"/>
 				<entry key="id" type="number" value="103075"/>
@@ -47967,7 +47946,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1776" type="table">
+			<entry index="1775" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="point_debug_130"/>
 				<entry key="id" type="number" value="103117"/>
@@ -47987,7 +47966,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1777" type="table">
+			<entry index="1776" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="give_cheevo"/>
 				<entry key="id" type="number" value="103118"/>
@@ -48008,7 +47987,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1778" type="table">
+			<entry index="1777" type="table">
 				<entry key="class" type="string" value="ElementFilter"/>
 				<entry key="editor_name" type="string" value="ovk_above"/>
 				<entry key="id" type="number" value="103124"/>
@@ -48047,7 +48026,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1779" type="table">
+			<entry index="1778" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="point_debug_131"/>
 				<entry key="id" type="number" value="102144"/>
@@ -48067,7 +48046,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1780" type="table">
+			<entry index="1779" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="point_debug_132"/>
 				<entry key="id" type="number" value="103119"/>
@@ -48087,7 +48066,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1781" type="table">
+			<entry index="1780" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="point_debug_133"/>
 				<entry key="id" type="number" value="103192"/>
@@ -48107,7 +48086,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1782" type="table">
+			<entry index="1781" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="link"/>
 				<entry key="id" type="number" value="101870"/>
@@ -48124,7 +48103,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1783" type="table">
+			<entry index="1782" type="table">
 				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
 				<entry key="editor_name" type="string" value="plane_finished_leaving"/>
 				<entry key="id" type="number" value="101412"/>
@@ -48152,7 +48131,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1784" type="table">
+			<entry index="1783" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="delay"/>
 				<entry key="id" type="number" value="101877"/>
@@ -48173,7 +48152,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1785" type="table">
+			<entry index="1784" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="hide_planes"/>
 				<entry key="id" type="number" value="101878"/>
@@ -48210,7 +48189,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1786" type="table">
+			<entry index="1785" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="point_debug_134"/>
 				<entry key="id" type="number" value="101879"/>
@@ -48230,7 +48209,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1787" type="table">
+			<entry index="1786" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="point_debug_135"/>
 				<entry key="id" type="number" value="101880"/>
@@ -48250,7 +48229,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1788" type="table">
+			<entry index="1787" type="table">
 				<entry key="class" type="string" value="ElementEnemyPreferedAdd"/>
 				<entry key="editor_name" type="string" value="add_prefered_escape_bridge_spawns001"/>
 				<entry key="id" type="number" value="100669"/>
@@ -48275,7 +48254,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1789" type="table">
+			<entry index="1788" type="table">
 				<entry key="class" type="string" value="ElementEnemyPreferedRemove"/>
 				<entry key="editor_name" type="string" value="ai_enemy_prefered_remove_001"/>
 				<entry key="id" type="number" value="101590"/>
@@ -48294,7 +48273,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1790" type="table">
+			<entry index="1789" type="table">
 				<entry key="class" type="string" value="ElementAreaTrigger"/>
 				<entry key="editor_name" type="string" value="remove_spawn_trigger"/>
 				<entry key="id" type="number" value="102084"/>
@@ -48329,7 +48308,7 @@
 					<entry key="width" type="number" value="3414.84"/>
 				</entry>
 			</entry>
-			<entry index="1791" type="table">
+			<entry index="1790" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="logic_toggle_008"/>
 				<entry key="id" type="number" value="102130"/>
@@ -48351,7 +48330,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1792" type="table">
+			<entry index="1791" type="table">
 				<entry key="class" type="string" value="ElementSpawnEnemyGroup"/>
 				<entry key="editor_name" type="string" value="saw_enemy_group_028"/>
 				<entry key="id" type="number" value="102131"/>
@@ -48391,7 +48370,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1793" type="table">
+			<entry index="1792" type="table">
 				<entry key="class" type="string" value="ElementSpawnEnemyGroup"/>
 				<entry key="editor_name" type="string" value="saw_enemy_group_029"/>
 				<entry key="id" type="number" value="102132"/>
@@ -48430,7 +48409,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1794" type="table">
+			<entry index="1793" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="logic_toggle_031"/>
 				<entry key="id" type="number" value="102133"/>
@@ -48452,7 +48431,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1795" type="table">
+			<entry index="1794" type="table">
 				<entry key="class" type="string" value="ElementOperator"/>
 				<entry key="editor_name" type="string" value="logic_operator_004"/>
 				<entry key="id" type="number" value="102134"/>
@@ -48473,7 +48452,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1796" type="table">
+			<entry index="1795" type="table">
 				<entry key="class" type="string" value="ElementOperator"/>
 				<entry key="editor_name" type="string" value="remove_wp"/>
 				<entry key="id" type="number" value="103193"/>
@@ -48493,7 +48472,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1797" type="table">
+			<entry index="1796" type="table">
 				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
 				<entry key="editor_name" type="string" value="done_turret_destroyed"/>
 				<entry key="id" type="number" value="103381"/>
@@ -48521,7 +48500,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1798" type="table">
+			<entry index="1797" type="table">
 				<entry key="class" type="string" value="ElementAwardAchievment"/>
 				<entry key="editor_name" type="string" value="func_award_achievement_mer4"/>
 				<entry key="id" type="number" value="103397"/>
@@ -48543,7 +48522,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1799" type="table">
+			<entry index="1798" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="disable_achievement_mer4"/>
 				<entry key="id" type="number" value="103434"/>
@@ -48570,7 +48549,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1800" type="table">
+			<entry index="1799" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="point_debug_136"/>
 				<entry key="id" type="number" value="103435"/>
@@ -48590,7 +48569,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1801" type="table">
+			<entry index="1800" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="disable"/>
 				<entry key="id" type="number" value="103436"/>
@@ -48612,7 +48591,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1802" type="table">
+			<entry index="1801" type="table">
 				<entry key="class" type="string" value="ElementAiGlobalEvent"/>
 				<entry key="editor_name" type="string" value="force_assult"/>
 				<entry key="id" type="number" value="103437"/>
@@ -48635,7 +48614,7 @@
 					<entry key="wave_mode" type="string" value="assault"/>
 				</entry>
 			</entry>
-			<entry index="1803" type="table">
+			<entry index="1802" type="table">
 				<entry key="class" type="string" value="ElementGlobalEventTrigger"/>
 				<entry key="editor_name" type="string" value="police_called"/>
 				<entry key="id" type="number" value="103438"/>
@@ -48657,7 +48636,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1804" type="table">
+			<entry index="1803" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="turns_off"/>
 				<entry key="id" type="number" value="103439"/>
@@ -48679,7 +48658,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1805" type="table">
+			<entry index="1804" type="table">
 				<entry key="class" type="string" value="ElementGlobalEventTrigger"/>
 				<entry key="editor_name" type="string" value="trigger_global_event_003"/>
 				<entry key="id" type="number" value="103440"/>
@@ -48701,7 +48680,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1806" type="table">
+			<entry index="1805" type="table">
 				<entry key="class" type="string" value="ElementSpecialObjective"/>
 				<entry key="editor_name" type="string" value="point_special_objective_016"/>
 				<entry key="id" type="number" value="103441"/>
@@ -48744,7 +48723,7 @@
 					<entry key="use_instigator" type="boolean" value="true"/>
 				</entry>
 			</entry>
-			<entry index="1807" type="table">
+			<entry index="1806" type="table">
 				<entry key="class" type="string" value="ElementSetOutline"/>
 				<entry key="editor_name" type="string" value="func_set_outline_002"/>
 				<entry key="id" type="number" value="103442"/>
@@ -48765,7 +48744,7 @@
 					<entry key="use_instigator" type="boolean" value="true"/>
 				</entry>
 			</entry>
-			<entry index="1808" type="table">
+			<entry index="1807" type="table">
 				<entry key="class" type="string" value="ElementSetOutline"/>
 				<entry key="editor_name" type="string" value="func_set_outline_003"/>
 				<entry key="id" type="number" value="103443"/>
@@ -48786,7 +48765,7 @@
 					<entry key="use_instigator" type="boolean" value="true"/>
 				</entry>
 			</entry>
-			<entry index="1809" type="table">
+			<entry index="1808" type="table">
 				<entry key="class" type="string" value="ElementFilter"/>
 				<entry key="editor_name" type="string" value="logic_filter_002"/>
 				<entry key="id" type="number" value="103839"/>
@@ -48825,7 +48804,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1810" type="table">
+			<entry index="1809" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="Open_truck"/>
 				<entry key="id" type="number" value="100006"/>
@@ -48878,7 +48857,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1811" type="table">
+			<entry index="1810" type="table">
 				<entry key="class" type="string" value="ElementAreaTrigger"/>
 				<entry key="editor_name" type="string" value="debug_escape"/>
 				<entry key="id" type="number" value="100007"/>
@@ -48913,7 +48892,7 @@
 					<entry key="width" type="number" value="500"/>
 				</entry>
 			</entry>
-			<entry index="1812" type="table">
+			<entry index="1811" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
 				<entry key="editor_name" type="string" value="heli_is_here"/>
 				<entry key="id" type="number" value="100008"/>
@@ -48944,7 +48923,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1813" type="table">
+			<entry index="1812" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
 				<entry key="editor_name" type="string" value="call_heli1"/>
 				<entry key="id" type="number" value="100009"/>
@@ -48967,7 +48946,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1814" type="table">
+			<entry index="1813" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
 				<entry key="editor_name" type="string" value="call_heli2"/>
 				<entry key="id" type="number" value="100010"/>
@@ -48990,7 +48969,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1815" type="table">
+			<entry index="1814" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
 				<entry key="editor_name" type="string" value="heli_all_loot"/>
 				<entry key="id" type="number" value="100011"/>
@@ -49021,7 +49000,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1816" type="table">
+			<entry index="1815" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
 				<entry key="editor_name" type="string" value="minerals_secured"/>
 				<entry key="id" type="number" value="100013"/>
@@ -49048,7 +49027,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1817" type="table">
+			<entry index="1816" type="table">
 				<entry key="class" type="string" value="ElementLogicChance"/>
 				<entry key="editor_name" type="string" value="slide_chance"/>
 				<entry key="id" type="number" value="100014"/>
@@ -49066,7 +49045,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1818" type="table">
+			<entry index="1817" type="table">
 				<entry key="class" type="string" value="ElementLogicChanceOperator"/>
 				<entry key="editor_name" type="string" value="logic_chance_operator_001"/>
 				<entry key="id" type="number" value="100015"/>
@@ -49087,7 +49066,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1819" type="table">
+			<entry index="1818" type="table">
 				<entry key="class" type="string" value="ElementLogicChanceTrigger"/>
 				<entry key="editor_name" type="string" value="logic_chance_trigger_002"/>
 				<entry key="id" type="number" value="100017"/>
@@ -49112,7 +49091,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1820" type="table">
+			<entry index="1819" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="unit_sequence_001"/>
 				<entry key="id" type="number" value="100018"/>
@@ -49143,7 +49122,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1821" type="table">
+			<entry index="1820" type="table">
 				<entry key="class" type="string" value="ElementLootBag"/>
 				<entry key="editor_name" type="string" value="rare_elements"/>
 				<entry key="id" type="number" value="100024"/>
@@ -49163,7 +49142,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1822" type="table">
+			<entry index="1821" type="table">
 				<entry key="class" type="string" value="ElementBLCustomAchievement"/>
 				<entry key="editor_name" type="string" value="civvies"/>
 				<entry key="id" type="number" value="100025"/>
@@ -49181,7 +49160,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1823" type="table">
+			<entry index="1822" type="table">
 				<entry key="class" type="string" value="ElementBLCustomAchievement"/>
 				<entry key="editor_name" type="string" value="projob"/>
 				<entry key="id" type="number" value="100026"/>
@@ -49198,7 +49177,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1824" type="table">
+			<entry index="1823" type="table">
 				<entry key="class" type="string" value="ElementBLCustomAchievement"/>
 				<entry key="editor_name" type="string" value="death_sentence"/>
 				<entry key="id" type="number" value="100027"/>
@@ -49215,7 +49194,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1825" type="table">
+			<entry index="1824" type="table">
 				<entry key="class" type="string" value="ElementBLCustomAchievement"/>
 				<entry key="editor_name" type="string" value="muni"/>
 				<entry key="id" type="number" value="100028"/>
@@ -49232,7 +49211,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1826" type="table">
+			<entry index="1825" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="toggle_001"/>
 				<entry key="id" type="number" value="100029"/>
@@ -49254,7 +49233,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1827" type="table">
+			<entry index="1826" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="toggle_002"/>
 				<entry key="id" type="number" value="100030"/>
@@ -49276,7 +49255,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1828" type="table">
+			<entry index="1827" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
 				<entry key="editor_name" type="string" value="heli_go_away1"/>
 				<entry key="id" type="number" value="100031"/>
@@ -49303,7 +49282,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1829" type="table">
+			<entry index="1828" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
 				<entry key="editor_name" type="string" value="heli_go_away2"/>
 				<entry key="id" type="number" value="100032"/>
@@ -49338,7 +49317,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1830" type="table">
+			<entry index="1829" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
 				<entry key="editor_name" type="string" value="enable_flare"/>
 				<entry key="id" type="number" value="100034"/>
@@ -49369,7 +49348,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1831" type="table">
+			<entry index="1830" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
 				<entry key="editor_name" type="string" value="output_flare"/>
 				<entry key="id" type="number" value="100035"/>
@@ -49400,7 +49379,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1832" type="table">
+			<entry index="1831" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="toggle_003"/>
 				<entry key="id" type="number" value="100019"/>
@@ -49422,7 +49401,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1833" type="table">
+			<entry index="1832" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="toggle_004"/>
 				<entry key="id" type="number" value="100020"/>
@@ -49444,7 +49423,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1834" type="table">
+			<entry index="1833" type="table">
 				<entry key="class" type="string" value="ElementRandom"/>
 				<entry key="editor_name" type="string" value="random_001"/>
 				<entry key="id" type="number" value="100036"/>
@@ -49472,7 +49451,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1835" type="table">
+			<entry index="1834" type="table">
 				<entry key="class" type="string" value="ElementObjective"/>
 				<entry key="editor_name" type="string" value="signal"/>
 				<entry key="id" type="number" value="100037"/>
@@ -49493,7 +49472,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1836" type="table">
+			<entry index="1835" type="table">
 				<entry key="class" type="string" value="ElementObjective"/>
 				<entry key="editor_name" type="string" value="secure"/>
 				<entry key="id" type="number" value="100038"/>
@@ -49514,7 +49493,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1837" type="table">
+			<entry index="1836" type="table">
 				<entry key="class" type="string" value="ElementObjective"/>
 				<entry key="editor_name" type="string" value="escape"/>
 				<entry key="id" type="number" value="100039"/>
@@ -49539,7 +49518,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1838" type="table">
+			<entry index="1837" type="table">
 				<entry key="class" type="string" value="ElementObjective"/>
 				<entry key="editor_name" type="string" value="hack"/>
 				<entry key="id" type="number" value="100040"/>
@@ -49560,7 +49539,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1839" type="table">
+			<entry index="1838" type="table">
 				<entry key="class" type="string" value="ElementObjective"/>
 				<entry key="editor_name" type="string" value="protect"/>
 				<entry key="id" type="number" value="100041"/>
@@ -49581,7 +49560,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1840" type="table">
+			<entry index="1839" type="table">
 				<entry key="class" type="string" value="ElementObjective"/>
 				<entry key="editor_name" type="string" value="loot"/>
 				<entry key="id" type="number" value="100042"/>
@@ -49602,7 +49581,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1841" type="table">
+			<entry index="1840" type="table">
 				<entry key="class" type="string" value="ElementObjective"/>
 				<entry key="editor_name" type="string" value="payload"/>
 				<entry key="id" type="number" value="100047"/>
@@ -49623,7 +49602,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1842" type="table">
+			<entry index="1841" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="moving"/>
 				<entry key="id" type="number" value="100050"/>
@@ -49646,7 +49625,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1843" type="table">
+			<entry index="1842" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="emp_blasted"/>
 				<entry key="id" type="number" value="100051"/>
@@ -49675,7 +49654,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1844" type="table">
+			<entry index="1843" type="table">
 				<entry key="class" type="string" value="ElementObjective"/>
 				<entry key="editor_name" type="string" value="wait"/>
 				<entry key="id" type="number" value="100052"/>
@@ -49696,7 +49675,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1845" type="table">
+			<entry index="1844" type="table">
 				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
 				<entry key="editor_name" type="string" value="jammer_placed"/>
 				<entry key="id" type="number" value="100053"/>
@@ -49719,7 +49698,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1846" type="table">
+			<entry index="1845" type="table">
 				<entry key="class" type="string" value="ElementObjective"/>
 				<entry key="editor_name" type="string" value="drill"/>
 				<entry key="id" type="number" value="100054"/>
@@ -49740,7 +49719,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1847" type="table">
+			<entry index="1846" type="table">
 				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
 				<entry key="editor_name" type="string" value="escort_done"/>
 				<entry key="id" type="number" value="100055"/>
@@ -49763,7 +49742,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1848" type="table">
+			<entry index="1847" type="table">
 				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
 				<entry key="editor_name" type="string" value="truck_open"/>
 				<entry key="id" type="number" value="100049"/>
@@ -49786,7 +49765,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1849" type="table">
+			<entry index="1848" type="table">
 				<entry key="class" type="string" value="ElementUnitSequenceTrigger"/>
 				<entry key="editor_name" type="string" value="device_placed"/>
 				<entry key="id" type="number" value="100048"/>
@@ -49809,7 +49788,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1850" type="table">
+			<entry index="1849" type="table">
 				<entry key="class" type="string" value="ElementObjective"/>
 				<entry key="editor_name" type="string" value="place_jammer"/>
 				<entry key="id" type="number" value="100059"/>
@@ -49830,7 +49809,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1851" type="table">
+			<entry index="1850" type="table">
 				<entry key="class" type="string" value="ElementAreaTrigger"/>
 				<entry key="editor_name" type="string" value="area_trigger_jammer"/>
 				<entry key="id" type="number" value="100060"/>
@@ -49880,7 +49859,7 @@
 					<entry key="width" type="number" value="200"/>
 				</entry>
 			</entry>
-			<entry index="1852" type="table">
+			<entry index="1851" type="table">
 				<entry key="class" type="string" value="ElementAreaTrigger"/>
 				<entry key="editor_name" type="string" value="area_trigger_hijack"/>
 				<entry key="id" type="number" value="100061"/>
@@ -49934,7 +49913,7 @@
 					<entry key="width" type="number" value="100"/>
 				</entry>
 			</entry>
-			<entry index="1853" type="table">
+			<entry index="1852" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="toggle_005"/>
 				<entry key="id" type="number" value="100062"/>
@@ -49956,7 +49935,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1854" type="table">
+			<entry index="1853" type="table">
 				<entry key="class" type="string" value="ElementLootBag"/>
 				<entry key="editor_name" type="string" value="hijacker"/>
 				<entry key="id" type="number" value="100063"/>
@@ -49976,7 +49955,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1855" type="table">
+			<entry index="1854" type="table">
 				<entry key="class" type="string" value="ElementInstigatorRule"/>
 				<entry key="editor_name" type="string" value="instigator_jammer"/>
 				<entry key="id" type="number" value="100079"/>
@@ -50005,7 +49984,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1856" type="table">
+			<entry index="1855" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
 				<entry key="editor_name" type="string" value="output_jammer"/>
 				<entry key="id" type="number" value="100081"/>
@@ -50036,7 +50015,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1857" type="table">
+			<entry index="1856" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
 				<entry key="editor_name" type="string" value="instance_input_event_001"/>
 				<entry key="id" type="number" value="100084"/>
@@ -50059,7 +50038,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1858" type="table">
+			<entry index="1857" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
 				<entry key="editor_name" type="string" value="instance_input_event_002"/>
 				<entry key="id" type="number" value="100085"/>
@@ -50082,7 +50061,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1859" type="table">
+			<entry index="1858" type="table">
 				<entry key="class" type="string" value="ElementInstanceInputEvent"/>
 				<entry key="editor_name" type="string" value="instance_input_event_003"/>
 				<entry key="id" type="number" value="100086"/>
@@ -50101,7 +50080,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1860" type="table">
+			<entry index="1859" type="table">
 				<entry key="class" type="string" value="ElementEquipment"/>
 				<entry key="editor_name" type="string" value="equipment_001"/>
 				<entry key="id" type="number" value="100087"/>
@@ -50119,7 +50098,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1861" type="table">
+			<entry index="1860" type="table">
 				<entry key="class" type="string" value="ElementInstigatorRule"/>
 				<entry key="editor_name" type="string" value="instigator_hijacker"/>
 				<entry key="id" type="number" value="100088"/>
@@ -50148,7 +50127,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1862" type="table">
+			<entry index="1861" type="table">
 				<entry key="class" type="string" value="ElementInteraction"/>
 				<entry key="editor_name" type="string" value="alpha_gps"/>
 				<entry key="id" type="number" value="100089"/>
@@ -50178,7 +50157,7 @@
 					<entry key="tweak_data_id" type="string" value="start_hacking"/>
 				</entry>
 			</entry>
-			<entry index="1863" type="table">
+			<entry index="1862" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="toggle_006"/>
 				<entry key="id" type="number" value="100090"/>
@@ -50200,7 +50179,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1864" type="table">
+			<entry index="1863" type="table">
 				<entry key="class" type="string" value="ElementInteraction"/>
 				<entry key="editor_name" type="string" value="alpha_payload"/>
 				<entry key="id" type="number" value="100091"/>
@@ -50235,7 +50214,7 @@
 					<entry key="tweak_data_id" type="string" value="driving_console"/>
 				</entry>
 			</entry>
-			<entry index="1865" type="table">
+			<entry index="1864" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="toggle_007"/>
 				<entry key="id" type="number" value="100092"/>
@@ -50257,7 +50236,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1866" type="table">
+			<entry index="1865" type="table">
 				<entry key="class" type="string" value="ElementTimer"/>
 				<entry key="editor_name" type="string" value="alpha_hack"/>
 				<entry key="id" type="number" value="100093"/>
@@ -50290,7 +50269,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1867" type="table">
+			<entry index="1866" type="table">
 				<entry key="class" type="string" value="ElementTimerOperator"/>
 				<entry key="editor_name" type="string" value="timer_operator_001"/>
 				<entry key="id" type="number" value="100094"/>
@@ -50323,7 +50302,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1868" type="table">
+			<entry index="1867" type="table">
 				<entry key="class" type="string" value="ElementTimer"/>
 				<entry key="editor_name" type="string" value="timer_faux_escort"/>
 				<entry key="id" type="number" value="100105"/>
@@ -50371,7 +50350,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1869" type="table">
+			<entry index="1868" type="table">
 				<entry key="class" type="string" value="ElementTimerOperator"/>
 				<entry key="editor_name" type="string" value="fuax_escort_start"/>
 				<entry key="id" type="number" value="100108"/>
@@ -50396,7 +50375,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1870" type="table">
+			<entry index="1869" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="unit_sequence_002"/>
 				<entry key="id" type="number" value="100113"/>
@@ -50427,7 +50406,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1871" type="table">
+			<entry index="1870" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="unit_sequence_003"/>
 				<entry key="id" type="number" value="100115"/>
@@ -50458,7 +50437,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1872" type="table">
+			<entry index="1871" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="unit_sequence_004"/>
 				<entry key="id" type="number" value="100122"/>
@@ -50489,7 +50468,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1873" type="table">
+			<entry index="1872" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="unit_sequence_005"/>
 				<entry key="id" type="number" value="100123"/>
@@ -50520,7 +50499,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1874" type="table">
+			<entry index="1873" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="unit_sequence_006"/>
 				<entry key="id" type="number" value="100129"/>
@@ -50551,7 +50530,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1875" type="table">
+			<entry index="1874" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="unit_sequence_007"/>
 				<entry key="id" type="number" value="100131"/>
@@ -50582,7 +50561,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1876" type="table">
+			<entry index="1875" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="unit_sequence_008"/>
 				<entry key="id" type="number" value="100152"/>
@@ -50621,7 +50600,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1877" type="table">
+			<entry index="1876" type="table">
 				<entry key="class" type="string" value="ElementInteraction"/>
 				<entry key="editor_name" type="string" value="alpha_drill"/>
 				<entry key="id" type="number" value="100153"/>
@@ -50646,7 +50625,7 @@
 					<entry key="tweak_data_id" type="string" value="drill"/>
 				</entry>
 			</entry>
-			<entry index="1878" type="table">
+			<entry index="1877" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="toggle_008"/>
 				<entry key="id" type="number" value="100169"/>
@@ -50668,7 +50647,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1879" type="table">
+			<entry index="1878" type="table">
 				<entry key="class" type="string" value="ElementInteraction"/>
 				<entry key="editor_name" type="string" value="alpha_rewire"/>
 				<entry key="id" type="number" value="100170"/>
@@ -50698,7 +50677,7 @@
 					<entry key="tweak_data_id" type="string" value="hacking_barrier"/>
 				</entry>
 			</entry>
-			<entry index="1880" type="table">
+			<entry index="1879" type="table">
 				<entry key="class" type="string" value="ElementTimer"/>
 				<entry key="editor_name" type="string" value="timer_alpha_drill"/>
 				<entry key="id" type="number" value="100171"/>
@@ -50728,7 +50707,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1881" type="table">
+			<entry index="1880" type="table">
 				<entry key="class" type="string" value="ElementTimerOperator"/>
 				<entry key="editor_name" type="string" value="timer_operator_004"/>
 				<entry key="id" type="number" value="100172"/>
@@ -50752,7 +50731,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1882" type="table">
+			<entry index="1881" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="toggle_009"/>
 				<entry key="id" type="number" value="100173"/>
@@ -50774,7 +50753,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1883" type="table">
+			<entry index="1882" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="parachute_box_location_004"/>
 				<entry key="id" type="number" value="102391"/>
@@ -50799,7 +50778,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1884" type="table">
+			<entry index="1883" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="parachute_box_location_005"/>
 				<entry key="id" type="number" value="102390"/>
@@ -50824,7 +50803,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1885" type="table">
+			<entry index="1884" type="table">
 				<entry key="class" type="string" value="ElementLootBag"/>
 				<entry key="editor_name" type="string" value="rare_elements001"/>
 				<entry key="id" type="number" value="100005"/>
@@ -50844,7 +50823,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1886" type="table">
+			<entry index="1885" type="table">
 				<entry key="class" type="string" value="ElementLootBag"/>
 				<entry key="editor_name" type="string" value="rare_elements002"/>
 				<entry key="id" type="number" value="100021"/>
@@ -50864,7 +50843,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1887" type="table">
+			<entry index="1886" type="table">
 				<entry key="class" type="string" value="ElementLootBag"/>
 				<entry key="editor_name" type="string" value="rare_elements003"/>
 				<entry key="id" type="number" value="100057"/>
@@ -50884,7 +50863,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1888" type="table">
+			<entry index="1887" type="table">
 				<entry key="class" type="string" value="ElementGlobalEventTrigger"/>
 				<entry key="editor_name" type="string" value="beta_trigger"/>
 				<entry key="id" type="number" value="100174"/>
@@ -50906,7 +50885,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="1889" type="table">
+			<entry index="1888" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutputEvent"/>
 				<entry key="editor_name" type="string" value="increment_elements"/>
 				<entry key="id" type="number" value="100023"/>
@@ -50937,7 +50916,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1890" type="table">
+			<entry index="1889" type="table">
 				<entry key="class" type="string" value="ElementObjective"/>
 				<entry key="editor_name" type="string" value="objective_001"/>
 				<entry key="id" type="number" value="100175"/>
@@ -50958,7 +50937,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1891" type="table">
+			<entry index="1890" type="table">
 				<entry key="class" type="string" value="ElementAreaTrigger"/>
 				<entry key="editor_name" type="string" value="alpha_escape"/>
 				<entry key="id" type="number" value="100190"/>
@@ -50993,7 +50972,7 @@
 					<entry key="width" type="number" value="500"/>
 				</entry>
 			</entry>
-			<entry index="1892" type="table">
+			<entry index="1891" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="toggle_010"/>
 				<entry key="id" type="number" value="100191"/>
@@ -51019,7 +50998,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1893" type="table">
+			<entry index="1892" type="table">
 				<entry key="class" type="string" value="ElementWaypoint"/>
 				<entry key="editor_name" type="string" value="waypoint_escape"/>
 				<entry key="id" type="number" value="100197"/>
@@ -51038,7 +51017,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1894" type="table">
+			<entry index="1893" type="table">
 				<entry key="class" type="string" value="ElementCarry"/>
 				<entry key="editor_name" type="string" value="carry_jammer"/>
 				<entry key="id" type="number" value="100198"/>
@@ -51058,7 +51037,7 @@
 					<entry key="type_filter" type="string" value="equipment_bag"/>
 				</entry>
 			</entry>
-			<entry index="1895" type="table">
+			<entry index="1894" type="table">
 				<entry key="class" type="string" value="ElementCarry"/>
 				<entry key="editor_name" type="string" value="carry_hijacker"/>
 				<entry key="id" type="number" value="100199"/>
@@ -51078,7 +51057,7 @@
 					<entry key="type_filter" type="string" value="breaching_charges"/>
 				</entry>
 			</entry>
-			<entry index="1896" type="table">
+			<entry index="1895" type="table">
 				<entry key="class" type="string" value="ElementWaypoint"/>
 				<entry key="editor_name" type="string" value="waypoint_jammer"/>
 				<entry key="id" type="number" value="100200"/>
@@ -51097,7 +51076,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1897" type="table">
+			<entry index="1896" type="table">
 				<entry key="class" type="string" value="ElementWaypoint"/>
 				<entry key="editor_name" type="string" value="waypoint_hijacker"/>
 				<entry key="id" type="number" value="100202"/>
@@ -51116,7 +51095,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1898" type="table">
+			<entry index="1897" type="table">
 				<entry key="class" type="string" value="ElementWaypoint"/>
 				<entry key="editor_name" type="string" value="waypoint_hack"/>
 				<entry key="id" type="number" value="100203"/>
@@ -51135,7 +51114,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1899" type="table">
+			<entry index="1898" type="table">
 				<entry key="class" type="string" value="ElementWaypoint"/>
 				<entry key="editor_name" type="string" value="waypoint_gps"/>
 				<entry key="id" type="number" value="100204"/>
@@ -51154,7 +51133,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1900" type="table">
+			<entry index="1899" type="table">
 				<entry key="class" type="string" value="ElementOperator"/>
 				<entry key="editor_name" type="string" value="operator_001"/>
 				<entry key="id" type="number" value="100205"/>
@@ -51175,7 +51154,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1901" type="table">
+			<entry index="1900" type="table">
 				<entry key="class" type="string" value="ElementOperator"/>
 				<entry key="editor_name" type="string" value="operator_002"/>
 				<entry key="id" type="number" value="100206"/>
@@ -51196,7 +51175,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1902" type="table">
+			<entry index="1901" type="table">
 				<entry key="class" type="string" value="ElementOperator"/>
 				<entry key="editor_name" type="string" value="operator_003"/>
 				<entry key="id" type="number" value="100207"/>
@@ -51217,7 +51196,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1903" type="table">
+			<entry index="1902" type="table">
 				<entry key="class" type="string" value="ElementOperator"/>
 				<entry key="editor_name" type="string" value="operator_004"/>
 				<entry key="id" type="number" value="100208"/>
@@ -51238,7 +51217,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1904" type="table">
+			<entry index="1903" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="truck_show"/>
 				<entry key="id" type="number" value="100058"/>
@@ -51271,7 +51250,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1905" type="table">
+			<entry index="1904" type="table">
 				<entry key="class" type="string" value="ElementObjective"/>
 				<entry key="editor_name" type="string" value="hijacker"/>
 				<entry key="id" type="number" value="100064"/>
@@ -51292,7 +51271,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="1906" type="table">
+			<entry index="1905" type="table">
 				<entry key="class" type="string" value="ElementObjective"/>
 				<entry key="editor_name" type="string" value="rewire"/>
 				<entry key="id" type="number" value="100072"/>
@@ -51310,6 +51289,23 @@
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="state" type="string" value="complete_and_activate"/>
 					<entry key="sub_objective" type="string" value="none"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="1906" type="table">
+				<entry key="class" type="string" value="ElementFleePoint"/>
+				<entry key="editor_name" type="string" value="point_fleepoint_028"/>
+				<entry key="id" type="number" value="101499"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="functionality" type="string" value="flee_point"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-469 -4050 5209.14"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
