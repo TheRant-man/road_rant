@@ -51303,6 +51303,10 @@
 			<entry index="51" type="string" value="fex_helicopter_flare_001"/>
 			<entry index="52" type="string" value="road_equipment_box_001"/>
 			<entry index="53" type="string" value="road_equipment_box_002"/>
+			<entry index="54" type="string" value="road_ramp_001"/>
+			<entry index="55" type="string" value="road_ramp_002"/>
+			<entry index="56" type="string" value="road_ramp_003"/>
+			<entry index="57" type="string" value="road_ramp_004"/>
 		</entry>
 		<entry key="name" type="string" value="default"/>
 	</entry>

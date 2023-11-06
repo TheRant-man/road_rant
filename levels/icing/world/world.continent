@@ -118,6 +118,10 @@
 		<table continent="world" folder="levels/instances/unique/fex/fex_helicopter_flare/world" index_size="250" name="fex_helicopter_flare_001" position="-1318.96 -29473.1 5699.95" rotation="0 0 0 1" script="default" start_index="10400"/>
 		<table continent="world" folder="levels/instances/mods/road_rant/road_equipment_box/world" index_size="250" name="road_equipment_box_001" position="-1644 -19037 5838" rotation="-0 0 -0 -1" script="default" start_index="10650"/>
 		<table continent="world" folder="levels/instances/mods/road_rant/road_equipment_box/world" index_size="250" name="road_equipment_box_002" position="-1643 -19125 5838" rotation="-0 0 -0 -1" script="default" start_index="10900"/>
+		<table continent="world" folder="levels/instances/mods/road_rant/road_ramp/world" index_size="250" name="road_ramp_001" position="-1818.67 -18390 5801.41" rotation="0 0 0 1" script="default" start_index="2300"/>
+		<table continent="world" folder="levels/instances/mods/road_rant/road_ramp/world" index_size="250" name="road_ramp_002" position="-1542.65 -19621.9 6043.88" rotation="0 0 0 1" script="default" start_index="9750"/>
+		<table continent="world" folder="levels/instances/mods/road_rant/road_ramp/world" index_size="250" name="road_ramp_003" position="-1626.01 -25026.2 5755.78" rotation="0 0 0 1" script="default" start_index="11150"/>
+		<table continent="world" folder="levels/instances/mods/road_rant/road_ramp/world" index_size="250" name="road_ramp_004" position="-1797.9 -26570.7 5743.85" rotation="0 0 0 1" script="default" start_index="11400"/>
 	</instances>
 	<statics>
 		<table>
@@ -2030,8 +2034,8 @@
 		<table>
 			<unit_data _prev_pos="-1374.59 -30991.8 5765.96" _prev_rot="0.0381319 0.00151006 -0.00867524 -0.999234" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="deactivate_door" name="units/pd2_dlc1/vehicles/str_vehicle_truck_gensec_transport/str_vehicle_truck_gensec_transport" name_id="truck_end_placeholder" position="-1372.62 -31106.1 5775.93" rotation="0.0119727 -0 -0 -0.999928" unit_id="102105">
 				<lights>
-					<table clipping_values="10000 -10000 0" color="1 0.858824 0.576471" enabled="true" falloff_exponent="4" far_range="150" multiplier="searchlight" name="lo_omni_1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
-					<table clipping_values="10000 -10000 0" color="1 0.861 0.584" enabled="true" falloff_exponent="4" far_range="150" multiplier="searchlight" name="lo_omni_2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
+					<table clipping_values="10000 -10000 0" color="1 0.858824 0.576471" enabled="true" falloff_exponent="4" far_range="150" multiplier="@ID5035addc43a80b74@" name="lo_omni_1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 0.861 0.584" enabled="true" falloff_exponent="4" far_range="150" multiplier="@ID5035addc43a80b74@" name="lo_omni_2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
 				</lights>
 			</unit_data>
 		</table>
@@ -10262,7 +10266,7 @@
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_small_01" name_id="run_prop_concrete_barrier_small_01_002" position="-1549.62 -20266.1 5773.35" rotation="0 0 0.999592 -0.0285772" unit_id="100297"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_pallet" name_id="ind_prop_warehouse_pallet_001" position="-1547 -19690 6029.22" rotation="0 0 -0.707107 -0.707107" unit_id="100377"/>
+			<unit_data _prev_pos="-1622 -19690 6029.22" _prev_rot="0 0 -0.707107 -0.707107" _visibility_counter="0" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_pallet" name_id="ind_prop_warehouse_pallet_001" position="-1552 -19690 6029.22" rotation="0 0 -0.707107 -0.707107" unit_id="100377"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/ind_prop_warehouse_set/ind_prop_warehouse_pallet" name_id="ind_prop_warehouse_pallet_002" position="-2047.02 -19734.6 5863.26" rotation="0.468543 -0.468543 -0.529592 -0.529592" unit_id="100794"/>
