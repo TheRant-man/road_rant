@@ -67,7 +67,6 @@
 			</sky>
 		</underlay_effect>
 		<environment_effects>
-			<param key="effects" value="lightning;rain"/>
 		</environment_effects>
 	</data>
 </environment>
