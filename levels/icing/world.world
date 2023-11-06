@@ -4230,20 +4230,12 @@
 			</entry>
 			<entry key="group3" type="table">
 				<entry key="ids" type="table">
-					<entry index="100007" type="boolean" value="true"/>
-					<entry index="100014" type="boolean" value="true"/>
-					<entry index="100015" type="boolean" value="true"/>
-					<entry index="100017" type="boolean" value="true"/>
-					<entry index="100019" type="boolean" value="true"/>
 					<entry index="100021" type="boolean" value="true"/>
 					<entry index="100023" type="boolean" value="true"/>
-					<entry index="100024" type="boolean" value="true"/>
-					<entry index="100026" type="boolean" value="true"/>
 					<entry index="100030" type="boolean" value="true"/>
 					<entry index="100031" type="boolean" value="true"/>
 					<entry index="100032" type="boolean" value="true"/>
 					<entry index="100036" type="boolean" value="true"/>
-					<entry index="100038" type="boolean" value="true"/>
 					<entry index="100040" type="boolean" value="true"/>
 					<entry index="100041" type="boolean" value="true"/>
 					<entry index="100047" type="boolean" value="true"/>
@@ -4253,14 +4245,10 @@
 					<entry index="100059" type="boolean" value="true"/>
 					<entry index="100060" type="boolean" value="true"/>
 					<entry index="100063" type="boolean" value="true"/>
-					<entry index="100273" type="boolean" value="true"/>
 					<entry index="100331" type="boolean" value="true"/>
 					<entry index="100477" type="boolean" value="true"/>
 					<entry index="100987" type="boolean" value="true"/>
 					<entry index="101347" type="boolean" value="true"/>
-					<entry index="101358" type="boolean" value="true"/>
-					<entry index="101631" type="boolean" value="true"/>
-					<entry index="101632" type="boolean" value="true"/>
 					<entry index="101922" type="boolean" value="true"/>
 					<entry index="102037" type="boolean" value="true"/>
 					<entry index="102112" type="boolean" value="true"/>
@@ -4268,7 +4256,6 @@
 					<entry index="104989" type="boolean" value="true"/>
 					<entry index="104992" type="boolean" value="true"/>
 					<entry index="105009" type="boolean" value="true"/>
-					<entry index="105106" type="boolean" value="true"/>
 				</entry>
 				<entry key="shapes" type="table">
 					<entry index="1" type="table">

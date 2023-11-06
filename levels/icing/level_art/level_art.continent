@@ -11,8 +11,6 @@
 				<value_node value="300069"/>
 				<value_node value="300082"/>
 				<value_node value="300103"/>
-				<value_node value="300109"/>
-				<value_node value="300133"/>
 				<value_node value="300134"/>
 				<value_node value="300141"/>
 				<value_node value="300151"/>
@@ -78,20 +76,6 @@
 		</table>
 		<table>
 			<unit_data continent="level_art" name="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01" name_id="light_omni_shadow_projection_01_009" position="-2252 -11171 6208" projection_light="lo_omni" rotation="0 0 0 -1" unit_id="300103">
-				<lights>
-					<table clipping_values="10000 -10000 0" color="0.713726 0.854902 0.870588" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="lo_omni" near_range="80" spot_angle_end="-1" spot_angle_start="-1"/>
-				</lights>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data continent="level_art" name="core/units/light_omni/light_omni" name_id="light_omni_026" position="-652 -9696 5876" rotation="0 0 0 -1" unit_id="300109">
-				<lights>
-					<table clipping_values="10000 -10000 0" color="0.713726 0.854902 0.870588" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="lo_omni" near_range="80" spot_angle_end="-1" spot_angle_start="-1"/>
-				</lights>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data continent="level_art" name="units/lights/light_omni_shadow_projection_01/light_omni_shadow_projection_01" name_id="light_omni_shadow_projection_01_010" position="-2252 -8164 6108" projection_light="lo_omni" rotation="0 0 0 -1" unit_id="300133">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="0.713726 0.854902 0.870588" enabled="true" falloff_exponent="1" far_range="1200" multiplier="@ID5035addc43a80b74@" name="lo_omni" near_range="80" spot_angle_end="-1" spot_angle_start="-1"/>
 				</lights>
