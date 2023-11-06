@@ -127,8 +127,8 @@
 		<table continent="world" folder="levels/instances/mods/road_rant/fri_heli/world" index_size="250" name="fri_heli_001" position="-4500.53 -22740.3 6098.54" rotation="0 0 -1 -4.37114e-008" script="default" start_index="5950"/>
 		<table continent="world" folder="levels/instances/mods/road_rant/fri_heli/world" index_size="250" name="fri_heli_002" position="1572.32 -33211.1 5865.1" rotation="0 0 0 1" script="default" start_index="10150"/>
 		<table continent="world" folder="levels/instances/unique/fex/fex_helicopter_flare/world" index_size="250" name="fex_helicopter_flare_001" position="-1318.96 -29473.1 5699.95" rotation="0 0 0 1" script="default" start_index="10400"/>
-		<table continent="world" folder="levels/instances/mods/road_rant/road_equipment_box/world" index_size="250" name="road_equipment_box_001" position="-1644 -19037 5841.47" rotation="-0 0 -0 -1" script="default" start_index="10650"/>
-		<table continent="world" folder="levels/instances/mods/road_rant/road_equipment_box/world" index_size="250" name="road_equipment_box_002" position="-1643 -19125 5836.93" rotation="-0 0 -0 -1" script="default" start_index="10900"/>
+		<table continent="world" folder="levels/instances/mods/road_rant/road_equipment_box/world" index_size="250" name="road_equipment_box_001" position="-1644 -19037 5838" rotation="-0 0 -0 -1" script="default" start_index="10650"/>
+		<table continent="world" folder="levels/instances/mods/road_rant/road_equipment_box/world" index_size="250" name="road_equipment_box_002" position="-1643 -19125 5838" rotation="-0 0 -0 -1" script="default" start_index="10900"/>
 	</instances>
 	<statics>
 		<table>
