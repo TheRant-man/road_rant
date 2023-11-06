@@ -36,4 +36,4 @@ rewire_desc: "Rewire the magnetic lock"
 wait_bile: "Wait for Bile"
 wait_bile_desc: "Wait for Bile to swoop in for the loot."
 # equipment
-hud_carry_carry_road_rant_minerals: "Rare Minerals"
+hud_carry_road_rant_minerals: "Rare Minerals"
