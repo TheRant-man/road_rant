@@ -1,0 +1,10 @@
+<table>
+	<statics>
+		<table>
+			<unit_data continent="world" mesh_variation="state_hide" name="units/pd2_dlc2/architecture/str_ext_road_c/str_construction_metal_sheet_interactable" name_id="str_construction_metal_sheet_interactable_001" position="0 0 4" rotation="0 0 0 -1" unit_id="100000"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

@@ -5,8 +5,10 @@
 	<objective description="place_ramp_desc" id="place_ramp" text="place_ramp"/>
 	<objective description="hack_truck_desc" id="hack_truck" text="hack_truck"/>
 	<objective description="protecc_hacc_desc" id="protecc_hacc" text="protecc_hacc"/>
-	<objective amount="4" description="secure_loot_desc" id="secure_loot" text="secure_loot"/>
+	<objective description="secure_loot_desc" id="secure_loot" text="secure_loot"/>
 	<objective description="loot_truck_desc" id="loot_truck" text="loot_truck"/>
 	<objective description="signal_desc" id="signal" text="signal"/>
 	<objective description="civies_desc" id="civies" text="civies"/>
+	<objective description="truck_wait_desc" id="truck_wait" text="truck_wait"/>
+	<objective description="jammer_place_desc" id="jammer_place" text="jammer_place"/>
 </table>

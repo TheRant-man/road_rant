@@ -488,15 +488,6 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-480 -31250.1 5659.15" _prev_rot="-0.00959916 -5.72099e-010 -5.8019e-012 -0.999954" _visibility_counter="0" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/str_vehicle_bmw/str_vehicle_bmw" name_id="vehicle_bmw_010" position="-480 -31250.1 5659.15" rotation="9.91692e-010 -0.00959916 0.999954 4.37036e-008" unit_id="100450">
-				<lights>
-					<table clipping_values="10000 -10000 0" color="1 0.94 0.7" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
-					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
-					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDbca13ba1d306f87b@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
-				</lights>
-			</unit_data>
-		</table>
-		<table>
 			<unit_data continent="world" name="units/dev_tools/level_tools/ai_blockade" name_id="ai_blockade_007" position="-525 -23450 5751.03" rotation="0 0 0 -1" unit_id="100451"/>
 		</table>
 		<table>
@@ -539,7 +530,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1658.52 -31238 5666.68" _prev_rot="0 -0.00139626 0 -0.999999" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_fake_lights_on" name="units/vehicles/truck_regular/man_vehicle_truck" name_id="man_vehicle_truck_006" position="-1989.52 -31238 5667.6" rotation="0 -0.00139626 0 -0.999999" unit_id="100461">
+			<unit_data _prev_pos="-2185.52 -30418 5668.15" _prev_rot="0 -0.00139626 0 -0.999999" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_fake_lights_on" name="units/vehicles/truck_regular/man_vehicle_truck" name_id="man_vehicle_truck_006" position="-2185.52 -30418 5668.15" rotation="0 -0.00139626 0 -0.999999" unit_id="100461">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 0.937255 0.698039" enabled="false" falloff_exponent="1" far_range="1000" multiplier="@IDbca13ba1d306f87b@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
 					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="1000" multiplier="@IDbca13ba1d306f87b@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
@@ -3358,9 +3349,9 @@
 			<unit_data continent="world" name="units/dev_tools/level_tools/dev_collision_1m_2" name_id="dev_collision_1m_2_064" position="-1929 -26546 6324.65" rotation="0 0 -0.707107 -0.707107" unit_id="102958"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1237.83 -11586.2 5795.07" _prev_rot="0.0174498 0.0174498 0.000304587 -0.999695" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="deactivate_door" name="units/pd2_dlc1/vehicles/str_vehicle_truck_gensec_transport/str_vehicle_truck_gensec_transport" name_id="truck_start_placeholder" position="-1237.83 -11586.2 5795.07" rotation="0.0174498 0.0174498 0.000304587 -0.999695" unit_id="102519">
+			<unit_data _prev_pos="-1237.83 -11586.2 5795.07" _prev_rot="0 0 0 -1" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="deactivate_door" name="units/pd2_dlc1/vehicles/str_vehicle_truck_gensec_transport/str_vehicle_truck_gensec_transport" name_id="truck_start_placeholder" position="-1004.83 -11586.2 5795.07" rotation="0 0 0 -1" unit_id="102519">
 				<lights>
-					<table clipping_values="10000 -10000 0" color="1 0.858824 0.580392" enabled="true" falloff_exponent="4" far_range="150" multiplier="@ID5035addc43a80b74@" name="lo_omni_1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
+					<table clipping_values="10000 -10000 0" color="1 0.858824 0.576471" enabled="true" falloff_exponent="4" far_range="150" multiplier="@ID5035addc43a80b74@" name="lo_omni_1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
 					<table clipping_values="10000 -10000 0" color="1 0.861 0.584" enabled="true" falloff_exponent="4" far_range="150" multiplier="@ID5035addc43a80b74@" name="lo_omni_2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
 				</lights>
 			</unit_data>
@@ -4689,7 +4680,7 @@
 			<unit_data continent="world" name="units/dev_tools/level_tools/dev_collision/dev_collision_1x3m" name_id="dev_collision_1x3m_295" position="-2553.99 -39604 6310" rotation="0 0 -0.707107 -0.707107" unit_id="101677"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2193 -23821 5758.59" _prev_rot="0 0 1 -1.19209e-007" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/vehicles/glc_vehicle_truck_skidsteerloader/glc_vehicle_truck_skidsteerloader_breaker" name_id="glc_vehicle_truck_skidsteerloader_breaker_001" position="-2193 -23821 5758.59" rotation="0 0 -1.6292e-007 -1" unit_id="100594"/>
+			<unit_data _prev_pos="-2278.87 -31444.7 5658.65" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/vehicles/glc_vehicle_truck_skidsteerloader/glc_vehicle_truck_skidsteerloader_breaker" name_id="glc_vehicle_truck_skidsteerloader_breaker_001" position="-2278.87 -31238.7 5658.65" rotation="0 0 0.707107 -0.707107" unit_id="100594"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_on_ai_graph="true" disable_shadows="true" mesh_variation="close" name="units/world/props/street/plywood_fence/plywood_fence_door" name_id="plywood_fence_door_002" position="-2561 -23086 5920.48" rotation="0 0 -0.707107 -0.707107" unit_id="101359"/>
@@ -9063,15 +9054,6 @@
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="2000" multiplier="@ID18ceffa252d5a43d@" name="ls_left" near_range="0" spot_angle_end="40" spot_angle_start="40"/>
 					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="2000" multiplier="@ID18ceffa252d5a43d@" name="ls_right" near_range="0" spot_angle_end="40" spot_angle_start="40"/>
-					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
-				</lights>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data _prev_pos="-950 -31200.1 5662.15" _prev_rot="-4.07454e-010 -0.00959916 0.999954 -8.19564e-008" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_fake_lights_on" name="units/payday2/vehicles/str_vehicle_car_taxi/str_vehicle_car_taxi" name_id="vehicle_taxi_061" position="-950 -31200.1 5662.15" rotation="0.00959916 1.21387e-011 3.8247e-008 0.999954" unit_id="105186">
-				<lights>
-					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@ID18ceffa252d5a43d@" name="ls_left" near_range="0" spot_angle_end="40" spot_angle_start="40"/>
-					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@ID18ceffa252d5a43d@" name="ls_right" near_range="0" spot_angle_end="40" spot_angle_start="40"/>
 					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
 				</lights>
 			</unit_data>
@@ -13477,6 +13459,15 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="1552.32 -33199.1 5235.07" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 -968" local_rot="0 0 0 1" name="units/dev_tools/level_tools/collision/dev_collision_20m/dev_collision_20m" name_id="dev_collision_20m_008" only_visible_in_editor="true" position="1570.32 -33199.1 5235.07" rotation="0 0 0 -1" unit_id="100077"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2278.87 -31238.7 5658.65" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/vehicles/glc_vehicle_truck_skidsteerloader/glc_vehicle_truck_skidsteerloader_breaker" name_id="glc_vehicle_truck_skidsteerloader_breaker_002" position="-2278.87 -31402.7 5658.65" rotation="0 0 0.707107 -0.707107" unit_id="100078"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-451.6 -31216.8 5663.42" _prev_rot="9.31357e-010 -0.00872653 0.999962 -8.94176e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/props/glc_prop_construction_cementpallet/glc_prop_construction_cementpallet" name_id="glc_prop_construction_cementpallet_004" position="-451.6 -31216.8 5663.42" rotation="9.31357e-010 -0.00872653 0.999962 -8.94176e-008" unit_id="100080"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1189.61 -29816.9 5692.75" _prev_rot="9.31358e-010 -0.00872653 0.999962 -8.94196e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/props/glc_prop_construction_cementpallet/glc_prop_construction_cementpallet" name_id="glc_prop_construction_cementpallet_005" position="-1189.61 -29816.9 5692.75" rotation="9.31358e-010 -0.00872653 0.999962 -8.94196e-008" unit_id="100082"/>
 		</table>
 	</statics>
 	<values>
