@@ -1,123 +1,6 @@
 <generic_scriptdata type="table">
 	<entry key="ai" type="table">
 		<entry index="1" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_001"/>
-				<entry key="position" type="vector3" value="-2025 -9689 5790.4"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="62"/>
-			</entry>
-		</entry>
-		<entry index="2" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_002"/>
-				<entry key="position" type="vector3" value="-1900 -11500 5802.41"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="63"/>
-			</entry>
-		</entry>
-		<entry index="3" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_003"/>
-				<entry key="position" type="vector3" value="-1350 -14350 5813.96"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="64"/>
-			</entry>
-		</entry>
-		<entry index="4" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_004"/>
-				<entry key="position" type="vector3" value="-2300 -17250 5799.07"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="65"/>
-			</entry>
-		</entry>
-		<entry index="5" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_005"/>
-				<entry key="position" type="vector3" value="-1957 -20000 5806.31"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="66"/>
-			</entry>
-		</entry>
-		<entry index="6" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_006"/>
-				<entry key="position" type="vector3" value="-2050 -20950 5817.82"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="67"/>
-			</entry>
-		</entry>
-		<entry index="7" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_007"/>
-				<entry key="position" type="vector3" value="-2076 -22250 5778.75"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="68"/>
-			</entry>
-		</entry>
-		<entry index="8" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_008"/>
-				<entry key="position" type="vector3" value="-2693 -22430 5920.48"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="69"/>
-			</entry>
-		</entry>
-		<entry index="9" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_009"/>
-				<entry key="position" type="vector3" value="-2700 -22420 5912"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="70"/>
-			</entry>
-		</entry>
-		<entry index="10" type="table">
-			<entry key="ai_editor_data" type="table">
-				<entry key="detection_mul" type="number" value="1"/>
-				<entry key="location_id" type="string" value="location_unknown"/>
-				<entry key="suspicion_mul" type="number" value="1"/>
-				<entry key="visibilty_exlude_filter" type="table">
-				</entry>
-				<entry key="visibilty_include_filter" type="table">
-				</entry>
-			</entry>
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
-				<entry key="name_id" type="string" value="nav_surface_001"/>
-				<entry key="position" type="vector3" value="-1080 -5753 5761"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="2"/>
-			</entry>
-		</entry>
-		<entry index="11" type="table">
-			<entry key="ai_editor_data" type="table">
-				<entry key="detection_mul" type="number" value="1"/>
-				<entry key="location_id" type="string" value="location_unknown"/>
-				<entry key="suspicion_mul" type="number" value="1"/>
-				<entry key="visibilty_exlude_filter" type="table">
-				</entry>
-				<entry key="visibilty_include_filter" type="table">
-				</entry>
-			</entry>
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
-				<entry key="name_id" type="string" value="nav_surface_002"/>
-				<entry key="position" type="vector3" value="-1300 -8700 5778"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="3"/>
-			</entry>
-		</entry>
-		<entry index="12" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -135,7 +18,7 @@
 				<entry key="unit_id" type="number" value="4"/>
 			</entry>
 		</entry>
-		<entry index="13" type="table">
+		<entry index="2" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -153,7 +36,7 @@
 				<entry key="unit_id" type="number" value="6"/>
 			</entry>
 		</entry>
-		<entry index="14" type="table">
+		<entry index="3" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -171,7 +54,7 @@
 				<entry key="unit_id" type="number" value="7"/>
 			</entry>
 		</entry>
-		<entry index="15" type="table">
+		<entry index="4" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -189,7 +72,7 @@
 				<entry key="unit_id" type="number" value="13"/>
 			</entry>
 		</entry>
-		<entry index="16" type="table">
+		<entry index="5" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -207,7 +90,7 @@
 				<entry key="unit_id" type="number" value="20"/>
 			</entry>
 		</entry>
-		<entry index="17" type="table">
+		<entry index="6" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -229,7 +112,7 @@
 				<entry key="unit_id" type="number" value="21"/>
 			</entry>
 		</entry>
-		<entry index="18" type="table">
+		<entry index="7" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -247,7 +130,7 @@
 				<entry key="unit_id" type="number" value="22"/>
 			</entry>
 		</entry>
-		<entry index="19" type="table">
+		<entry index="8" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -265,7 +148,7 @@
 				<entry key="unit_id" type="number" value="23"/>
 			</entry>
 		</entry>
-		<entry index="20" type="table">
+		<entry index="9" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -283,7 +166,7 @@
 				<entry key="unit_id" type="number" value="24"/>
 			</entry>
 		</entry>
-		<entry index="21" type="table">
+		<entry index="10" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -301,7 +184,7 @@
 				<entry key="unit_id" type="number" value="25"/>
 			</entry>
 		</entry>
-		<entry index="22" type="table">
+		<entry index="11" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -319,7 +202,7 @@
 				<entry key="unit_id" type="number" value="26"/>
 			</entry>
 		</entry>
-		<entry index="23" type="table">
+		<entry index="12" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -337,7 +220,7 @@
 				<entry key="unit_id" type="number" value="27"/>
 			</entry>
 		</entry>
-		<entry index="24" type="table">
+		<entry index="13" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -355,7 +238,7 @@
 				<entry key="unit_id" type="number" value="28"/>
 			</entry>
 		</entry>
-		<entry index="25" type="table">
+		<entry index="14" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -373,7 +256,7 @@
 				<entry key="unit_id" type="number" value="29"/>
 			</entry>
 		</entry>
-		<entry index="26" type="table">
+		<entry index="15" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -391,7 +274,7 @@
 				<entry key="unit_id" type="number" value="30"/>
 			</entry>
 		</entry>
-		<entry index="27" type="table">
+		<entry index="16" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -409,7 +292,7 @@
 				<entry key="unit_id" type="number" value="31"/>
 			</entry>
 		</entry>
-		<entry index="28" type="table">
+		<entry index="17" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -427,7 +310,7 @@
 				<entry key="unit_id" type="number" value="32"/>
 			</entry>
 		</entry>
-		<entry index="29" type="table">
+		<entry index="18" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -445,7 +328,7 @@
 				<entry key="unit_id" type="number" value="34"/>
 			</entry>
 		</entry>
-		<entry index="30" type="table">
+		<entry index="19" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -463,7 +346,7 @@
 				<entry key="unit_id" type="number" value="35"/>
 			</entry>
 		</entry>
-		<entry index="31" type="table">
+		<entry index="20" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -481,7 +364,7 @@
 				<entry key="unit_id" type="number" value="36"/>
 			</entry>
 		</entry>
-		<entry index="32" type="table">
+		<entry index="21" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -499,7 +382,7 @@
 				<entry key="unit_id" type="number" value="37"/>
 			</entry>
 		</entry>
-		<entry index="33" type="table">
+		<entry index="22" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -517,7 +400,7 @@
 				<entry key="unit_id" type="number" value="38"/>
 			</entry>
 		</entry>
-		<entry index="34" type="table">
+		<entry index="23" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -535,7 +418,7 @@
 				<entry key="unit_id" type="number" value="39"/>
 			</entry>
 		</entry>
-		<entry index="35" type="table">
+		<entry index="24" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -553,7 +436,7 @@
 				<entry key="unit_id" type="number" value="40"/>
 			</entry>
 		</entry>
-		<entry index="36" type="table">
+		<entry index="25" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -571,7 +454,7 @@
 				<entry key="unit_id" type="number" value="41"/>
 			</entry>
 		</entry>
-		<entry index="37" type="table">
+		<entry index="26" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -589,7 +472,7 @@
 				<entry key="unit_id" type="number" value="42"/>
 			</entry>
 		</entry>
-		<entry index="38" type="table">
+		<entry index="27" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -607,61 +490,7 @@
 				<entry key="unit_id" type="number" value="43"/>
 			</entry>
 		</entry>
-		<entry index="39" type="table">
-			<entry key="ai_editor_data" type="table">
-				<entry key="detection_mul" type="number" value="1"/>
-				<entry key="location_id" type="string" value="location_unknown"/>
-				<entry key="suspicion_mul" type="number" value="1"/>
-				<entry key="visibilty_exlude_filter" type="table">
-				</entry>
-				<entry key="visibilty_include_filter" type="table">
-				</entry>
-			</entry>
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
-				<entry key="name_id" type="string" value="nav_surface_031"/>
-				<entry key="position" type="vector3" value="2839 -7209 7909"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="44"/>
-			</entry>
-		</entry>
-		<entry index="40" type="table">
-			<entry key="ai_editor_data" type="table">
-				<entry key="detection_mul" type="number" value="1"/>
-				<entry key="location_id" type="string" value="location_unknown"/>
-				<entry key="suspicion_mul" type="number" value="1"/>
-				<entry key="visibilty_exlude_filter" type="table">
-				</entry>
-				<entry key="visibilty_include_filter" type="table">
-				</entry>
-			</entry>
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
-				<entry key="name_id" type="string" value="nav_surface_032"/>
-				<entry key="position" type="vector3" value="3039 -1281 8109"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="45"/>
-			</entry>
-		</entry>
-		<entry index="41" type="table">
-			<entry key="ai_editor_data" type="table">
-				<entry key="detection_mul" type="number" value="1"/>
-				<entry key="location_id" type="string" value="location_unknown"/>
-				<entry key="suspicion_mul" type="number" value="1"/>
-				<entry key="visibilty_exlude_filter" type="table">
-				</entry>
-				<entry key="visibilty_include_filter" type="table">
-				</entry>
-			</entry>
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
-				<entry key="name_id" type="string" value="nav_surface_033"/>
-				<entry key="position" type="vector3" value="-4205 -2111 8332"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="46"/>
-			</entry>
-		</entry>
-		<entry index="42" type="table">
+		<entry index="28" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -679,7 +508,7 @@
 				<entry key="unit_id" type="number" value="47"/>
 			</entry>
 		</entry>
-		<entry index="43" type="table">
+		<entry index="29" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -697,7 +526,7 @@
 				<entry key="unit_id" type="number" value="48"/>
 			</entry>
 		</entry>
-		<entry index="44" type="table">
+		<entry index="30" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -715,7 +544,7 @@
 				<entry key="unit_id" type="number" value="49"/>
 			</entry>
 		</entry>
-		<entry index="45" type="table">
+		<entry index="31" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -733,7 +562,7 @@
 				<entry key="unit_id" type="number" value="50"/>
 			</entry>
 		</entry>
-		<entry index="46" type="table">
+		<entry index="32" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -751,7 +580,7 @@
 				<entry key="unit_id" type="number" value="51"/>
 			</entry>
 		</entry>
-		<entry index="47" type="table">
+		<entry index="33" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -769,7 +598,7 @@
 				<entry key="unit_id" type="number" value="52"/>
 			</entry>
 		</entry>
-		<entry index="48" type="table">
+		<entry index="34" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -787,7 +616,7 @@
 				<entry key="unit_id" type="number" value="53"/>
 			</entry>
 		</entry>
-		<entry index="49" type="table">
+		<entry index="35" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -805,7 +634,7 @@
 				<entry key="unit_id" type="number" value="54"/>
 			</entry>
 		</entry>
-		<entry index="50" type="table">
+		<entry index="36" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -823,7 +652,7 @@
 				<entry key="unit_id" type="number" value="55"/>
 			</entry>
 		</entry>
-		<entry index="51" type="table">
+		<entry index="37" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -841,7 +670,7 @@
 				<entry key="unit_id" type="number" value="57"/>
 			</entry>
 		</entry>
-		<entry index="52" type="table">
+		<entry index="38" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -859,7 +688,7 @@
 				<entry key="unit_id" type="number" value="72"/>
 			</entry>
 		</entry>
-		<entry index="53" type="table">
+		<entry index="39" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -877,7 +706,7 @@
 				<entry key="unit_id" type="number" value="73"/>
 			</entry>
 		</entry>
-		<entry index="54" type="table">
+		<entry index="40" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -895,331 +724,7 @@
 				<entry key="unit_id" type="number" value="79"/>
 			</entry>
 		</entry>
-		<entry index="55" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_010"/>
-				<entry key="position" type="vector3" value="-671 -9329 5799"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="80"/>
-			</entry>
-		</entry>
-		<entry index="56" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_011"/>
-				<entry key="position" type="vector3" value="-700 -10500 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="81"/>
-			</entry>
-		</entry>
-		<entry index="57" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_012"/>
-				<entry key="position" type="vector3" value="-1000 -11100 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="82"/>
-			</entry>
-		</entry>
-		<entry index="58" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_013"/>
-				<entry key="position" type="vector3" value="-1000 -11300 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="83"/>
-			</entry>
-		</entry>
-		<entry index="59" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_014"/>
-				<entry key="position" type="vector3" value="-1056 -12000 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="84"/>
-			</entry>
-		</entry>
-		<entry index="60" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_015"/>
-				<entry key="position" type="vector3" value="-753 -12398 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="85"/>
-			</entry>
-		</entry>
-		<entry index="61" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_016"/>
-				<entry key="position" type="vector3" value="-600 -12900 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="86"/>
-			</entry>
-		</entry>
-		<entry index="62" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_017"/>
-				<entry key="position" type="vector3" value="-631 -13800 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="87"/>
-			</entry>
-		</entry>
-		<entry index="63" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_018"/>
-				<entry key="position" type="vector3" value="-711 -14824 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="88"/>
-			</entry>
-		</entry>
-		<entry index="64" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_019"/>
-				<entry key="position" type="vector3" value="-940 -16231 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="89"/>
-			</entry>
-		</entry>
-		<entry index="65" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_020"/>
-				<entry key="position" type="vector3" value="-582 -16900 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="90"/>
-			</entry>
-		</entry>
-		<entry index="66" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_021"/>
-				<entry key="position" type="vector3" value="-1100 -17800 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="91"/>
-			</entry>
-		</entry>
-		<entry index="67" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_022"/>
-				<entry key="position" type="vector3" value="-1271 -19027 5833"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="92"/>
-			</entry>
-		</entry>
-		<entry index="68" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_023"/>
-				<entry key="position" type="vector3" value="-573 -19980 5787"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="93"/>
-			</entry>
-		</entry>
-		<entry index="69" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_024"/>
-				<entry key="position" type="vector3" value="-1027 -20600 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="94"/>
-			</entry>
-		</entry>
-		<entry index="70" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_025"/>
-				<entry key="position" type="vector3" value="-1300 -21500 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="95"/>
-			</entry>
-		</entry>
-		<entry index="71" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_026"/>
-				<entry key="position" type="vector3" value="-1700 -22200 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="96"/>
-			</entry>
-		</entry>
-		<entry index="72" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_027"/>
-				<entry key="position" type="vector3" value="-2100 -22300 5784"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="97"/>
-			</entry>
-		</entry>
-		<entry index="73" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_029"/>
-				<entry key="position" type="vector3" value="-2700 -22431 5912"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="99"/>
-			</entry>
-		</entry>
-		<entry index="74" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_030"/>
-				<entry key="position" type="vector3" value="-2171 -6917 5776"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="100"/>
-			</entry>
-		</entry>
-		<entry index="75" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_032"/>
-				<entry key="position" type="vector3" value="-1800 -7300 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="102"/>
-			</entry>
-		</entry>
-		<entry index="76" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_033"/>
-				<entry key="position" type="vector3" value="-1900 -8300 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="103"/>
-			</entry>
-		</entry>
-		<entry index="77" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_034"/>
-				<entry key="position" type="vector3" value="-1800 -9600 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="104"/>
-			</entry>
-		</entry>
-		<entry index="78" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_035"/>
-				<entry key="position" type="vector3" value="-1700 -11400 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="105"/>
-			</entry>
-		</entry>
-		<entry index="79" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_036"/>
-				<entry key="position" type="vector3" value="-1600 -12500 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="106"/>
-			</entry>
-		</entry>
-		<entry index="80" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_037"/>
-				<entry key="position" type="vector3" value="-2000 -13900 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="107"/>
-			</entry>
-		</entry>
-		<entry index="81" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_038"/>
-				<entry key="position" type="vector3" value="-1500 -14400 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="108"/>
-			</entry>
-		</entry>
-		<entry index="82" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_039"/>
-				<entry key="position" type="vector3" value="-1700 -15200 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="109"/>
-			</entry>
-		</entry>
-		<entry index="83" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_040"/>
-				<entry key="position" type="vector3" value="-1700 -16500 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="110"/>
-			</entry>
-		</entry>
-		<entry index="84" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_041"/>
-				<entry key="position" type="vector3" value="-2036 -17012 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="111"/>
-			</entry>
-		</entry>
-		<entry index="85" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_042"/>
-				<entry key="position" type="vector3" value="-2200 -18700 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="112"/>
-			</entry>
-		</entry>
-		<entry index="86" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_043"/>
-				<entry key="position" type="vector3" value="-1900 -19300 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="113"/>
-			</entry>
-		</entry>
-		<entry index="87" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_044"/>
-				<entry key="position" type="vector3" value="-2000 -20600 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="114"/>
-			</entry>
-		</entry>
-		<entry index="88" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_045"/>
-				<entry key="position" type="vector3" value="-2200 -21500 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="115"/>
-			</entry>
-		</entry>
-		<entry index="89" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_046"/>
-				<entry key="position" type="vector3" value="-2100 -22200 5800"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="116"/>
-			</entry>
-		</entry>
-		<entry index="90" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_047"/>
-				<entry key="position" type="vector3" value="-2700 -22424 5912"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="117"/>
-			</entry>
-		</entry>
-		<entry index="91" type="table">
+		<entry index="41" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1237,7 +742,7 @@
 				<entry key="unit_id" type="number" value="175"/>
 			</entry>
 		</entry>
-		<entry index="92" type="table">
+		<entry index="42" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1255,7 +760,7 @@
 				<entry key="unit_id" type="number" value="176"/>
 			</entry>
 		</entry>
-		<entry index="93" type="table">
+		<entry index="43" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1273,7 +778,7 @@
 				<entry key="unit_id" type="number" value="177"/>
 			</entry>
 		</entry>
-		<entry index="94" type="table">
+		<entry index="44" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1291,7 +796,7 @@
 				<entry key="unit_id" type="number" value="59"/>
 			</entry>
 		</entry>
-		<entry index="95" type="table">
+		<entry index="45" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1309,7 +814,7 @@
 				<entry key="unit_id" type="number" value="60"/>
 			</entry>
 		</entry>
-		<entry index="96" type="table">
+		<entry index="46" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1327,7 +832,7 @@
 				<entry key="unit_id" type="number" value="61"/>
 			</entry>
 		</entry>
-		<entry index="97" type="table">
+		<entry index="47" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1345,106 +850,7 @@
 				<entry key="unit_id" type="number" value="74"/>
 			</entry>
 		</entry>
-		<entry index="98" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_105"/>
-				<entry key="position" type="vector3" value="-2800 -23190 5913"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="75"/>
-			</entry>
-		</entry>
-		<entry index="99" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_106"/>
-				<entry key="position" type="vector3" value="-3549 -23185 6214"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="179"/>
-			</entry>
-		</entry>
-		<entry index="100" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_115"/>
-				<entry key="position" type="vector3" value="-2715 -23250 7125"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="188"/>
-			</entry>
-		</entry>
-		<entry index="101" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_116"/>
-				<entry key="position" type="vector3" value="-3300 -23000 7116"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="189"/>
-			</entry>
-		</entry>
-		<entry index="102" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_117"/>
-				<entry key="position" type="vector3" value="-2777 -23180 5915"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="190"/>
-			</entry>
-		</entry>
-		<entry index="103" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_118"/>
-				<entry key="position" type="vector3" value="-3728 -23190 6215"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="191"/>
-			</entry>
-		</entry>
-		<entry index="104" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_127"/>
-				<entry key="position" type="vector3" value="-3018 -23048 7118"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="200"/>
-			</entry>
-		</entry>
-		<entry index="105" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_128"/>
-				<entry key="position" type="vector3" value="-3300 -23000 7100"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="201"/>
-			</entry>
-		</entry>
-		<entry index="106" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_129"/>
-				<entry key="position" type="vector3" value="-2781 -23180 5914"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="202"/>
-			</entry>
-		</entry>
-		<entry index="107" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_140"/>
-				<entry key="position" type="vector3" value="-2900 -23000 7113"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="213"/>
-			</entry>
-		</entry>
-		<entry index="108" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_141"/>
-				<entry key="position" type="vector3" value="-3300 -23000 7113"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="214"/>
-			</entry>
-		</entry>
-		<entry index="109" type="table">
+		<entry index="48" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1462,7 +868,7 @@
 				<entry key="unit_id" type="number" value="215"/>
 			</entry>
 		</entry>
-		<entry index="110" type="table">
+		<entry index="49" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1480,7 +886,7 @@
 				<entry key="unit_id" type="number" value="216"/>
 			</entry>
 		</entry>
-		<entry index="111" type="table">
+		<entry index="50" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1498,7 +904,7 @@
 				<entry key="unit_id" type="number" value="217"/>
 			</entry>
 		</entry>
-		<entry index="112" type="table">
+		<entry index="51" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1516,7 +922,7 @@
 				<entry key="unit_id" type="number" value="218"/>
 			</entry>
 		</entry>
-		<entry index="113" type="table">
+		<entry index="52" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1534,7 +940,7 @@
 				<entry key="unit_id" type="number" value="220"/>
 			</entry>
 		</entry>
-		<entry index="114" type="table">
+		<entry index="53" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1552,7 +958,7 @@
 				<entry key="unit_id" type="number" value="222"/>
 			</entry>
 		</entry>
-		<entry index="115" type="table">
+		<entry index="54" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1570,7 +976,7 @@
 				<entry key="unit_id" type="number" value="224"/>
 			</entry>
 		</entry>
-		<entry index="116" type="table">
+		<entry index="55" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1588,7 +994,7 @@
 				<entry key="unit_id" type="number" value="225"/>
 			</entry>
 		</entry>
-		<entry index="117" type="table">
+		<entry index="56" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1606,7 +1012,7 @@
 				<entry key="unit_id" type="number" value="226"/>
 			</entry>
 		</entry>
-		<entry index="118" type="table">
+		<entry index="57" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1624,7 +1030,7 @@
 				<entry key="unit_id" type="number" value="228"/>
 			</entry>
 		</entry>
-		<entry index="119" type="table">
+		<entry index="58" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1642,7 +1048,7 @@
 				<entry key="unit_id" type="number" value="229"/>
 			</entry>
 		</entry>
-		<entry index="120" type="table">
+		<entry index="59" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1660,7 +1066,7 @@
 				<entry key="unit_id" type="number" value="230"/>
 			</entry>
 		</entry>
-		<entry index="121" type="table">
+		<entry index="60" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1678,7 +1084,7 @@
 				<entry key="unit_id" type="number" value="231"/>
 			</entry>
 		</entry>
-		<entry index="122" type="table">
+		<entry index="61" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -1696,475 +1102,7 @@
 				<entry key="unit_id" type="number" value="233"/>
 			</entry>
 		</entry>
-		<entry index="123" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_028"/>
-				<entry key="position" type="vector3" value="-1641 -2800 5535.16"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="272"/>
-			</entry>
-		</entry>
-		<entry index="124" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_048"/>
-				<entry key="position" type="vector3" value="-1333 -3532 5595.32"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="273"/>
-			</entry>
-		</entry>
-		<entry index="125" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_049"/>
-				<entry key="position" type="vector3" value="-1200 -4000 5630.06"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="274"/>
-			</entry>
-		</entry>
-		<entry index="126" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_050"/>
-				<entry key="position" type="vector3" value="-1300 -4700 5696.04"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="275"/>
-			</entry>
-		</entry>
-		<entry index="127" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_051"/>
-				<entry key="position" type="vector3" value="-1200 -5100 5735.6"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="276"/>
-			</entry>
-		</entry>
-		<entry index="128" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_052"/>
-				<entry key="position" type="vector3" value="-1100 -5600 5764.84"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="277"/>
-			</entry>
-		</entry>
-		<entry index="129" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_053"/>
-				<entry key="position" type="vector3" value="-1300 -6100 5768.43"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="278"/>
-			</entry>
-		</entry>
-		<entry index="130" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_054"/>
-				<entry key="position" type="vector3" value="-1600 -6300 5769.93"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="279"/>
-			</entry>
-		</entry>
-		<entry index="131" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_055"/>
-				<entry key="position" type="vector3" value="-1900 -6600 5771.7"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="280"/>
-			</entry>
-		</entry>
-		<entry index="132" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_056"/>
-				<entry key="position" type="vector3" value="-1800 -7000 5774.85"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="281"/>
-			</entry>
-		</entry>
-		<entry index="133" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_057"/>
-				<entry key="position" type="vector3" value="-1500 -7600 5778.67"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="282"/>
-			</entry>
-		</entry>
-		<entry index="134" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_058"/>
-				<entry key="position" type="vector3" value="-1400 -8400 5784.48"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="283"/>
-			</entry>
-		</entry>
-		<entry index="135" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_059"/>
-				<entry key="position" type="vector3" value="-1334 -8912 5791.05"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="284"/>
-			</entry>
-		</entry>
-		<entry index="136" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_060"/>
-				<entry key="position" type="vector3" value="-1600 -9700 5793.52"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="285"/>
-			</entry>
-		</entry>
-		<entry index="137" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_061"/>
-				<entry key="position" type="vector3" value="-1400 -10600 5797.37"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="286"/>
-			</entry>
-		</entry>
-		<entry index="138" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_062"/>
-				<entry key="position" type="vector3" value="-1800 -11400 5800.86"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="287"/>
-			</entry>
-		</entry>
-		<entry index="139" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_063"/>
-				<entry key="position" type="vector3" value="-1500 -12400 5805.29"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="288"/>
-			</entry>
-		</entry>
-		<entry index="140" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_064"/>
-				<entry key="position" type="vector3" value="-1300 -13200 5808.93"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="289"/>
-			</entry>
-		</entry>
-		<entry index="141" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_065"/>
-				<entry key="position" type="vector3" value="-1000 -13800 5811.35"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="290"/>
-			</entry>
-		</entry>
-		<entry index="142" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_066"/>
-				<entry key="position" type="vector3" value="-1200 -14500 5814.92"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="291"/>
-			</entry>
-		</entry>
-		<entry index="143" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_067"/>
-				<entry key="position" type="vector3" value="-1000 -15300 5811.18"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="292"/>
-			</entry>
-		</entry>
-		<entry index="144" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_068"/>
-				<entry key="position" type="vector3" value="-800 -15700 5809.74"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="293"/>
-			</entry>
-		</entry>
-		<entry index="145" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_069"/>
-				<entry key="position" type="vector3" value="-900 -16200 5808.15"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="294"/>
-			</entry>
-		</entry>
-		<entry index="146" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_070"/>
-				<entry key="position" type="vector3" value="-1300 -16500 5807.93"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="295"/>
-			</entry>
-		</entry>
-		<entry index="147" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_071"/>
-				<entry key="position" type="vector3" value="-1300 -17200 5806.06"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="296"/>
-			</entry>
-		</entry>
-		<entry index="148" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_072"/>
-				<entry key="position" type="vector3" value="-1200 -17900 5804.15"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="297"/>
-			</entry>
-		</entry>
-		<entry index="149" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_073"/>
-				<entry key="position" type="vector3" value="-1200 -18700 5802.15"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="298"/>
-			</entry>
-		</entry>
-		<entry index="150" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_074"/>
-				<entry key="position" type="vector3" value="-1000 -20100 5798.56"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="299"/>
-			</entry>
-		</entry>
-		<entry index="151" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_075"/>
-				<entry key="position" type="vector3" value="-1000 -20700 5793.69"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="300"/>
-			</entry>
-		</entry>
-		<entry index="152" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_076"/>
-				<entry key="position" type="vector3" value="-1300 -21500 5787.52"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="301"/>
-			</entry>
-		</entry>
-		<entry index="153" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_077"/>
-				<entry key="position" type="vector3" value="-1700 -22200 5782.41"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="302"/>
-			</entry>
-		</entry>
-		<entry index="154" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_078"/>
-				<entry key="position" type="vector3" value="-2100 -22300 5781.39"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="303"/>
-			</entry>
-		</entry>
-		<entry index="155" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_079"/>
-				<entry key="position" type="vector3" value="-2700 -22400 5920.67"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="304"/>
-			</entry>
-		</entry>
-		<entry index="156" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_080"/>
-				<entry key="position" type="vector3" value="-2746 -22100 5920.67"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="305"/>
-			</entry>
-		</entry>
-		<entry index="157" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_081"/>
-				<entry key="position" type="vector3" value="-3372 -22134 5920.67"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="306"/>
-			</entry>
-		</entry>
-		<entry index="158" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_082"/>
-				<entry key="position" type="vector3" value="-4150 -22150 6219.71"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="307"/>
-			</entry>
-		</entry>
-		<entry index="159" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_083"/>
-				<entry key="position" type="vector3" value="-4250 -22900 6219.71"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="308"/>
-			</entry>
-		</entry>
-		<entry index="160" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_084"/>
-				<entry key="position" type="vector3" value="-4118 -22900 6219.71"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="309"/>
-			</entry>
-		</entry>
-		<entry index="161" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_085"/>
-				<entry key="position" type="vector3" value="-4100 -22150 6519.01"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="310"/>
-			</entry>
-		</entry>
-		<entry index="162" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_086"/>
-				<entry key="position" type="vector3" value="-4100 -22000 6519.01"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="311"/>
-			</entry>
-		</entry>
-		<entry index="163" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_087"/>
-				<entry key="position" type="vector3" value="-2750 -22000 6519.01"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="312"/>
-			</entry>
-		</entry>
-		<entry index="164" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_088"/>
-				<entry key="position" type="vector3" value="-2750 -22150 6519.01"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="313"/>
-			</entry>
-		</entry>
-		<entry index="165" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_089"/>
-				<entry key="position" type="vector3" value="-3500 -22129 6818.75"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="314"/>
-			</entry>
-		</entry>
-		<entry index="166" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_090"/>
-				<entry key="position" type="vector3" value="-4100 -22150 6818.75"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="315"/>
-			</entry>
-		</entry>
-		<entry index="167" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_091"/>
-				<entry key="position" type="vector3" value="-4100 -22900 7117.5"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="316"/>
-			</entry>
-		</entry>
-		<entry index="168" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_092"/>
-				<entry key="position" type="vector3" value="-4050 -23250 7118.76"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="317"/>
-			</entry>
-		</entry>
-		<entry index="169" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_093"/>
-				<entry key="position" type="vector3" value="-3550 -23150 7118.76"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="318"/>
-			</entry>
-		</entry>
-		<entry index="170" type="table">
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/patrol_point/patrol_point"/>
-				<entry key="name_id" type="string" value="patrol_point_094"/>
-				<entry key="position" type="vector3" value="-3300 -23000 7121.76"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="319"/>
-			</entry>
-		</entry>
-		<entry index="171" type="table">
-			<entry key="ai_editor_data" type="table">
-				<entry key="detection_mul" type="number" value="1"/>
-				<entry key="location_id" type="string" value="location_unknown"/>
-				<entry key="suspicion_mul" type="number" value="1"/>
-				<entry key="visibilty_exlude_filter" type="table">
-				</entry>
-				<entry key="visibilty_include_filter" type="table">
-				</entry>
-			</entry>
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
-				<entry key="name_id" type="string" value="nav_surface_020"/>
-				<entry key="position" type="vector3" value="-1300 -4109 5649"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="71"/>
-			</entry>
-		</entry>
-		<entry index="172" type="table">
-			<entry key="ai_editor_data" type="table">
-				<entry key="detection_mul" type="number" value="1"/>
-				<entry key="location_id" type="string" value="location_unknown"/>
-				<entry key="suspicion_mul" type="number" value="1"/>
-				<entry key="visibilty_exlude_filter" type="table">
-				</entry>
-				<entry key="visibilty_include_filter" type="table">
-				</entry>
-			</entry>
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
-				<entry key="name_id" type="string" value="nav_surface_049"/>
-				<entry key="position" type="vector3" value="-1551 -3009 5568"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="343"/>
-			</entry>
-		</entry>
-		<entry index="173" type="table">
+		<entry index="62" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2182,43 +1120,7 @@
 				<entry key="unit_id" type="number" value="345"/>
 			</entry>
 		</entry>
-		<entry index="174" type="table">
-			<entry key="ai_editor_data" type="table">
-				<entry key="detection_mul" type="number" value="1"/>
-				<entry key="location_id" type="string" value="location_unknown"/>
-				<entry key="suspicion_mul" type="number" value="1"/>
-				<entry key="visibilty_exlude_filter" type="table">
-				</entry>
-				<entry key="visibilty_include_filter" type="table">
-				</entry>
-			</entry>
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
-				<entry key="name_id" type="string" value="nav_surface_079"/>
-				<entry key="position" type="vector3" value="-1300 -6700 5772.7"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="346"/>
-			</entry>
-		</entry>
-		<entry index="175" type="table">
-			<entry key="ai_editor_data" type="table">
-				<entry key="detection_mul" type="number" value="1"/>
-				<entry key="location_id" type="string" value="location_unknown"/>
-				<entry key="suspicion_mul" type="number" value="1"/>
-				<entry key="visibilty_exlude_filter" type="table">
-				</entry>
-				<entry key="visibilty_include_filter" type="table">
-				</entry>
-			</entry>
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
-				<entry key="name_id" type="string" value="nav_surface_080"/>
-				<entry key="position" type="vector3" value="-2775 -5125 5770.3"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="347"/>
-			</entry>
-		</entry>
-		<entry index="176" type="table">
+		<entry index="63" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2236,7 +1138,7 @@
 				<entry key="unit_id" type="number" value="367"/>
 			</entry>
 		</entry>
-		<entry index="177" type="table">
+		<entry index="64" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2254,7 +1156,7 @@
 				<entry key="unit_id" type="number" value="227"/>
 			</entry>
 		</entry>
-		<entry index="178" type="table">
+		<entry index="65" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2272,7 +1174,7 @@
 				<entry key="unit_id" type="number" value="373"/>
 			</entry>
 		</entry>
-		<entry index="179" type="table">
+		<entry index="66" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2290,7 +1192,7 @@
 				<entry key="unit_id" type="number" value="374"/>
 			</entry>
 		</entry>
-		<entry index="180" type="table">
+		<entry index="67" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2308,25 +1210,7 @@
 				<entry key="unit_id" type="number" value="375"/>
 			</entry>
 		</entry>
-		<entry index="181" type="table">
-			<entry key="ai_editor_data" type="table">
-				<entry key="detection_mul" type="number" value="1"/>
-				<entry key="location_id" type="string" value="location_unknown"/>
-				<entry key="suspicion_mul" type="number" value="1"/>
-				<entry key="visibilty_exlude_filter" type="table">
-				</entry>
-				<entry key="visibilty_include_filter" type="table">
-				</entry>
-			</entry>
-			<entry key="unit_data" type="table">
-				<entry key="name" type="string" value="core/units/nav_surface/nav_surface"/>
-				<entry key="name_id" type="string" value="nav_surface_084"/>
-				<entry key="position" type="vector3" value="-1350 -9850 5789"/>
-				<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-				<entry key="unit_id" type="number" value="382"/>
-			</entry>
-		</entry>
-		<entry index="182" type="table">
+		<entry index="68" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2344,7 +1228,7 @@
 				<entry key="unit_id" type="number" value="383"/>
 			</entry>
 		</entry>
-		<entry index="183" type="table">
+		<entry index="69" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2362,7 +1246,7 @@
 				<entry key="unit_id" type="number" value="384"/>
 			</entry>
 		</entry>
-		<entry index="184" type="table">
+		<entry index="70" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2380,7 +1264,7 @@
 				<entry key="unit_id" type="number" value="221"/>
 			</entry>
 		</entry>
-		<entry index="185" type="table">
+		<entry index="71" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2398,7 +1282,7 @@
 				<entry key="unit_id" type="number" value="219"/>
 			</entry>
 		</entry>
-		<entry index="186" type="table">
+		<entry index="72" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2416,7 +1300,7 @@
 				<entry key="unit_id" type="number" value="223"/>
 			</entry>
 		</entry>
-		<entry index="187" type="table">
+		<entry index="73" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2434,7 +1318,7 @@
 				<entry key="unit_id" type="number" value="406"/>
 			</entry>
 		</entry>
-		<entry index="188" type="table">
+		<entry index="74" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2452,7 +1336,7 @@
 				<entry key="unit_id" type="number" value="404"/>
 			</entry>
 		</entry>
-		<entry index="189" type="table">
+		<entry index="75" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2470,7 +1354,7 @@
 				<entry key="unit_id" type="number" value="405"/>
 			</entry>
 		</entry>
-		<entry index="190" type="table">
+		<entry index="76" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2488,7 +1372,7 @@
 				<entry key="unit_id" type="number" value="407"/>
 			</entry>
 		</entry>
-		<entry index="191" type="table">
+		<entry index="77" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2506,7 +1390,7 @@
 				<entry key="unit_id" type="number" value="408"/>
 			</entry>
 		</entry>
-		<entry index="192" type="table">
+		<entry index="78" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2524,7 +1408,7 @@
 				<entry key="unit_id" type="number" value="409"/>
 			</entry>
 		</entry>
-		<entry index="193" type="table">
+		<entry index="79" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2542,7 +1426,7 @@
 				<entry key="unit_id" type="number" value="410"/>
 			</entry>
 		</entry>
-		<entry index="194" type="table">
+		<entry index="80" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2560,7 +1444,7 @@
 				<entry key="unit_id" type="number" value="411"/>
 			</entry>
 		</entry>
-		<entry index="195" type="table">
+		<entry index="81" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2578,7 +1462,7 @@
 				<entry key="unit_id" type="number" value="412"/>
 			</entry>
 		</entry>
-		<entry index="196" type="table">
+		<entry index="82" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2596,7 +1480,7 @@
 				<entry key="unit_id" type="number" value="413"/>
 			</entry>
 		</entry>
-		<entry index="197" type="table">
+		<entry index="83" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2614,7 +1498,7 @@
 				<entry key="unit_id" type="number" value="414"/>
 			</entry>
 		</entry>
-		<entry index="198" type="table">
+		<entry index="84" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2632,7 +1516,7 @@
 				<entry key="unit_id" type="number" value="415"/>
 			</entry>
 		</entry>
-		<entry index="199" type="table">
+		<entry index="85" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2650,7 +1534,7 @@
 				<entry key="unit_id" type="number" value="416"/>
 			</entry>
 		</entry>
-		<entry index="200" type="table">
+		<entry index="86" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2668,7 +1552,7 @@
 				<entry key="unit_id" type="number" value="417"/>
 			</entry>
 		</entry>
-		<entry index="201" type="table">
+		<entry index="87" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2686,7 +1570,7 @@
 				<entry key="unit_id" type="number" value="419"/>
 			</entry>
 		</entry>
-		<entry index="202" type="table">
+		<entry index="88" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2704,7 +1588,7 @@
 				<entry key="unit_id" type="number" value="420"/>
 			</entry>
 		</entry>
-		<entry index="203" type="table">
+		<entry index="89" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2722,7 +1606,7 @@
 				<entry key="unit_id" type="number" value="421"/>
 			</entry>
 		</entry>
-		<entry index="204" type="table">
+		<entry index="90" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2740,7 +1624,7 @@
 				<entry key="unit_id" type="number" value="422"/>
 			</entry>
 		</entry>
-		<entry index="205" type="table">
+		<entry index="91" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2758,7 +1642,7 @@
 				<entry key="unit_id" type="number" value="423"/>
 			</entry>
 		</entry>
-		<entry index="206" type="table">
+		<entry index="92" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2776,7 +1660,7 @@
 				<entry key="unit_id" type="number" value="424"/>
 			</entry>
 		</entry>
-		<entry index="207" type="table">
+		<entry index="93" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2794,7 +1678,7 @@
 				<entry key="unit_id" type="number" value="425"/>
 			</entry>
 		</entry>
-		<entry index="208" type="table">
+		<entry index="94" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2812,7 +1696,7 @@
 				<entry key="unit_id" type="number" value="426"/>
 			</entry>
 		</entry>
-		<entry index="209" type="table">
+		<entry index="95" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2830,7 +1714,7 @@
 				<entry key="unit_id" type="number" value="427"/>
 			</entry>
 		</entry>
-		<entry index="210" type="table">
+		<entry index="96" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2848,7 +1732,7 @@
 				<entry key="unit_id" type="number" value="428"/>
 			</entry>
 		</entry>
-		<entry index="211" type="table">
+		<entry index="97" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2866,7 +1750,7 @@
 				<entry key="unit_id" type="number" value="429"/>
 			</entry>
 		</entry>
-		<entry index="212" type="table">
+		<entry index="98" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2884,7 +1768,7 @@
 				<entry key="unit_id" type="number" value="430"/>
 			</entry>
 		</entry>
-		<entry index="213" type="table">
+		<entry index="99" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2902,7 +1786,7 @@
 				<entry key="unit_id" type="number" value="431"/>
 			</entry>
 		</entry>
-		<entry index="214" type="table">
+		<entry index="100" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2925,7 +1809,7 @@
 				<entry key="unit_id" type="number" value="1"/>
 			</entry>
 		</entry>
-		<entry index="215" type="table">
+		<entry index="101" type="table">
 			<entry key="ai_editor_data" type="table">
 				<entry key="detection_mul" type="number" value="1"/>
 				<entry key="location_id" type="string" value="location_unknown"/>
@@ -2955,542 +1839,6 @@
 	<entry key="ai_settings" type="table">
 		<entry key="ai_data" type="table">
 			<entry key="patrol_paths" type="table">
-				<entry key="escort_path_001" type="table">
-					<entry key="points" type="table">
-						<entry index="1" type="table">
-							<entry key="position" type="vector3" value="-2025 -9689 5790.4"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="62"/>
-						</entry>
-						<entry index="2" type="table">
-							<entry key="position" type="vector3" value="-1900 -11500 5802.41"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="63"/>
-						</entry>
-						<entry index="3" type="table">
-							<entry key="position" type="vector3" value="-1350 -14350 5813.96"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="64"/>
-						</entry>
-						<entry index="4" type="table">
-							<entry key="position" type="vector3" value="-2300 -17250 5799.07"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="65"/>
-						</entry>
-						<entry index="5" type="table">
-							<entry key="position" type="vector3" value="-1957 -20000 5806.31"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="66"/>
-						</entry>
-						<entry index="6" type="table">
-							<entry key="position" type="vector3" value="-2050 -20950 5817.82"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="67"/>
-						</entry>
-						<entry index="7" type="table">
-							<entry key="position" type="vector3" value="-2076 -22250 5778.75"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="68"/>
-						</entry>
-						<entry index="8" type="table">
-							<entry key="position" type="vector3" value="-2693 -22430 5920.48"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="69"/>
-						</entry>
-						<entry index="9" type="table">
-							<entry key="position" type="vector3" value="-2700 -22420 5912"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="70"/>
-						</entry>
-						<entry index="10" type="table">
-							<entry key="position" type="vector3" value="-2781 -23180 5914"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="202"/>
-						</entry>
-						<entry index="11" type="table">
-							<entry key="position" type="vector3" value="-2900 -23000 7113"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="213"/>
-						</entry>
-						<entry index="12" type="table">
-							<entry key="position" type="vector3" value="-3300 -23000 7113"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="214"/>
-						</entry>
-					</entry>
-				</entry>
-				<entry key="escort_path_002" type="table">
-					<entry key="points" type="table">
-						<entry index="1" type="table">
-							<entry key="position" type="vector3" value="-671 -9329 5799"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="80"/>
-						</entry>
-						<entry index="2" type="table">
-							<entry key="position" type="vector3" value="-700 -10500 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="81"/>
-						</entry>
-						<entry index="3" type="table">
-							<entry key="position" type="vector3" value="-1000 -11100 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="82"/>
-						</entry>
-						<entry index="4" type="table">
-							<entry key="position" type="vector3" value="-1000 -11300 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="83"/>
-						</entry>
-						<entry index="5" type="table">
-							<entry key="position" type="vector3" value="-1056 -12000 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="84"/>
-						</entry>
-						<entry index="6" type="table">
-							<entry key="position" type="vector3" value="-753 -12398 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="85"/>
-						</entry>
-						<entry index="7" type="table">
-							<entry key="position" type="vector3" value="-600 -12900 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="86"/>
-						</entry>
-						<entry index="8" type="table">
-							<entry key="position" type="vector3" value="-631 -13800 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="87"/>
-						</entry>
-						<entry index="9" type="table">
-							<entry key="position" type="vector3" value="-711 -14824 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="88"/>
-						</entry>
-						<entry index="10" type="table">
-							<entry key="position" type="vector3" value="-940 -16231 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="89"/>
-						</entry>
-						<entry index="11" type="table">
-							<entry key="position" type="vector3" value="-582 -16900 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="90"/>
-						</entry>
-						<entry index="12" type="table">
-							<entry key="position" type="vector3" value="-1100 -17800 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="91"/>
-						</entry>
-						<entry index="13" type="table">
-							<entry key="position" type="vector3" value="-1271 -19027 5833"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="92"/>
-						</entry>
-						<entry index="14" type="table">
-							<entry key="position" type="vector3" value="-573 -19980 5787"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="93"/>
-						</entry>
-						<entry index="15" type="table">
-							<entry key="position" type="vector3" value="-1027 -20600 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="94"/>
-						</entry>
-						<entry index="16" type="table">
-							<entry key="position" type="vector3" value="-1300 -21500 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="95"/>
-						</entry>
-						<entry index="17" type="table">
-							<entry key="position" type="vector3" value="-1700 -22200 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="96"/>
-						</entry>
-						<entry index="18" type="table">
-							<entry key="position" type="vector3" value="-2100 -22300 5784"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="97"/>
-						</entry>
-						<entry index="19" type="table">
-							<entry key="position" type="vector3" value="-2700 -22431 5912"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="99"/>
-						</entry>
-						<entry index="20" type="table">
-							<entry key="position" type="vector3" value="-2777 -23180 5915"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="190"/>
-						</entry>
-						<entry index="21" type="table">
-							<entry key="position" type="vector3" value="-3728 -23190 6215"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="191"/>
-						</entry>
-						<entry index="22" type="table">
-							<entry key="position" type="vector3" value="-3018 -23048 7118"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="200"/>
-						</entry>
-						<entry index="23" type="table">
-							<entry key="position" type="vector3" value="-3300 -23000 7100"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="201"/>
-						</entry>
-					</entry>
-				</entry>
-				<entry key="escort_path_003" type="table">
-					<entry key="points" type="table">
-						<entry index="1" type="table">
-							<entry key="position" type="vector3" value="-2171 -6917 5776"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="100"/>
-						</entry>
-						<entry index="2" type="table">
-							<entry key="position" type="vector3" value="-1800 -7300 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="102"/>
-						</entry>
-						<entry index="3" type="table">
-							<entry key="position" type="vector3" value="-1900 -8300 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="103"/>
-						</entry>
-						<entry index="4" type="table">
-							<entry key="position" type="vector3" value="-1800 -9600 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="104"/>
-						</entry>
-						<entry index="5" type="table">
-							<entry key="position" type="vector3" value="-1700 -11400 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="105"/>
-						</entry>
-						<entry index="6" type="table">
-							<entry key="position" type="vector3" value="-1600 -12500 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="106"/>
-						</entry>
-						<entry index="7" type="table">
-							<entry key="position" type="vector3" value="-2000 -13900 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="107"/>
-						</entry>
-						<entry index="8" type="table">
-							<entry key="position" type="vector3" value="-1500 -14400 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="108"/>
-						</entry>
-						<entry index="9" type="table">
-							<entry key="position" type="vector3" value="-1700 -15200 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="109"/>
-						</entry>
-						<entry index="10" type="table">
-							<entry key="position" type="vector3" value="-1700 -16500 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="110"/>
-						</entry>
-						<entry index="11" type="table">
-							<entry key="position" type="vector3" value="-2036 -17012 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="111"/>
-						</entry>
-						<entry index="12" type="table">
-							<entry key="position" type="vector3" value="-2200 -18700 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="112"/>
-						</entry>
-						<entry index="13" type="table">
-							<entry key="position" type="vector3" value="-1900 -19300 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="113"/>
-						</entry>
-						<entry index="14" type="table">
-							<entry key="position" type="vector3" value="-2000 -20600 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="114"/>
-						</entry>
-						<entry index="15" type="table">
-							<entry key="position" type="vector3" value="-2200 -21500 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="115"/>
-						</entry>
-						<entry index="16" type="table">
-							<entry key="position" type="vector3" value="-2100 -22200 5800"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="116"/>
-						</entry>
-						<entry index="17" type="table">
-							<entry key="position" type="vector3" value="-2700 -22424 5912"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="117"/>
-						</entry>
-						<entry index="18" type="table">
-							<entry key="position" type="vector3" value="-2800 -23190 5913"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="75"/>
-						</entry>
-						<entry index="19" type="table">
-							<entry key="position" type="vector3" value="-3549 -23185 6214"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="179"/>
-						</entry>
-						<entry index="20" type="table">
-							<entry key="position" type="vector3" value="-2715 -23250 7125"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="188"/>
-						</entry>
-						<entry index="21" type="table">
-							<entry key="position" type="vector3" value="-3300 -23000 7116"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="189"/>
-						</entry>
-					</entry>
-				</entry>
-				<entry key="escort_path_004" type="table">
-					<entry key="points" type="table">
-						<entry index="1" type="table">
-							<entry key="position" type="vector3" value="-1641 -2800 5535.16"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="272"/>
-						</entry>
-						<entry index="2" type="table">
-							<entry key="position" type="vector3" value="-1333 -3532 5595.32"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="273"/>
-						</entry>
-						<entry index="3" type="table">
-							<entry key="position" type="vector3" value="-1200 -4000 5630.06"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="274"/>
-						</entry>
-						<entry index="4" type="table">
-							<entry key="position" type="vector3" value="-1300 -4700 5696.04"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="275"/>
-						</entry>
-						<entry index="5" type="table">
-							<entry key="position" type="vector3" value="-1200 -5100 5735.6"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="276"/>
-						</entry>
-						<entry index="6" type="table">
-							<entry key="position" type="vector3" value="-1100 -5600 5764.84"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="277"/>
-						</entry>
-						<entry index="7" type="table">
-							<entry key="position" type="vector3" value="-1300 -6100 5768.43"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="278"/>
-						</entry>
-						<entry index="8" type="table">
-							<entry key="position" type="vector3" value="-1600 -6300 5769.93"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="279"/>
-						</entry>
-						<entry index="9" type="table">
-							<entry key="position" type="vector3" value="-1900 -6600 5771.7"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="280"/>
-						</entry>
-						<entry index="10" type="table">
-							<entry key="position" type="vector3" value="-1800 -7000 5774.85"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="281"/>
-						</entry>
-						<entry index="11" type="table">
-							<entry key="position" type="vector3" value="-1500 -7600 5778.67"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="282"/>
-						</entry>
-						<entry index="12" type="table">
-							<entry key="position" type="vector3" value="-1400 -8400 5784.48"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="283"/>
-						</entry>
-						<entry index="13" type="table">
-							<entry key="position" type="vector3" value="-1334 -8912 5791.05"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="284"/>
-						</entry>
-						<entry index="14" type="table">
-							<entry key="position" type="vector3" value="-1600 -9700 5793.52"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="285"/>
-						</entry>
-						<entry index="15" type="table">
-							<entry key="position" type="vector3" value="-1400 -10600 5797.37"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="286"/>
-						</entry>
-						<entry index="16" type="table">
-							<entry key="position" type="vector3" value="-1800 -11400 5800.86"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="287"/>
-						</entry>
-						<entry index="17" type="table">
-							<entry key="position" type="vector3" value="-1500 -12400 5805.29"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="288"/>
-						</entry>
-						<entry index="18" type="table">
-							<entry key="position" type="vector3" value="-1300 -13200 5808.93"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="289"/>
-						</entry>
-						<entry index="19" type="table">
-							<entry key="position" type="vector3" value="-1000 -13800 5811.35"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="290"/>
-						</entry>
-						<entry index="20" type="table">
-							<entry key="position" type="vector3" value="-1200 -14500 5814.92"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="291"/>
-						</entry>
-						<entry index="21" type="table">
-							<entry key="position" type="vector3" value="-1000 -15300 5811.18"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="292"/>
-						</entry>
-						<entry index="22" type="table">
-							<entry key="position" type="vector3" value="-800 -15700 5809.74"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="293"/>
-						</entry>
-						<entry index="23" type="table">
-							<entry key="position" type="vector3" value="-900 -16200 5808.15"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="294"/>
-						</entry>
-						<entry index="24" type="table">
-							<entry key="position" type="vector3" value="-1300 -16500 5807.93"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="295"/>
-						</entry>
-						<entry index="25" type="table">
-							<entry key="position" type="vector3" value="-1300 -17200 5806.06"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="296"/>
-						</entry>
-						<entry index="26" type="table">
-							<entry key="position" type="vector3" value="-1200 -17900 5804.15"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="297"/>
-						</entry>
-						<entry index="27" type="table">
-							<entry key="position" type="vector3" value="-1200 -18700 5802.15"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="298"/>
-						</entry>
-						<entry index="28" type="table">
-							<entry key="position" type="vector3" value="-1000 -20100 5798.56"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="299"/>
-						</entry>
-						<entry index="29" type="table">
-							<entry key="position" type="vector3" value="-1000 -20700 5793.69"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="300"/>
-						</entry>
-						<entry index="30" type="table">
-							<entry key="position" type="vector3" value="-1300 -21500 5787.52"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="301"/>
-						</entry>
-						<entry index="31" type="table">
-							<entry key="position" type="vector3" value="-1700 -22200 5782.41"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="302"/>
-						</entry>
-						<entry index="32" type="table">
-							<entry key="position" type="vector3" value="-2100 -22300 5781.39"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="303"/>
-						</entry>
-						<entry index="33" type="table">
-							<entry key="position" type="vector3" value="-2700 -22400 5920.67"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="304"/>
-						</entry>
-						<entry index="34" type="table">
-							<entry key="position" type="vector3" value="-2746 -22100 5920.67"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="305"/>
-						</entry>
-						<entry index="35" type="table">
-							<entry key="position" type="vector3" value="-3372 -22134 5920.67"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="306"/>
-						</entry>
-						<entry index="36" type="table">
-							<entry key="position" type="vector3" value="-4150 -22150 6219.71"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="307"/>
-						</entry>
-						<entry index="37" type="table">
-							<entry key="position" type="vector3" value="-4250 -22900 6219.71"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="308"/>
-						</entry>
-						<entry index="38" type="table">
-							<entry key="position" type="vector3" value="-4118 -22900 6219.71"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="309"/>
-						</entry>
-						<entry index="39" type="table">
-							<entry key="position" type="vector3" value="-4100 -22150 6519.01"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="310"/>
-						</entry>
-						<entry index="40" type="table">
-							<entry key="position" type="vector3" value="-4100 -22000 6519.01"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="311"/>
-						</entry>
-						<entry index="41" type="table">
-							<entry key="position" type="vector3" value="-2750 -22000 6519.01"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="312"/>
-						</entry>
-						<entry index="42" type="table">
-							<entry key="position" type="vector3" value="-2750 -22150 6519.01"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="313"/>
-						</entry>
-						<entry index="43" type="table">
-							<entry key="position" type="vector3" value="-3500 -22129 6818.75"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="314"/>
-						</entry>
-						<entry index="44" type="table">
-							<entry key="position" type="vector3" value="-4100 -22150 6818.75"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="315"/>
-						</entry>
-						<entry index="45" type="table">
-							<entry key="position" type="vector3" value="-4100 -22900 7117.5"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="316"/>
-						</entry>
-						<entry index="46" type="table">
-							<entry key="position" type="vector3" value="-4050 -23250 7118.76"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="317"/>
-						</entry>
-						<entry index="47" type="table">
-							<entry key="position" type="vector3" value="-3550 -23150 7118.76"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="318"/>
-						</entry>
-						<entry index="48" type="table">
-							<entry key="position" type="vector3" value="-3300 -23000 7121.76"/>
-							<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-							<entry key="unit_id" type="number" value="319"/>
-						</entry>
-					</entry>
-				</entry>
 			</entry>
 		</entry>
 		<entry key="ai_settings" type="table">
