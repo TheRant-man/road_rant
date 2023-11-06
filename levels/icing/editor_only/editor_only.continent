@@ -5133,7 +5133,7 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-3550 -29800 5800" _prev_rot="0 0 0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_113" position="-3550 -29800 5800" rotation="0 0 0.707107 -0.707107" unit_id="401499">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="6" render_template="diffuse_vc_decal" text="PSEUDO ESCORT LOGIC" vertical="center" word_wrap="false" wrap="false">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="6" render_template="diffuse_vc_decal" text="FAUX ESCORT LOGIC" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
 						<value_node value="0"/>
