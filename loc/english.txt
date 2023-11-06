@@ -31,5 +31,7 @@
 	"place_hijacker":"Set up the hacking device",
 	"place_hijacker_desc":"Place the device onto the truck.",
 	"rewire":"Rewire the doors",
-	"rewire_desc":"Rewire the magnetic lock"
+	"rewire_desc":"Rewire the magnetic lock",
+	"wait_bile":"Wait for Bile",
+	"wait_bile_desc":"Wait for Bile to swoop in for the loot."
 }
