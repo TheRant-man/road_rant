@@ -125,6 +125,8 @@
 		<table continent="world" folder="levels/instances/shared/obj_link/world" index_size="150" name="obj_link_004" position="-4500 -18200 9800" rotation="0 0 0 1" script="default" start_index="13850"/>
 		<table continent="world" folder="levels/instances/shared/obj_link/world" index_size="150" name="obj_link_005" position="-4500 -18600 9800" rotation="0 0 0 1" script="default" start_index="14200"/>
 		<table continent="world" folder="levels/instances/shared/obj_link/world" index_size="150" name="obj_link_006" position="-4500 -19000 9800" rotation="0 0 0 1" script="default" start_index="14350"/>
+		<table continent="world" folder="levels/instances/mods/road_rant/fri_heli/world" index_size="250" name="fri_heli_001" position="-4500.53 -22740.3 6098.54" rotation="0 0 -1 -4.37114e-008" script="default" start_index="5950"/>
+		<table continent="world" folder="levels/instances/mods/road_rant/fri_heli/world" index_size="250" name="fri_heli_002" position="1572.32 -33211.1 5865.1" rotation="0 0 0 1" script="default" start_index="10150"/>
 	</instances>
 	<statics>
 		<table>
@@ -315,7 +317,7 @@
 			<unit_data continent="world" disable_shadows="true" name="units/world/props/desert/des_prop_con_cement_tumbler/des_prop_con_cement_tumbler" name_id="des_prop_con_cement_tumbler_001" position="-2331 -18722 5799.06" rotation="0 0 -0.707107 -0.707107" unit_id="100089"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1275 -9375 5787.43" _prev_rot="0.0034268 0.000408929 0.118573 -0.992939" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_fake_lights_on" name="units/payday2/vehicles/str_vehicle_car_suburban/str_vehicle_car_suburban" name_id="vehicle_suburban_007" position="-1275 -9375 5787.43" rotation="-0.000408929 0.0034268 0.992939 0.118573" unit_id="100273">
+			<unit_data _prev_pos="-1275 -9375 5787.43" _prev_rot="-0.000408929 0.0034268 0.992939 0.118573" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_fake_lights_on" name="units/payday2/vehicles/str_vehicle_car_suburban/str_vehicle_car_suburban" name_id="vehicle_suburban_007" position="-1275 -9375 5787.43" rotation="-0.000408929 0.0034268 0.992939 0.118573" unit_id="100273">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 0.94 0.7" enabled="false" falloff_exponent="1" far_range="0" multiplier="@IDb3570b664608819f@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
 					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="0" multiplier="@IDb3570b664608819f@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
@@ -2171,9 +2173,6 @@
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_glace/architecture/glc_ext_bridge/glc_ext_bridge_trafficsignal" name_id="glc_ext_bridge_trafficsignal_001" position="-1400 11600 5600" rotation="0 0 0 -1" unit_id="102106"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="units/pd2_dlc_glace/architecture/glc_ext_bridge/glc_ext_bridge_trafficsignal" name_id="glc_ext_bridge_trafficsignal_002" position="-1388 -39517 5581" rotation="0 0 0 -1" unit_id="102107"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_glace/props/glc_prop_bridge_lamp_lamppost/glc_prop_bridge_lamp_lamppost" name_id="glc_prop_bridge_lamp_lamppost_046" position="-2469.01 -11166 5810.74" rotation="-0.00244032 0.00244032 -0.707103 -0.707102" unit_id="100233">
@@ -10843,7 +10842,7 @@
 			<unit_data _prev_pos="-1591.56 -30647.9 5666.06" _prev_rot="-0.00244045 0.00244019 -0.707103 -0.707102" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_01" name_id="run_prop_concrete_barrier_stripes_01_006" position="-1591.56 -30647.9 5666.06" rotation="-0.00244045 0.00244019 -0.707103 -0.707102" unit_id="100302"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1591.56 -30992.9 5663.68" _prev_rot="-0.00244045 0.00244019 -0.707103 -0.707102" _visibility_counter="0" continent="world" local_pos="316.446 431.141 -0.366364" local_rot="-1.28755e-007 2.79397e-009 -0.0302292 0.999543" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_01" name_id="run_prop_concrete_barrier_stripes_01_007" position="-1591.56 -30992.9 5663.68" rotation="-0.00244045 0.00244019 -0.707103 -0.707102" unit_id="100303"/>
+			<unit_data _prev_pos="-1591.56 -30992.9 5663.68" _prev_rot="-0.00244045 0.00244019 -0.707103 -0.707102" _visibility_counter="1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_01" name_id="run_prop_concrete_barrier_stripes_01_007" position="-1591.56 -31054.9 5663.25" rotation="-0.00244047 0.00244021 -0.707103 -0.707102" unit_id="100303"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_01" name_id="run_prop_concrete_barrier_stripes_01_008" position="-1507 -23538.1 5773.38" rotation="-0.00244032 0.00244032 -0.707103 -0.707102" unit_id="100255"/>
@@ -10879,7 +10878,7 @@
 			<unit_data continent="world" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_single_01" name_id="run_prop_concrete_barrier_stripes_single_01_004" position="-1445.04 -21553.6 5782.06" rotation="-0.00244032 0.00244032 -0.707103 -0.707102" unit_id="100301"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1586.27 -31309.6 5661.86" _prev_rot="-0.00236557 0.00251284 -0.728155 -0.685404" _visibility_counter="0" continent="world" local_pos="0.000951339 445 -0.000213847" local_rot="-1.22935e-007 7.45058e-009 4.25189e-010 1" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_single_01" name_id="run_prop_concrete_barrier_stripes_single_01_006" position="-1586.27 -31309.6 5661.86" rotation="-0.00236557 0.00251284 -0.728155 -0.685404" unit_id="100295"/>
+			<unit_data _prev_pos="-1586.27 -31309.6 5661.86" _prev_rot="-0.00236557 0.00251284 -0.728155 -0.685404" _visibility_counter="1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_single_01" name_id="run_prop_concrete_barrier_stripes_single_01_006" position="-1583.43 -31356.5 5661.54" rotation="-0.00236562 0.0025128 -0.728155 -0.685404" unit_id="100295"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_single_01" name_id="run_prop_concrete_barrier_stripes_single_01_008" position="-1516 -24277.1 5768.28" rotation="-0.00244032 0.00244032 -0.707103 -0.707102" unit_id="100300"/>
@@ -13398,22 +13397,19 @@
 			<unit_data continent="world" name="units/dev_tools/level_tools/dev_collision/dev_collision_1x3m" name_id="dev_collision_1x3m_067" position="187 -4999 5800" rotation="0 0 0.707107 -0.707107" unit_id="103314"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1142.08 -31282.7 5662.04" _prev_rot="-0.00236566 0.00251276 -0.728155 -0.685404" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_single_01" name_id="run_prop_concrete_barrier_stripes_single_01_007" position="-1142.08 -31282.7 5662.04" rotation="-0.00236566 0.00251276 -0.728155 -0.685404" unit_id="100000"/>
+			<unit_data _prev_pos="-1142.08 -31282.7 5662.04" _prev_rot="-0.00236566 0.00251276 -0.728155 -0.685404" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_single_01" name_id="run_prop_concrete_barrier_stripes_single_01_007" position="-1139.36 -31327.6 5661.73" rotation="-0.0023657 0.00251272 -0.728155 -0.685404" unit_id="100000"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1147.37 -30966 5663.86" _prev_rot="-0.00244045 0.00244019 -0.707103 -0.707102" continent="world" local_pos="316.445 -13.8587 -0.366151" local_rot="-1.28639e-007 2.56114e-009 -0.0302292 0.999543" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_01" name_id="run_prop_concrete_barrier_stripes_01_017" position="-1147.37 -30966 5663.86" rotation="-0.00244045 0.00244019 -0.707103 -0.707102" unit_id="100001"/>
+			<unit_data _prev_pos="-1147.37 -30966 5663.86" _prev_rot="-0.00244045 0.00244019 -0.707103 -0.707102" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_01" name_id="run_prop_concrete_barrier_stripes_01_017" position="-1147.37 -31027 5663.44" rotation="-0.00244049 0.00244023 -0.707103 -0.707102" unit_id="100001"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1147.37 -30621 5666.24" _prev_rot="-0.00244045 0.00244019 -0.707103 -0.707102" continent="world" local_pos="660.823 -34.7082 -0.367591" local_rot="-1.28639e-007 2.56114e-009 -0.0302292 0.999543" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_01" name_id="run_prop_concrete_barrier_stripes_01_018" position="-1147.37 -30621 5666.24" rotation="-0.00244045 0.00244019 -0.707103 -0.707102" unit_id="100002"/>
+			<unit_data _prev_pos="-1147.37 -30621 5666.24" _prev_rot="-0.00244045 0.00244019 -0.707103 -0.707102" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_01" name_id="run_prop_concrete_barrier_stripes_01_018" position="-1147.37 -30621 5666.24" rotation="-0.00244045 0.00244019 -0.707103 -0.707102" unit_id="100002"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1376.56 -31417.8 5660.74" _prev_rot="-0.00345127 -1.80563e-007 -5.4713e-007 -0.999994" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_stripes_01" name_id="run_prop_concrete_barrier_stripes_01_019" position="-1348.56 -31417.8 5660.74" rotation="-0.00345129 -1.80564e-007 -5.4713e-007 -0.999994" unit_id="100003"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1363.98 -31391.6 5596.15" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_shoutout_raid/props/gen_prop_car_ramp/gen_prop_car_ramp" name_id="temp_ramp" position="-1363.98 -31391.6 5596.15" rotation="-0 0 -0 -1" unit_id="100004"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="1353 -32927 -725" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/architecture/glc_ext_bridge/glc_ext_bridge_constructiontower_2" name_id="glc_ext_bridge_constructiontower_2_002" position="1353 -32446 -725" rotation="0 0 0 -1" unit_id="100012"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1104.93 -17533.6 5800.47" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/props/glc_prop_contruction_scaffold/glc_prop_contruction_scaffold_bottom_01" name_id="glc_prop_contruction_scaffold_bottom_01_002" position="-1104.93 -17533.6 5800.47" rotation="0 0 0 -1" unit_id="100016"/>
@@ -13459,6 +13455,12 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-2557 -11862 5234.73" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/dev_bag_collision/dev_bag_collision_64x32m" name_id="dev_bag_collision_64x32m_022" only_visible_in_editor="true" position="-2557 -9805 5234.73" rotation="0 0 0.707107 -0.707107" unit_id="100070"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-278 -34155 -712" _prev_rot="0 0 1 -4.37114e-008" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/architecture/glc_ext_bridge/glc_ext_bridge_constructiontower_1" name_id="glc_ext_bridge_constructiontower_1_002" position="-312 -34155 -712" rotation="0 0 1 -4.37114e-008" unit_id="100006"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="949.562 -29677.8 6932.98" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/architecture/glc_ext_bridge/glc_ext_bridge_trafficsignal" name_id="glc_ext_bridge_trafficsignal_002" position="-1388 -39517 5581" rotation="0 0 0 -1" unit_id="100013"/>
 		</table>
 	</statics>
 	<values>

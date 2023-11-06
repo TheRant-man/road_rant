@@ -4027,8 +4027,8 @@
 			<unit_data continent="editor_only" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_140" position="-3300 -30200 5800" rotation="0 0 0 -1" unit_id="401152"/>
 		</table>
 		<table>
-			<unit_data continent="editor_only" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_097" position="-2900 -29800 5800" rotation="0 0 0.707107 -0.707107" unit_id="401157">
-				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="6" render_template="diffuse_vc_decal" text="ESACPE BLOCKER" vertical="center" word_wrap="false" wrap="false">
+			<unit_data _prev_pos="-2900 -29800 5800" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_097" position="-2900 -29800 5800" rotation="0 0 0.707107 -0.707107" unit_id="401157">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="6" render_template="diffuse_vc_decal" text="TRUCK LOGIC" vertical="center" word_wrap="false" wrap="false">
 					<shape>
 						<value_node value="0"/>
 						<value_node value="0"/>
@@ -5073,6 +5073,63 @@
 		</table>
 		<table>
 			<unit_data continent="editor_only" name="units/dev_tools/level_tools/dev_nav_splitter/dev_nav_splitter_4x3m" name_id="dev_nav_splitter_4x3m_014" position="-2525 -5450 5777.23" rotation="0 0 -2.68221e-007 -1" unit_id="400352"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3300 -32428 5800" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_143" position="-3300 -32428 5800" rotation="0 0 0 -1" unit_id="400363"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2900 -31971 5800" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_108" position="-2900 -31971 5800" rotation="0 0 0.707107 -0.707107" unit_id="400396">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="6" render_template="diffuse_vc_decal" text="HELI LOGIC" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2900 -32406 5800" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_109" position="-2900 -32379 5800" rotation="0 0 0.707107 -0.707107" unit_id="400591">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="6" render_template="diffuse_vc_decal" text="LOOT SLIDE LOGIC" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3300 -29130 5800" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_148" position="-3300 -29130 5800" rotation="0 0 0 -1" unit_id="401195"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2900 -28682 5800" _prev_rot="0 0 0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_110" position="-2900 -28682 5800" rotation="0 0 0.707107 -0.707107" unit_id="401196">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="6" render_template="diffuse_vc_decal" text="ESCAPE LOGIC" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
+		</table>
+		<table>
+			<unit_data _prev_pos="-3300 -29130 5800" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_149" position="-4401 -29130 5800" rotation="0 0 0 -1" unit_id="401199"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-2900 -28682 5800" _prev_rot="0 0 0.707107 -0.707107" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/dev_tools/editable_text_long/editable_text_long" name_id="editable_text_long_111" position="-3993 -28682 5800" rotation="0 0 0.707107 -0.707107" unit_id="401496">
+				<editable_gui align="left" alpha="1" blend_mode="normal" font="fonts/font_medium_shadow_mf" font_color="1 1 1" font_size="6" render_template="diffuse_vc_decal" text="DEBUG" vertical="center" word_wrap="false" wrap="false">
+					<shape>
+						<value_node value="0"/>
+						<value_node value="0"/>
+						<value_node value="1"/>
+						<value_node value="1"/>
+					</shape>
+				</editable_gui>
+			</unit_data>
 		</table>
 	</statics>
 	<values>
