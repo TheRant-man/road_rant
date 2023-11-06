@@ -1,10 +1,17 @@
 <table min_lib_ver="4.5" name="road_rant">
+	<instance id="fri_heli">
+			<add directory="assets"/>
+			<packages>
+				<value_node value="levels/instances/unique/sub_sewer_sidespawn/world/world"/>
+				<value_node value="levels/instances/shared/helicopter_secure_escape/world"/>
+				<value_node value="levels/instances/shared/helicopter_secure_escape/world_sounds"/>
+				<value_node value="levels/instances/shared/helicopter_secure_escape/world/world"/>
+			</packages>
+			<script_data_mods directory="scriptdata"/>
+	</instance>
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<instance id="fri_heli">
-		<packages/>
-	</instance>
 	<level ai_group_type="america" briefing_dialog="" cube="cube_apply_heist_bank" flashlights_on="true" id="icing" intro_event="" max_bags="24" music="heist" player_style="">
 		<Achievements icon="guis/achievements/contra_pack" id="contra">
 			<achievement desc_id="DS_desc" icon="guis/achievements/contra_DS" id="DS" name_id="DS" objective_id="DS_obj" rank="3"/>
@@ -15,18 +22,7 @@
 		<assets/>
 		<environment_effects/>
 		<equipment>
-			<value_node value="saw"/>
 		</equipment>
-		<instance id="fri_helicopter">
-			<add directory="assets"/>
-			<packages>
-				<value_node value="levels/instances/unique/sub_sewer_sidespawn/world/world"/>
-				<value_node value="levels/instances/shared/helicopter_secure_escape/world"/>
-				<value_node value="levels/instances/shared/helicopter_secure_escape/world_sounds"/>
-				<value_node value="levels/instances/shared/helicopter_secure_escape/world/world"/>
-			</packages>
-			<script_data_mods directory="scriptdata"/>
-		</instance>
 		<outro_event>
 			<value_node value=""/>
 		</outro_event>
