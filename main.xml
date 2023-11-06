@@ -22,8 +22,8 @@
 			<value_node value="levels/instances/unique/hox_breakout_road_planks001/world/world"/>
 		</packages>
 	</instance>
-	<Localization default="english.txt" directory="loc">
-		<loc file="english.txt" language="english"/>
+	<Localization default="english.yaml" directory="loc">
+		<loc file="english.yaml" language="english"/>
 	</Localization>
 	<level ai_group_type="america" briefing_dialog="" cube="cube_apply_heist_bank" flashlights_on="true" id="icing" intro_event="" max_bags="10" music="heist" player_style="">
 		<Achievements icon="guis/achievements/contra_pack" id="contra">
@@ -51,6 +51,9 @@
 				<options merge_mode="add" mode="add"/>
 			</mod>
 		</script_data_mods>
+		<xml>
+			<file path="scriptdata/custom_content.xml"/>
+		</xml>
 	</level>
 	<narrative briefing_event="" contact="shayu" hide_from_crimenet="false" id="road_rant" jc="50" load_screen="guis/dlcs/pic/textures/loading/job_greenbridge">
 		<chain>
