@@ -73,8 +73,31 @@
 		<unit path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer"/>
 	</add>
 	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_floor_16x16_a" type="unit">
-		<unit path="units/payday2/architecture/mkp/mkp_int_floor_16x16_a"/>
-		<object path="units/payday2/architecture/mkp/mkp_int_floor_16x16_a"/>
 		<material_config path="units/payday2/architecture/mkp/mkp"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_floor_16x16_a"/>
+		<unit path="units/payday2/architecture/mkp/mkp_int_floor_16x16_a"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker" type="unit">
+		<material_config path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker"/>
+		<object path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker"/>
+		<sequence_manager path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker"/>
+		<unit path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker_11x5" type="unit">
+		<material_config path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker"/>
+		<object path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker_11x5"/>
+		<sequence_manager path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker"/>
+		<unit path="units/payday2/props/gen_prop_car_goal_marker/gen_prop_car_goal_marker_11x5"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_square_drop_marker_2x1/gen_prop_square_drop_marker_2x1" type="unit">
+		<material_config path="units/payday2/props/gen_prop_square_drop_marker_2x1/gen_prop_square_drop_marker_2x1"/>
+		<object path="units/payday2/props/gen_prop_square_drop_marker_2x1/gen_prop_square_drop_marker_2x1"/>
+		<unit path="units/payday2/props/gen_prop_square_drop_marker_2x1/gen_prop_square_drop_marker_2x1"/>
+	</add>
+	<add from_db="true" path="units/payday2/props/gen_prop_drop_marker_born/gen_prop_drop_marker_born" type="unit">
+		<unit path="units/payday2/props/gen_prop_drop_marker_born/gen_prop_drop_marker_born"/>
+		<object path="units/payday2/props/gen_prop_drop_marker_born/gen_prop_drop_marker_born"/>
+		<material_config path="units/payday2/props/gen_prop_drop_marker_born/gen_prop_drop_marker_born"/>
+		<sequence_manager path="units/payday2/props/gen_prop_drop_marker_born/gen_prop_drop_marker_born"/>
 	</add>
 </table>

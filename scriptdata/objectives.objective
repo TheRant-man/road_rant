@@ -13,4 +13,5 @@
 	<objective description="jammer_place_desc" id="jammer_place" text="jammer_place"/>
 	<objective description="place_hijacker_desc" id="place_hijacker" text="place_hijacker"/>
 	<objective description="rewire_desc" id="rewire" text="rewire"/>
+	<objective description="wait_bile_desc" id="wait_bile" text="wait_bile"/>
 </table>

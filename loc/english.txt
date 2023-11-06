@@ -21,7 +21,7 @@
 	"secure_loot_desc":"Move the elements to Bile.",
 	"loot_truck_desc":"Get inside and loot the armoured transport.",
 	"signal_desc":"Light a flare to signal pilot Bile",
-	"hud_int_driving_console":"Hold $BTN_INTERACT to start the override",
+	"hud_int_driving_console":"Press $BTN_INTERACT to progress",
 	"jammer_place":"Set up the jammer",
 	"jammer_place_desc":"Place the jammer near the truck's whereabouts to stop it on its tracks!",
 	"truck_wait":"Wait for the transport",

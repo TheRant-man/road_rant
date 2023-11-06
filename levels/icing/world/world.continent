@@ -587,15 +587,6 @@
 			<unit_data continent="world" name="units/world/props/desert/des_prop_con_pipes/des_prop_con_pipe_drainhose" name_id="des_prop_con_pipe_drainhose_005" position="-3802.84 -23025 7115.28" rotation="-0.00344995 0.0261768 9.03401e-005 -0.999651" unit_id="101313"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" mesh_variation="headlights" name="units/payday2/vehicles/str_vehicle_car_taxi/str_vehicle_car_taxi" name_id="vehicle_taxi_004" position="-1000 4424.73 5625.08" rotation="0.00878942 -0.00381153 -0.397833 -0.917408" unit_id="101347">
-				<lights>
-					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="2000" multiplier="@ID18ceffa252d5a43d@" name="ls_left" near_range="0" spot_angle_end="40" spot_angle_start="40"/>
-					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="2000" multiplier="@ID18ceffa252d5a43d@" name="ls_right" near_range="0" spot_angle_end="40" spot_angle_start="40"/>
-					<table clipping_values="10000 -10000 0" color="1 0.420139 0.275" enabled="false" falloff_exponent="4" far_range="350" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_rear" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
-				</lights>
-			</unit_data>
-		</table>
-		<table>
 			<unit_data continent="world" name="effects/mesh/light_dome" name_id="light_dome_009" position="-2673 18965 14314.4" rotation="0 0 -2.91434e-015 -1" unit_id="101092"/>
 		</table>
 		<table>
@@ -1723,12 +1714,6 @@
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_cane/props/cne_prop_plywood_03x02m/cne_prop_plywood_01x02m" name_id="cne_prop_plywood_01x02m_005" position="-4133.87 -22167.4 5923" rotation="-0.473147 0.525483 0.525483 -0.473147" unit_id="101620"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/architecture/hcm/hcm_bdrop_far_01_cars" name_id="hcm_bdrop_far_01_cars_002" position="-1750 9725 5600" rotation="0 0 -7.45058e-009 -1" unit_id="101792"/>
-		</table>
-		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/architecture/hcm/hcm_bdrop_far_01_cars" name_id="hcm_bdrop_far_01_cars_003" position="-1300 10050 5600" rotation="0 0 1 -1.2666e-007" unit_id="101793"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="1387 -21807 -650" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/architecture/glc_ext_bridge/glc_ext_bridge_constructiontower_2" name_id="glc_ext_bridge_constructiontower_2_001" position="1387 -21807 -650" rotation="0 0 0 -1" unit_id="101918"/>
 		</table>
 		<table>
@@ -2256,9 +2241,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-1028.19 -15956.1 5809" _prev_rot="0 0 -0.0784592 -0.996917" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_001" position="-1175.36 -15979.4 5809" rotation="0 0 -0.0784592 -0.996917" unit_id="101399"/>
-		</table>
-		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_002" position="-540.333 -15249.8 5809" rotation="0 0 0.366501 -0.930418" unit_id="101407"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-674.503 -16278.1 5811" _prev_rot="0 0 -0.0174523 -0.999848" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_003" position="-694.745 -15698.5 5811" rotation="0 0 -0.0174523 -0.999848" unit_id="101425"/>
@@ -4556,7 +4538,7 @@
 			<unit_data continent="world" name="units/dev_tools/level_tools/dev_collision/dev_collision_1x3m" name_id="dev_collision_1x3m_295" position="-2553.99 -39604 6310" rotation="0 0 -0.707107 -0.707107" unit_id="101677"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2278.87 -31444.7 5658.65" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/vehicles/glc_vehicle_truck_skidsteerloader/glc_vehicle_truck_skidsteerloader_breaker" name_id="glc_vehicle_truck_skidsteerloader_breaker_001" position="-2278.87 -31238.7 5658.65" rotation="0 0 0.707107 -0.707107" unit_id="100594"/>
+			<unit_data _prev_pos="-2278.87 -31238.7 5658.65" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/vehicles/glc_vehicle_truck_skidsteerloader/glc_vehicle_truck_skidsteerloader_breaker" name_id="glc_vehicle_truck_skidsteerloader_breaker_001" position="-2278.87 -31238.7 5658.65" rotation="0 0 0.707107 -0.707107" unit_id="100594"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_on_ai_graph="true" disable_shadows="true" mesh_variation="close" name="units/world/props/street/plywood_fence/plywood_fence_door" name_id="plywood_fence_door_002" position="-2561 -23086 5920.48" rotation="0 0 -0.707107 -0.707107" unit_id="101359"/>
@@ -6122,7 +6104,7 @@
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_189" position="-1284.75 -20552.5 5795" rotation="0 0 1 -4.37114e-008" unit_id="104057"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_190" position="-1362 -14968 5808" rotation="0 0 0 -1" unit_id="104058"/>
+			<unit_data _prev_pos="-1362 -14968 5808" _prev_rot="0 0 0 -1" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_190" position="-1582 -14968 5808" rotation="0 0 0 -1" unit_id="104058"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_cro/ind_container_mul/mullplan_container" name_id="mullplan_container_034" position="-856 -18613 5801" rotation="0 0 0.999048 0.0436203" unit_id="104059"/>
@@ -6140,13 +6122,13 @@
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_192" position="-700.914 -17257.4 5806" rotation="0 0 -0.398749 -0.91706" unit_id="104063"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_193" position="-1438.31 -13730 5805" rotation="0 0 -0.398749 -0.91706" unit_id="104064"/>
+			<unit_data _prev_pos="-1438.31 -13730 5805" _prev_rot="0 0 -0.398749 -0.91706" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_193" position="-1627 -13554 5805" rotation="0 0 -0.398749 -0.91706" unit_id="104064"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_194" position="-1376.88 -13787.3 5805" rotation="0 0 -0.398749 -0.91706" unit_id="104065"/>
+			<unit_data _prev_pos="-1189.65 -13961.9 5805" _prev_rot="0 0 0.930418 0.366501" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_194" position="-1116 -13882.9 5805" rotation="0 0 0.930418 0.366501" unit_id="104065"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_195" position="-1238.98 -22209.3 5789" rotation="0 0 0.999391 -0.0348994" unit_id="104066"/>
+			<unit_data _prev_pos="-434.943 -22153.1 5789" _prev_rot="0 0 0.999391 -0.0348994" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_195" position="-423.503 -22316.7 5789" rotation="0 0 0.999391 -0.0348994" unit_id="104066"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_196" position="-937 -21254 5795" rotation="0 0 1 -4.37114e-008" unit_id="104067"/>
@@ -6155,16 +6137,16 @@
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_197" position="-1656.74 -12975 5801.07" rotation="0.00218158 1.90383e-005 -0.00872652 -0.99996" unit_id="104068"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_198" position="-1229.32 -22232.7 5789" rotation="0 0 0.999391 -0.0348994" unit_id="104069"/>
+			<unit_data _prev_pos="-1294.26 -21304 5789" _prev_rot="0 0 0.999391 -0.0348994" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_198" position="-929.154 -21278.4 5789" rotation="0 0 0.999391 -0.0348994" unit_id="104069"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_199" position="-929 -14416 5803" rotation="0 0 0 -1" unit_id="104070"/>
+			<unit_data _prev_pos="-1032 -14416 5803" _prev_rot="0 0 0 -1" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_199" position="-1032 -14645 5803" rotation="0 0 0 -1" unit_id="104070"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_200" position="-1928 -11999 5808" rotation="0 0 0 -1" unit_id="104071"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_202" position="-487.122 -14439 5805" rotation="0 0 -0.0174524 -0.999848" unit_id="104074"/>
+			<unit_data _prev_pos="-480.84 -14618.9 5805" _prev_rot="0 0 -0.0174524 -0.999848" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_202" position="-611.76 -14623.5 5805" rotation="0 0 -0.0174524 -0.999848" unit_id="104074"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-870.98 -13415.8 5802" _prev_rot="0 0 0.999848 -0.0174524" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_203" position="-554.173 -13404.7 5802" rotation="0 0 0.999848 -0.0174524" unit_id="104075"/>
@@ -6173,7 +6155,7 @@
 			<unit_data _prev_pos="-1065.88 -13350.9 5802" _prev_rot="0 0 0.999848 -0.0174524" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_204" position="-1084.41 -12820.2 5802" rotation="0 0 0.999848 -0.0174524" unit_id="104076"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_205" position="-506.595 -21733.2 5788" rotation="0 0 0.999848 -0.0174524" unit_id="104077"/>
+			<unit_data _prev_pos="-506.595 -21733.2 5788" _prev_rot="0 0 0.694658 -0.71934" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_205" position="-461.622 -21731.6 5788" rotation="0 0 0.694658 -0.71934" unit_id="104077"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_cro/ind_container_mul/mullplan_container" name_id="mullplan_container_036" position="-1270.04 -23444.2 5774" rotation="0 0 0.999962 -0.00872549" unit_id="104078"/>
@@ -6194,13 +6176,7 @@
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc2/architecture/gov_d_int/gov_d_int_decal_mull_3x3m" name_id="gov_d_int_decal_mull_3x3m_051" position="-2047 -24959.9 5757" rotation="-0.00611652 0.0062242 -0.700883 -0.713223" unit_id="104084"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_cro/ind_container_mul/mullplan_container" name_id="mullplan_container_039" position="-1342 -11757 5801" rotation="0 0 1 4.37114e-008" unit_id="104085"/>
-		</table>
-		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_208" position="-2411 -25757 5771" rotation="0 0 0.707107 -0.707107" unit_id="104086"/>
-		</table>
-		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_cro/ind_container_mul/mullplan_container" name_id="mullplan_container_040" position="-1342 -11418 5801" rotation="0 0 1 4.37114e-008" unit_id="104087"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_209" position="-382.072 -13074.7 5804.96" rotation="0 0.00872654 0 -0.999962" unit_id="104088"/>
@@ -6216,9 +6192,6 @@
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_213" position="-555.598 -12402.2 5799" rotation="0 0 0.0174524 -0.999848" unit_id="104092"/>
-		</table>
-		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_214" position="-860.486 -11717.2 5797" rotation="0 0 -0.0436194 -0.999048" unit_id="104093"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_215" position="-1645 -25416.1 5760.95" rotation="-0.00872654 0 0 -0.999962" unit_id="104094"/>
@@ -6249,9 +6222,6 @@
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_223" position="-393 -24968 5759" rotation="0 0 1 -4.37114e-008" unit_id="104105"/>
-		</table>
-		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_224" position="-541.679 -10932.1 5797" rotation="0 0 0.390731 -0.920505" unit_id="104106"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_226" position="-1988 -26784 5747" rotation="0 0 0 -1" unit_id="104108"/>
@@ -6314,16 +6284,13 @@
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_254" position="-641.477 -29028.9 5707" rotation="-0.00060827 -0.0087049 0.996157 0.0871519" unit_id="104144"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1773.8 -30128 5692.99" _prev_rot="-0.0124479 -0.0122325 0.713142 -0.700802" _visibility_counter="0" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_cro/ind_container_mul/mullplan_container" name_id="mullplan_container_041" position="-1773.8 -30128 5692.99" rotation="-0.0124479 -0.0122325 0.713142 -0.700802" unit_id="104145"/>
+			<unit_data _prev_pos="-1773.8 -30128 5692.99" _prev_rot="-0.00015231 -0.0174517 0.99981 0.00872573" _visibility_counter="0" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_cro/ind_container_mul/mullplan_container" name_id="mullplan_container_041" position="-2148.74 -30121.5 5692.99" rotation="-0.000152309 -0.0174515 0.99981 0.00872564" unit_id="104145"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_cro/ind_container_mul/mullplan_container" name_id="mullplan_container_042" position="-1204.38 -30109 5694" rotation="-0.0124479 -0.0122325 0.713142 -0.700802" unit_id="104149"/>
+			<unit_data _prev_pos="-1754.78 -30697.1 5673.13" _prev_rot="-0.00015231 -0.0174517 0.99981 0.00872573" _visibility_counter="0" continent="world" disable_shadows="true" local_pos="-28.953 569.002 -0.000795364" local_rot="-1.88127e-007 1.83354e-009 -9.40602e-008 1" name="units/pd2_dlc_cro/ind_container_mul/mullplan_container" name_id="mullplan_container_042" position="-2129.72 -30690.5 5673.13" rotation="-0.00015231 -0.0174517 0.99981 0.00872573" unit_id="104149"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_259" position="-445.678 -29664.3 5703.59" rotation="0.000228346 -0.00872395 0.983218 0.182228" unit_id="104151"/>
-		</table>
-		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_260" position="-572.163 -29993.7 5693.56" rotation="0.000228346 -0.00872395 0.983218 0.182228" unit_id="104152"/>
+			<unit_data _prev_pos="-806.976 -29525.6 5704.99" _prev_rot="0.000228346 -0.00872395 0.983218 0.182228" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_259" position="-629.237 -29062.6 5713.46" rotation="0.000228346 -0.00872395 0.983218 0.182228" unit_id="104151"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" mesh_variation="fall_from_bridge" name="units/vehicles/animated_cars/prisoner_truck_drill_event/prisoner_truck_drill_event_ford" name_id="prisoner_truck_drill_event_ford_002" position="-1627 2862 5575.85" rotation="0 0 1 -1.19209e-007" unit_id="102032"/>
@@ -8277,32 +8244,10 @@
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/gen_prop_glow/gen_prop_glow_02_big" name_id="gen_prop_glow_02_big_010" position="-4488.23 -28753.1 9471.07" rotation="0 0 -0.207912 -0.978148" unit_id="103840"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/lights/light_projection_01/light_projection_02" name_id="light_projection_02_001" position="-1465.25 2731.05 5679.52" projection_light="ls_spot" rotation="0.745395 -0.362682 -0.281936 0.483074" unit_id="104855">
-				<lights>
-					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="true" falloff_exponent="1" far_range="600" multiplier="@ID887b55da4c42f626@" name="ls_spot" near_range="110" spot_angle_end="88" spot_angle_start="66"/>
-				</lights>
-				<projection_textures ls_spot="units/lights/spot_light_projection_textures/spotprojection_23_headlight_df"/>
-			</unit_data>
-		</table>
-		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_cro/burnedgravel_decal/burnedgravel_decal" name_id="burnedgravel_decal_035" position="-930.939 -1425.63 5185.98" rotation="-0.122642 0.0598455 0.985742 0.0984379" unit_id="103841"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_cro/burnedgravel_decal/burnedgravel_decal" name_id="burnedgravel_decal_036" position="-1078.25 -1365.41 5141.9" rotation="-0.122642 0.0598455 0.985742 0.0984379" unit_id="103842"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="core/units/light_omni/light_omni" name_id="light_omni_016" position="-1719 2490 5804.45" rotation="0 0 0 -1" unit_id="104858">
-				<lights>
-					<table clipping_values="10000 -10000 0" color="1 0.501961 0.25098" enabled="true" falloff_exponent="1" far_range="800" multiplier="@ID5035addc43a80b74@" name="lo_omni" near_range="80" spot_angle_end="-1" spot_angle_start="-1"/>
-				</lights>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data continent="world" mesh_variation="fire_flicker" name="units/pd2_dlc_peta/props/pta_prop_flickering_light_fire/pta_prop_flickering_fire_light" name_id="pta_prop_flickering_fire_light_004" position="-1754 2543 5621.6" rotation="0 0 0 -1" unit_id="104859">
-				<lights>
-					<table clipping_values="10000 -10000 0" color="0.928 0.498706 0.115072" enabled="true" falloff_exponent="2" far_range="500" multiplier="@IDbca13ba1d306f87b@" name="ls_fire" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
-				</lights>
-			</unit_data>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_02_on" name_id="ind_ext_prop_lamp_02_on_001" position="-2698 -47566 5535.6" rotation="-8.42937e-008 0.707107 0.707107 -8.42937e-008" unit_id="104857"/>
@@ -9046,9 +8991,6 @@
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_342" position="-568.659 -32192.8 5657.75" rotation="-0.00356724 0.0319095 0.38246 -0.923414" unit_id="105337"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_343" position="-480 -31250.2 5662.15" rotation="-0.00959916 9.31323e-010 8.1418e-009 -0.999954" unit_id="105338"/>
-		</table>
-		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_346" position="-1950 -32275.2 5642.51" rotation="-7.68341e-009 -0.00959916 0.999954 -8.71718e-007" unit_id="105178"/>
 		</table>
 		<table>
@@ -9495,12 +9437,6 @@
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" mesh_variation="state_blinking_red" name="units/pd2_dlc_fish/props/lxy_prop_glow_01_blink/lxy_prop_glow_01_blink" name_id="lxy_prop_glow_01_blink_030" position="-976.12 -18959.1 5917.05" rotation="0.70421 -0.0254094 0.0252345 -0.709088" unit_id="104997"/>
-		</table>
-		<table>
-			<unit_data continent="world" disable_shadows="true" mesh_variation="state_static_red" name="units/pd2_dlc_fish/props/lxy_prop_glow_01_blink/lxy_prop_glow_01_blink" name_id="lxy_prop_glow_01_blink_033" position="-460.136 -2550.22 5524.28" rotation="0.766492 0.106539 -0.0231122 -0.632934" unit_id="105213"/>
-		</table>
-		<table>
-			<unit_data continent="world" disable_shadows="true" mesh_variation="state_static_red" name="units/pd2_dlc_fish/props/lxy_prop_glow_01_blink/lxy_prop_glow_01_blink" name_id="lxy_prop_glow_01_blink_034" position="-434.754 -2545.21 5526.86" rotation="0.766492 0.106539 -0.0231122 -0.632934" unit_id="105214"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="core/units/light_omni/light_omni" name_id="light_omni_056" position="-418 -2595 5560.57" rotation="0 0 0 -1" unit_id="105216">
@@ -10670,9 +10606,6 @@
 					<table clipping_values="10000 -10000 0" color="1 0 0" enabled="true" falloff_exponent="1" far_range="200" multiplier="@ID5035addc43a80b74@" name="lo_omni" near_range="80" spot_angle_end="-1" spot_angle_start="-1"/>
 				</lights>
 			</unit_data>
-		</table>
-		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_225" position="-1039 -10224 5797" rotation="0 0 0.00872654 -0.999962" unit_id="104107"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="core/units/light_omni/light_omni" name_id="light_omni_137" position="-1332 -45313 5419.42" rotation="0 0 0 -1" unit_id="100018">
@@ -12297,7 +12230,7 @@
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc1/props/ind_ext_prop_details/ind_ext_prop_lamp_02_on" name_id="ind_ext_prop_lamp_02_on_012" position="53.0039 -5344 6012.07" rotation="-0.5 -0.5 -0.5 -0.5" unit_id="101986"/>
 		</table>
 		<table>
-			<unit_data continent="world" name="units/pd2_dlc_glace/architecture/glc_ext_bridge/glc_ext_bridge_deck_destruction_a" name_id="glc_ext_bridge_deck_destruction_a_001" position="-3400 -24305 -3100" rotation="0 0 0 -1" unit_id="102037"/>
+			<unit_data _prev_pos="-3400 -24305 -3100" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/architecture/glc_ext_bridge/glc_ext_bridge_deck_destruction_a" name_id="glc_ext_bridge_deck_destruction_a_001" position="-3400 -24305 -3100" rotation="0 0 0 -1" unit_id="102037"/>
 		</table>
 		<table>
 			<unit_data continent="world" name="units/pd2_dlc_glace/architecture/glc_ext_bridge/glc_ext_bridge_deck_destruction_b" name_id="glc_ext_bridge_deck_destruction_b_001" position="-3400 -24305 -3100" rotation="0 0 0 -1" unit_id="102112"/>
@@ -12597,7 +12530,7 @@
 			<unit_data _prev_pos="1552.32 -33199.1 5235.07" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 -968" local_rot="0 0 0 1" name="units/dev_tools/level_tools/collision/dev_collision_20m/dev_collision_20m" name_id="dev_collision_20m_008" only_visible_in_editor="true" position="1570.32 -33199.1 5235.07" rotation="0 0 0 -1" unit_id="100077"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2278.87 -31238.7 5658.65" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/vehicles/glc_vehicle_truck_skidsteerloader/glc_vehicle_truck_skidsteerloader_breaker" name_id="glc_vehicle_truck_skidsteerloader_breaker_002" position="-2278.87 -31402.7 5658.65" rotation="0 0 0.707107 -0.707107" unit_id="100078"/>
+			<unit_data _prev_pos="-2278.87 -31402.7 5658.65" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/vehicles/glc_vehicle_truck_skidsteerloader/glc_vehicle_truck_skidsteerloader_breaker" name_id="glc_vehicle_truck_skidsteerloader_breaker_002" position="-2278.87 -31402.7 5658.65" rotation="0 0 0.707107 -0.707107" unit_id="100078"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-451.6 -31216.8 5663.42" _prev_rot="9.31357e-010 -0.00872653 0.999962 -8.94176e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/props/glc_prop_construction_cementpallet/glc_prop_construction_cementpallet" name_id="glc_prop_construction_cementpallet_004" position="-451.6 -31216.8 5663.42" rotation="9.31357e-010 -0.00872653 0.999962 -8.94176e-008" unit_id="100080"/>
@@ -12675,10 +12608,7 @@
 			<unit_data _prev_pos="-1354.87 -30783.3 5747.61" _prev_rot="0.0871558 0 0 -0.996195" continent="world" local_pos="197 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_043" position="-1354.87 -30980.3 5782.34" rotation="0.0871558 0 0 -0.996195" unit_id="100106"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1163.31 -31178.4 5760.73" _prev_rot="0 0 -0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="light_orange_on_black" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="alpha_drill1" position="-1163.31 -31178.4 5760.73" rotation="0 0 -0.707107 -0.707107" unit_id="100107"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1564.31 -31178.4 5760.73" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="light_orange_on_black" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="alpha_drill2" position="-1564.31 -31178.4 5760.73" rotation="0 0 0.707107 -0.707107" unit_id="100108"/>
+			<unit_data _prev_pos="-1463.45 -31271.5 5926.7" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="yellow_on_black" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="alpha_drill_timer" position="-1463.45 -31271.5 5926.7" rotation="0 0 0.707107 -0.707107" unit_id="100108"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1331.6 -10074.2 5789.66" _prev_rot="-0.00238182 -0.00249822 0.723764 -0.690039" continent="world" disable_shadows="true" local_pos="0.000363318 -607 0.000896409" local_rot="0 0 0 1" name="units/payday2/props/gen_prop_container_a/gen_prop_container_a_yellow" name_id="gen_prop_container_a_yellow_005" position="-1393.53 -10071.3 5789.68" rotation="-0.00238182 -0.00249822 0.723764 -0.690039" unit_id="100026"/>
@@ -12709,6 +12639,18 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-526.921 -22587.6 5782" _prev_rot="0 0 0.999048 0.0436198" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/shadow_mullplan/mullplan_vehicle" name_id="mullplan_vehicle_011" position="-560.825 -22975.2 5782" rotation="0 0 0.999048 0.0436198" unit_id="100019"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1342 -11757 5801" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_cro/ind_container_mul/mullplan_container" name_id="mullplan_container_001" position="-1620 -11757 5801" rotation="0 0 1 4.37114e-008" unit_id="100038"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-401 -11418 5530" _prev_rot="0 0 1 4.37114e-008" continent="world" local_pos="-941 -339 -271" local_rot="0 0 0 1" name="units/pd2_dlc_cro/ind_container_mul/mullplan_container" name_id="mullplan_container_002" position="-679 -11418 5530" rotation="0 0 1 4.37114e-008" unit_id="100057"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1319.98 -11699.4 5791.44" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="hide" name="units/payday2/props/gen_prop_drop_marker_born/gen_prop_drop_marker_born" name_id="marker_jammer" position="-1319.98 -11699.4 5791.44" rotation="0 0 0.707107 -0.707107" unit_id="100020"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1319.98 -11699.4 5791.44" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="hide" name="units/payday2/props/gen_prop_drop_marker_born/gen_prop_drop_marker_born" name_id="marker_hijacker" position="-1157.98 -11699.4 5791.44" rotation="0 0 0.707107 -0.707107" unit_id="100024"/>
 		</table>
 	</statics>
 	<values>
