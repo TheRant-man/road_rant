@@ -51858,12 +51858,12 @@
 					<entry key="host_only" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
-							<entry key="alternative" type="string" value="none"/>
+							<entry key="alternative" type="string" value="interacted"/>
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100041"/>
 						</entry>
 						<entry index="2" type="table">
-							<entry key="alternative" type="string" value="none"/>
+							<entry key="alternative" type="string" value="interacted"/>
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100094"/>
 						</entry>
@@ -51910,17 +51910,17 @@
 					<entry key="host_only" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
-							<entry key="alternative" type="string" value="none"/>
+							<entry key="alternative" type="string" value="interacted"/>
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100047"/>
 						</entry>
 						<entry index="2" type="table">
-							<entry key="alternative" type="string" value="none"/>
+							<entry key="alternative" type="string" value="interacted"/>
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100208"/>
 						</entry>
 						<entry index="3" type="table">
-							<entry key="alternative" type="string" value="none"/>
+							<entry key="alternative" type="string" value="interacted"/>
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100108"/>
 						</entry>
@@ -52331,7 +52331,7 @@
 					<entry key="host_only" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
-							<entry key="alternative" type="string" value="none"/>
+							<entry key="alternative" type="string" value="interacted"/>
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100172"/>
 						</entry>
@@ -52378,12 +52378,12 @@
 					<entry key="host_only" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
-							<entry key="alternative" type="string" value="none"/>
+							<entry key="alternative" type="string" value="interacted"/>
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100006"/>
 						</entry>
 						<entry index="2" type="table">
-							<entry key="alternative" type="string" value="none"/>
+							<entry key="alternative" type="string" value="interacted"/>
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100042"/>
 						</entry>
