@@ -12,7 +12,7 @@
 	<Localization default="english.txt" directory="loc">
 		<loc file="english.txt" language="english"/>
 	</Localization>
-	<level ai_group_type="america" briefing_dialog="" cube="cube_apply_heist_bank" flashlights_on="true" id="icing" intro_event="" max_bags="24" music="heist" player_style="">
+	<level ai_group_type="america" briefing_dialog="" cube="cube_apply_heist_bank" flashlights_on="true" id="icing" intro_event="" max_bags="10" music="heist" player_style="">
 		<Achievements icon="guis/achievements/contra_pack" id="contra">
 			<achievement desc_id="DS_desc" icon="guis/achievements/contra_DS" id="DS" name_id="DS" objective_id="DS_obj" rank="3"/>
 			<achievement desc_id="OD_desc" icon="guis/achievements/contra_OD" id="OD" name_id="OD" objective_id="OD_obj" rank="4"/>
