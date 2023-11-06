@@ -1,0 +1,10 @@
+<table>
+	<statics>
+		<table>
+			<unit_data _prev_pos="2 -1 -43" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_requires_crowbar" name="units/pd2_dlc1/equipment/ind_interactable_shipping_crate/ind_interactable_shipping_crate" name_id="ind_interactable_shipping_crate_001" position="2 -1 -43" rotation="-0 0 -0 -1" unit_id="100007"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>

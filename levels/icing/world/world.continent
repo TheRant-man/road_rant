@@ -16,7 +16,6 @@
 		</table>
 		<table continent="world" name="rickardsfantasitskakaffemugg" reference="101193">
 			<units>
-				<value_node value="101193"/>
 				<value_node value="101194"/>
 				<value_node value="100679"/>
 				<value_node value="100283"/>
@@ -128,6 +127,8 @@
 		<table continent="world" folder="levels/instances/mods/road_rant/fri_heli/world" index_size="250" name="fri_heli_001" position="-4500.53 -22740.3 6098.54" rotation="0 0 -1 -4.37114e-008" script="default" start_index="5950"/>
 		<table continent="world" folder="levels/instances/mods/road_rant/fri_heli/world" index_size="250" name="fri_heli_002" position="1572.32 -33211.1 5865.1" rotation="0 0 0 1" script="default" start_index="10150"/>
 		<table continent="world" folder="levels/instances/unique/fex/fex_helicopter_flare/world" index_size="250" name="fex_helicopter_flare_001" position="-1318.96 -29473.1 5699.95" rotation="0 0 0 1" script="default" start_index="10400"/>
+		<table continent="world" folder="levels/instances/mods/road_rant/road_equipment_box/world" index_size="250" name="road_equipment_box_001" position="-1644 -19037 5841.47" rotation="-0 0 -0 -1" script="default" start_index="10650"/>
+		<table continent="world" folder="levels/instances/mods/road_rant/road_equipment_box/world" index_size="250" name="road_equipment_box_002" position="-1643 -19125 5836.93" rotation="-0 0 -0 -1" script="default" start_index="10900"/>
 	</instances>
 	<statics>
 		<table>
@@ -954,22 +955,16 @@
 			<unit_data continent="world" disable_shadows="true" name="units/world/props/train/tra_cover_cardboardbox/tra_cover_cardboardbox" name_id="tra_cover_cardboardbox_008" position="-2263.01 -19379.3 6058.26" rotation="2.32829e-010 2.32831e-010 0.707107 -0.707107" unit_id="101191"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/world/props/train/tra_cover_cardboardbox/tra_cover_cardboardbox" name_id="tra_cover_cardboardbox_009" position="-1652.24 -19071.6 5907.13" rotation="-0.0322855 0.0293308 0.671786 -0.73946" unit_id="101192"/>
+			<unit_data _prev_pos="-1683.17 -19180.9 5795.45" _prev_rot="-0.0322855 0.0293308 0.671786 -0.73946" _visibility_counter="0" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/train/tra_cover_cardboardbox/tra_cover_cardboardbox" name_id="tra_cover_cardboardbox_009" position="-1683.17 -19180.9 5795.45" rotation="-0.0322855 0.0293308 0.671786 -0.73946" unit_id="101192"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/world/props/mansion/man_cover_int_shipping_box_pallet/man_cover_int_shipping_box_pallet" name_id="man_cover_int_shipping_box_pallet_042" position="-1555 -19095 5795.07" rotation="0 0 0.737156 -0.675723" unit_id="100199"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/world/props/mansion/man_cover_int_shipping_crate_small/man_cover_int_shipping_crate_small" name_id="man_cover_int_shipping_crate_small_023" position="-1643 -19125 5794.93" rotation="-0.00244032 0.00244032 -0.707103 -0.707102" unit_id="100306"/>
-		</table>
-		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/world/props/mansion/man_cover_int_shipping_crate_small/man_cover_int_shipping_crate_small" name_id="man_cover_int_shipping_crate_small_024" position="-1644 -19037 5795.47" rotation="-0.00237299 0.00250584 -0.726087 -0.687594" unit_id="101193"/>
-		</table>
-		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/world/props/mansion/man_cover_int_shipping_box_pallet/man_cover_int_shipping_box_pallet" name_id="man_cover_int_shipping_box_pallet_043" position="-1555 -19095 5870.07" rotation="0 0 0.669449 -0.742858" unit_id="101194"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/world/props/alaska/sledgehammer/sledgehammer" name_id="sledgehammer_006" position="-1721.25 -19085.3 5795.32" rotation="-0.102482 -0.100486 -0.667095 -0.731016" unit_id="101196"/>
+			<unit_data _prev_pos="-1721.25 -19085.3 5795.32" _prev_rot="-0.102482 -0.100486 -0.667095 -0.731016" _visibility_counter="0" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/alaska/sledgehammer/sledgehammer" name_id="supersledge" position="-1721.25 -19085.3 5795.32" rotation="-0.102485 -0.100483 -0.667094 -0.731016" unit_id="101196"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/world/props/survivalist/canisters/canister_plastic" name_id="canister_plastic_006" position="-1550 -19028 5795.54" rotation="0 0 1 -4.37114e-008" unit_id="101197"/>
@@ -1264,7 +1259,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/world/props/train/tra_prop_waterbottle/tra_prop_waterbottle" name_id="tra_prop_waterbottle_007" position="-1616 -19108 5907.17" rotation="0 0 0 -1" unit_id="101427"/>
+			<unit_data _prev_pos="-1710.74 -19111.4 5795.63" _prev_rot="0 0 0 -1" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/train/tra_prop_waterbottle/tra_prop_waterbottle" name_id="tra_prop_waterbottle_007" position="-1710.74 -19111.4 5795.63" rotation="0 0 0 -1" unit_id="101427"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/world/props/signs/construction_signs/construction_sign_hardhat" name_id="construction_sign_hardhat_003" position="-2829 -22300 6665.48" rotation="0 0 0 -1" unit_id="101428"/>
@@ -10999,7 +10994,7 @@
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/str_prop_street_cone/str_prop_street_cone" name_id="str_prop_street_cone_007" position="-2001 -18759 5796.53" rotation="0 0 0 -1" unit_id="101164"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/str_prop_street_cone/str_prop_street_cone" name_id="str_prop_street_cone_008" position="-1568 -19072 5962.54" rotation="-9.76502e-008 0.819152 -0.573576 6.83754e-008" unit_id="101166"/>
+			<unit_data _prev_pos="-1568 -19046.6 5971.77" _prev_rot="-9.7648e-008 0.819152 -0.573576 6.83734e-008" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/props/str_prop_street_cone/str_prop_street_cone" name_id="str_prop_street_cone_008" position="-1568 -19043.6 5963.32" rotation="-9.76468e-008 0.819152 -0.573576 6.83724e-008" unit_id="101166"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/payday2/props/str_prop_street_cone/str_prop_street_cone" name_id="str_prop_street_cone_009" position="-282 -20368 5806.88" rotation="0 0 0.675591 -0.737277" unit_id="101165"/>
