@@ -11,4 +11,6 @@
 	<objective description="civies_desc" id="civies" text="civies"/>
 	<objective description="truck_wait_desc" id="truck_wait" text="truck_wait"/>
 	<objective description="jammer_place_desc" id="jammer_place" text="jammer_place"/>
+	<objective description="place_hijacker_desc" id="place_hijacker" text="place_hijacker"/>
+	<objective description="rewire_desc" id="rewire" text="rewire"/>
 </table>

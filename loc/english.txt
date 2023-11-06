@@ -1,7 +1,7 @@
 {
 	"heist_icing_name":"Queensboro Bridge",
 	"heist_road_rant_name":"Road Rage: Ranted",
-	"heist_road_rant_brief":"So you wanna get back in the game? Earn some money? I haven't forgotten what you did for me back in San Francisco. \n\n» Locate the EMP. \n\n» Stop the transport. \n\n» Hack the truck. \n\n» Escort the transport. \n\n» Open the doors. \n\n» Steal the minerals. \n\n» Escape.",
+	"heist_road_rant_brief":"So you wanna get back in the game? Earn some money? I haven't forgotten what you did for me back in San Francisco. \n\n» Locate the EMP. \n\n» Stop the transport. \n\n» Hack the autopilot. \n\n» Escort the transport. \n\n» Open the doors. \n\n» Steal the minerals. \n\n» Escape.",
 	"heist_icing_brief":"We're going to rob an armored transport carrying valuable rare-earth elements, a key part in the manufacutring of electronic components. There's already a decoy in place to reroute the transport to the upper level of Queensboro Bridge - currently undergoing renovation - while also confusing the transport's SWAT escort. It should give us a few minutes to set everything up. Just don't do anything to alert the driver. ",
 	"drill_bottom":"Breach the armoured transport",
 	"find_emp":"Find the jammer",
@@ -21,5 +21,15 @@
 	"secure_loot_desc":"Move the elements to Bile.",
 	"loot_truck_desc":"Get inside and loot the armoured transport.",
 	"signal_desc":"Light a flare to signal pilot Bile",
-	"alpha_hack":"Hold $BTN_INTERACT to start the override"
+	"hud_int_driving_console":"Hold $BTN_INTERACT to start the override",
+	"jammer_place":"Set up the jammer",
+	"jammer_place_desc":"Place the jammer near the truck's whereabouts to stop it on its tracks!",
+	"truck_wait":"Wait for the transport",
+	"truck_wait_desc":"Wait for the transport to arrive and run into the jammer.",
+	"civies":"Watch the civilians",
+	"civies_desc":"Don't let any civilians escape and alert the driver!",
+	"place_hijacker":"Set up the hacking device",
+	"place_hijacker_desc":"Place the device onto the truck.",
+	"rewire":"Rewire the doors",
+	"rewire_desc":"Rewire the magnetic lock"
 }
