@@ -1,7 +1,7 @@
 {
 	"heist_icing_name":"Queensboro Bridge",
 	"heist_road_rant_name":"Road Rage: Ranted",
-	"heist_road_rant_brief":"So you wanna get back in the game? Earn some money? I haven't forgotten what you did for me back in San Francisco. \n\n» Locate the EMP. \n\n» Stop the transport. \n\n» Hack the autopilot. \n\n» Escort the transport. \n\n» Open the doors. \n\n» Steal the minerals. \n\n» Escape.",
+	"heist_road_rant_brief":"So you wanna get back in the game? Earn some money? I haven't forgotten what you did for me back in San Francisco. \n\n» Locate the EMP. \n» Stop the transport. \n» Hack the autopilot. \n» Escort the transport. \n» Open the doors. \n» Steal the minerals. \n» Escape.",
 	"heist_icing_brief":"We're going to rob an armored transport carrying valuable rare-earth elements, a key part in the manufacutring of electronic components. There's already a decoy in place to reroute the transport to the upper level of Queensboro Bridge - currently undergoing renovation - while also confusing the transport's SWAT escort. It should give us a few minutes to set everything up. Just don't do anything to alert the driver. ",
 	"drill_bottom":"Breach the armoured transport",
 	"find_emp":"Find the jammer",
