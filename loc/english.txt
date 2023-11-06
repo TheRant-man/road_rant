@@ -20,5 +20,6 @@
 	"protecc_hacc_desc":"Keep the device secure from cops!",
 	"secure_loot_desc":"Move the elements to Bile.",
 	"loot_truck_desc":"Get inside and loot the armoured transport.",
-	"signal_desc":"Light a flare to signal pilot Bile"
+	"signal_desc":"Light a flare to signal pilot Bile",
+	"alpha_hack":"Hold $BTN_INTERACT to start the override"
 }

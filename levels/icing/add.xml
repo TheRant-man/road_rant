@@ -54,4 +54,27 @@
 		<object path="units/pd2_dlc_glace/architecture/glc_ext_waste_chute/glc_ext_waste_chute_v2"/>
 		<unit path="units/pd2_dlc_glace/architecture/glc_ext_waste_chute/glc_ext_waste_chute_v2"/>
 	</add>
+	<add from_db="true" path="units/pd2_dlc_berry/props/bry_prop_breaching_charge/bry_prop_breaching_charge" type="unit">
+		<material_config path="units/pd2_dlc_berry/props/bry_prop_breaching_charge/bry_prop_breaching_charge"/>
+		<object path="units/pd2_dlc_berry/props/bry_prop_breaching_charge/bry_prop_breaching_charge"/>
+		<sequence_manager path="units/pd2_dlc_berry/props/bry_prop_breaching_charge/bry_prop_breaching_charge"/>
+		<unit path="units/pd2_dlc_berry/props/bry_prop_breaching_charge/bry_prop_breaching_charge"/>
+	</add>
+	<add from_db="true" path="units/pd2_dlc_chill/props/chl_prop_timer_small/chl_prop_timer_medium" type="unit">
+		<material_config path="units/pd2_dlc_chill/props/chl_prop_timer_small/chl_prop_timer_small"/>
+		<object path="units/pd2_dlc_chill/props/chl_prop_timer_small/chl_prop_timer_medium"/>
+		<sequence_manager path="units/pd2_dlc_chill/props/chl_prop_timer_small/chl_prop_timer_small"/>
+		<unit path="units/pd2_dlc_chill/props/chl_prop_timer_small/chl_prop_timer_medium"/>
+	</add>
+	<add from_db="true" path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" type="unit">
+		<material_config path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer"/>
+		<object path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer"/>
+		<sequence_manager path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer"/>
+		<unit path="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer"/>
+	</add>
+	<add from_db="true" path="units/payday2/architecture/mkp/mkp_int_floor_16x16_a" type="unit">
+		<unit path="units/payday2/architecture/mkp/mkp_int_floor_16x16_a"/>
+		<object path="units/payday2/architecture/mkp/mkp_int_floor_16x16_a"/>
+		<material_config path="units/payday2/architecture/mkp/mkp"/>
+	</add>
 </table>
