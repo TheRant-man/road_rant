@@ -95,9 +95,19 @@
 		<unit path="units/payday2/props/gen_prop_square_drop_marker_2x1/gen_prop_square_drop_marker_2x1"/>
 	</add>
 	<add from_db="true" path="units/payday2/props/gen_prop_drop_marker_born/gen_prop_drop_marker_born" type="unit">
-		<unit path="units/payday2/props/gen_prop_drop_marker_born/gen_prop_drop_marker_born"/>
-		<object path="units/payday2/props/gen_prop_drop_marker_born/gen_prop_drop_marker_born"/>
 		<material_config path="units/payday2/props/gen_prop_drop_marker_born/gen_prop_drop_marker_born"/>
+		<object path="units/payday2/props/gen_prop_drop_marker_born/gen_prop_drop_marker_born"/>
 		<sequence_manager path="units/payday2/props/gen_prop_drop_marker_born/gen_prop_drop_marker_born"/>
+		<unit path="units/payday2/props/gen_prop_drop_marker_born/gen_prop_drop_marker_born"/>
+	</add>
+	<add from_db="true" path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small" type="unit">
+		<unit path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small"/>
+		<object path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small"/>
+		<material_config path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small"/>
+		<sequence_manager path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small"/>
+		<gui path="guis/timer_gui"/>
+		<effect load="true" path="effects/payday2/environment/drill"/>
+		<effect load="true" path="effects/payday2/environment/parts/drill_sparks_particles"/>
+		<effect load="true" path="effects/payday2/environment/parts/drill_sparks"/>
 	</add>
 </table>
