@@ -1999,7 +1999,6 @@
 					<entry index="100000" type="boolean" value="true"/>
 					<entry index="100002" type="boolean" value="true"/>
 					<entry index="100003" type="boolean" value="true"/>
-					<entry index="100004" type="boolean" value="true"/>
 					<entry index="100025" type="boolean" value="true"/>
 					<entry index="100027" type="boolean" value="true"/>
 					<entry index="100028" type="boolean" value="true"/>
@@ -2573,8 +2572,6 @@
 					<entry index="100000" type="boolean" value="true"/>
 					<entry index="100002" type="boolean" value="true"/>
 					<entry index="100003" type="boolean" value="true"/>
-					<entry index="100004" type="boolean" value="true"/>
-					<entry index="100049" type="boolean" value="true"/>
 					<entry index="100218" type="boolean" value="true"/>
 					<entry index="100295" type="boolean" value="true"/>
 					<entry index="100302" type="boolean" value="true"/>
@@ -2738,7 +2735,6 @@
 			<entry key="group5" type="table">
 				<entry key="ids" type="table">
 					<entry index="100025" type="boolean" value="true"/>
-					<entry index="100049" type="boolean" value="true"/>
 					<entry index="100062" type="boolean" value="true"/>
 					<entry index="100083" type="boolean" value="true"/>
 					<entry index="100093" type="boolean" value="true"/>
