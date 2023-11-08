@@ -13432,10 +13432,6 @@
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="event_list" type="table">
-						<entry index="1" type="table">
-							<entry key="event" type="string" value="activate_lootdrop"/>
-							<entry key="instance" type="string" value="glace_secure_loot_zone_001"/>
-						</entry>
 					</entry>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
@@ -13455,7 +13451,6 @@
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="instance" type="string" value="glace_secure_loot_zone_001"/>
 					<entry key="on_executed" type="table">
 						<entry index="1" type="table">
 							<entry key="delay" type="number" value="0"/>
@@ -18016,83 +18011,62 @@
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_list" type="table">
 						<entry index="1" type="table">
-							<entry key="id" type="number" value="2"/>
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="100011"/>
-							<entry key="notify_unit_sequence" type="string" value="state_lights_siren_on"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="2" type="table">
-							<entry key="id" type="number" value="3"/>
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="100042"/>
-							<entry key="notify_unit_sequence" type="string" value="state_lights_siren_on"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="3" type="table">
-							<entry key="id" type="number" value="4"/>
-							<entry key="name" type="string" value="run_sequence"/>
-							<entry key="notify_unit_id" type="number" value="100292"/>
-							<entry key="notify_unit_sequence" type="string" value="state_lights_siren_on"/>
-							<entry key="time" type="number" value="0"/>
-						</entry>
-						<entry index="4" type="table">
 							<entry key="id" type="number" value="5"/>
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="100414"/>
 							<entry key="notify_unit_sequence" type="string" value="state_lights_siren_on"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="5" type="table">
+						<entry index="2" type="table">
 							<entry key="id" type="number" value="6"/>
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="100442"/>
 							<entry key="notify_unit_sequence" type="string" value="state_lights_siren_on"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="6" type="table">
+						<entry index="3" type="table">
 							<entry key="id" type="number" value="7"/>
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="100474"/>
 							<entry key="notify_unit_sequence" type="string" value="state_lights_siren_on"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="7" type="table">
+						<entry index="4" type="table">
 							<entry key="id" type="number" value="8"/>
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="100471"/>
 							<entry key="notify_unit_sequence" type="string" value="state_lights_siren_on"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="8" type="table">
+						<entry index="5" type="table">
 							<entry key="id" type="number" value="9"/>
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="100473"/>
 							<entry key="notify_unit_sequence" type="string" value="state_lights_siren_on"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="9" type="table">
+						<entry index="6" type="table">
 							<entry key="id" type="number" value="10"/>
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="100472"/>
 							<entry key="notify_unit_sequence" type="string" value="state_lights_siren_on"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="10" type="table">
+						<entry index="7" type="table">
 							<entry key="id" type="number" value="11"/>
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="100475"/>
 							<entry key="notify_unit_sequence" type="string" value="state_lights_siren_on"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="11" type="table">
+						<entry index="8" type="table">
 							<entry key="id" type="number" value="12"/>
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="101276"/>
 							<entry key="notify_unit_sequence" type="string" value="state_lights_siren_on"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
-						<entry index="12" type="table">
+						<entry index="9" type="table">
 							<entry key="id" type="number" value="13"/>
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="101275"/>
@@ -21978,10 +21952,6 @@
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="event_list" type="table">
-						<entry index="1" type="table">
-							<entry key="event" type="string" value="loot_counter"/>
-							<entry key="instance" type="string" value="glace_secure_loot_zone_001"/>
-						</entry>
 					</entry>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
@@ -22073,10 +22043,6 @@
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="event_list" type="table">
-						<entry index="1" type="table">
-							<entry key="event" type="string" value="remove_waypoint"/>
-							<entry key="instance" type="string" value="glace_secure_loot_zone_001"/>
-						</entry>
 					</entry>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
@@ -38051,10 +38017,6 @@
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="event_list" type="table">
-						<entry index="1" type="table">
-							<entry key="event" type="string" value="loot_counter"/>
-							<entry key="instance" type="string" value="glace_secure_loot_zone_001"/>
-						</entry>
 					</entry>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
@@ -46252,7 +46214,6 @@
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="unit_ids" type="table">
-						<entry index="1" type="number" value="100042"/>
 					</entry>
 				</entry>
 			</entry>
@@ -48574,11 +48535,11 @@
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="event_list" type="table">
 						<entry index="1" type="table">
-							<entry key="event" type="string" value="gold_secured"/>
+							<entry key="event" type="string" value="mandatory_secured"/>
 							<entry key="instance" type="string" value="fri_heli_001"/>
 						</entry>
 						<entry index="2" type="table">
-							<entry key="event" type="string" value="gold_secured"/>
+							<entry key="event" type="string" value="mandatory_secured"/>
 							<entry key="instance" type="string" value="fri_heli_002"/>
 						</entry>
 					</entry>
@@ -50424,11 +50385,11 @@
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="event_list" type="table">
 						<entry index="1" type="table">
-							<entry key="event" type="string" value="gold_secured"/>
+							<entry key="event" type="string" value="mandatory_secured"/>
 							<entry key="instance" type="string" value="fri_heli_001"/>
 						</entry>
 						<entry index="2" type="table">
-							<entry key="event" type="string" value="gold_secured"/>
+							<entry key="event" type="string" value="mandatory_secured"/>
 							<entry key="instance" type="string" value="fri_heli_002"/>
 						</entry>
 					</entry>
@@ -51124,52 +51085,51 @@
 			<entry index="11" type="string" value="pet_helicopter_sniper_014"/>
 			<entry index="12" type="string" value="pet_helicopter_sniper_015"/>
 			<entry index="13" type="string" value="pet_helicopter_sniper_016"/>
-			<entry index="14" type="string" value="glace_secure_loot_zone_001"/>
-			<entry index="15" type="string" value="harasser_001"/>
-			<entry index="16" type="string" value="harasser_002"/>
-			<entry index="17" type="string" value="glace_parachute_crate_001"/>
-			<entry index="18" type="string" value="glace_parachute_car_001"/>
-			<entry index="19" type="string" value="glace_ganster_cars_001"/>
-			<entry index="20" type="string" value="pet_helicopter_sniper_017"/>
-			<entry index="21" type="string" value="pet_helicopter_sniper_018"/>
-			<entry index="22" type="string" value="pet_helicopter_sniper_019"/>
-			<entry index="23" type="string" value="pet_helicopter_sniper_020"/>
-			<entry index="24" type="string" value="pet_helicopter_sniper_021"/>
-			<entry index="25" type="string" value="pet_helicopter_sniper_022"/>
-			<entry index="26" type="string" value="pet_helicopter_sniper_023"/>
-			<entry index="27" type="string" value="pet_helicopter_sniper_024"/>
-			<entry index="28" type="string" value="pet_helicopter_sniper_025"/>
-			<entry index="29" type="string" value="pet_helicopter_sniper_026"/>
-			<entry index="30" type="string" value="pet_helicopter_sniper_027"/>
-			<entry index="31" type="string" value="glace_helicopter_swat_001"/>
-			<entry index="32" type="string" value="glace_helicopter_swat_003"/>
-			<entry index="33" type="string" value="glace_helicopter_swat_004"/>
-			<entry index="34" type="string" value="glace_helicopter_swat_007"/>
-			<entry index="35" type="string" value="glace_helicopter_swat_008"/>
-			<entry index="36" type="string" value="glace_helicopter_swat_009"/>
-			<entry index="37" type="string" value="glace_helicopter_swat_010"/>
-			<entry index="38" type="string" value="glace_helicopter_swat_011"/>
-			<entry index="39" type="string" value="glace_helicopter_swat_012"/>
-			<entry index="40" type="string" value="glace_helicopter_dozer_001"/>
-			<entry index="41" type="string" value="glace_helicopter_dozer_003"/>
-			<entry index="42" type="string" value="glace_helicopter_dozer_004"/>
-			<entry index="43" type="string" value="obj_link_001"/>
-			<entry index="44" type="string" value="obj_link_002"/>
-			<entry index="45" type="string" value="obj_link_003"/>
-			<entry index="46" type="string" value="obj_link_004"/>
-			<entry index="47" type="string" value="obj_link_005"/>
-			<entry index="48" type="string" value="obj_link_006"/>
-			<entry index="49" type="string" value="fri_heli_001"/>
-			<entry index="50" type="string" value="fri_heli_002"/>
-			<entry index="51" type="string" value="fex_helicopter_flare_001"/>
-			<entry index="52" type="string" value="road_equipment_box_001"/>
-			<entry index="53" type="string" value="road_equipment_box_002"/>
-			<entry index="54" type="string" value="road_ramp_001"/>
-			<entry index="55" type="string" value="road_ramp_002"/>
-			<entry index="56" type="string" value="road_ramp_003"/>
-			<entry index="57" type="string" value="road_ramp_004"/>
-			<entry index="58" type="string" value="road_equipment_box_003"/>
-			<entry index="59" type="string" value="road_equipment_box_004"/>
+			<entry index="14" type="string" value="harasser_001"/>
+			<entry index="15" type="string" value="harasser_002"/>
+			<entry index="16" type="string" value="glace_parachute_crate_001"/>
+			<entry index="17" type="string" value="glace_parachute_car_001"/>
+			<entry index="18" type="string" value="glace_ganster_cars_001"/>
+			<entry index="19" type="string" value="pet_helicopter_sniper_017"/>
+			<entry index="20" type="string" value="pet_helicopter_sniper_018"/>
+			<entry index="21" type="string" value="pet_helicopter_sniper_019"/>
+			<entry index="22" type="string" value="pet_helicopter_sniper_020"/>
+			<entry index="23" type="string" value="pet_helicopter_sniper_021"/>
+			<entry index="24" type="string" value="pet_helicopter_sniper_022"/>
+			<entry index="25" type="string" value="pet_helicopter_sniper_023"/>
+			<entry index="26" type="string" value="pet_helicopter_sniper_024"/>
+			<entry index="27" type="string" value="pet_helicopter_sniper_025"/>
+			<entry index="28" type="string" value="pet_helicopter_sniper_026"/>
+			<entry index="29" type="string" value="pet_helicopter_sniper_027"/>
+			<entry index="30" type="string" value="glace_helicopter_swat_001"/>
+			<entry index="31" type="string" value="glace_helicopter_swat_003"/>
+			<entry index="32" type="string" value="glace_helicopter_swat_004"/>
+			<entry index="33" type="string" value="glace_helicopter_swat_007"/>
+			<entry index="34" type="string" value="glace_helicopter_swat_008"/>
+			<entry index="35" type="string" value="glace_helicopter_swat_009"/>
+			<entry index="36" type="string" value="glace_helicopter_swat_010"/>
+			<entry index="37" type="string" value="glace_helicopter_swat_011"/>
+			<entry index="38" type="string" value="glace_helicopter_swat_012"/>
+			<entry index="39" type="string" value="glace_helicopter_dozer_001"/>
+			<entry index="40" type="string" value="glace_helicopter_dozer_003"/>
+			<entry index="41" type="string" value="glace_helicopter_dozer_004"/>
+			<entry index="42" type="string" value="obj_link_001"/>
+			<entry index="43" type="string" value="obj_link_002"/>
+			<entry index="44" type="string" value="obj_link_003"/>
+			<entry index="45" type="string" value="obj_link_004"/>
+			<entry index="46" type="string" value="obj_link_005"/>
+			<entry index="47" type="string" value="obj_link_006"/>
+			<entry index="48" type="string" value="fri_heli_001"/>
+			<entry index="49" type="string" value="fri_heli_002"/>
+			<entry index="50" type="string" value="fex_helicopter_flare_001"/>
+			<entry index="51" type="string" value="road_equipment_box_001"/>
+			<entry index="52" type="string" value="road_equipment_box_002"/>
+			<entry index="53" type="string" value="road_ramp_001"/>
+			<entry index="54" type="string" value="road_ramp_002"/>
+			<entry index="55" type="string" value="road_ramp_003"/>
+			<entry index="56" type="string" value="road_ramp_004"/>
+			<entry index="57" type="string" value="road_equipment_box_003"/>
+			<entry index="58" type="string" value="road_equipment_box_004"/>
 		</entry>
 		<entry key="name" type="string" value="default"/>
 	</entry>
