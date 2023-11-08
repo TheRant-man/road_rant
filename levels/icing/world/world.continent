@@ -12469,16 +12469,13 @@
 			<unit_data _prev_pos="-1344.87 -30521.3 5806.17" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_046" position="-1544.87 -30521.3 5806.17" rotation="0 0 0 -1" unit_id="100019"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1344.87 -30321.3 5806.17" _prev_rot="0 0 0 -1" continent="world" local_pos="0 200 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_047" position="-1544.87 -30321.3 5806.17" rotation="0 0 0 -1" unit_id="100042"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-1344.87 -30521.3 5806.17" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_048" position="-1344.87 -30521.3 5608.17" rotation="-0.707107 0 0 -0.707107" unit_id="100132"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1344.87 -30521.3 5608.17" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_049" position="-1543.87 -30521.3 5608.17" rotation="-0.707107 0 0 -0.707107" unit_id="100133"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1365.6 -30303.7 5781.17" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_show" name="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small" name_id="gen_interactable_drill_small_001" position="-1365.6 -30303.7 5837.17" rotation="-0.707107 0 0 -0.707107" unit_id="100049"/>
+			<unit_data _prev_pos="-1365.6 -30303.7 5837.17" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_show" name="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small" name_id="beta_drill" position="-1365.6 -30303.7 5839.17" rotation="-0.707107 0 0 -0.707107" unit_id="100049"/>
 		</table>
 	</statics>
 	<values>
