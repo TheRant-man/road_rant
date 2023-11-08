@@ -48692,7 +48692,7 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="carry_id" type="string" value="gold"/>
+					<entry key="carry_id" type="string" value="road_rant_minerals"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="from_respawn" type="boolean" value="false"/>
@@ -50360,7 +50360,7 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="carry_id" type="string" value="gold"/>
+					<entry key="carry_id" type="string" value="road_rant_minerals"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="from_respawn" type="boolean" value="false"/>
@@ -50380,7 +50380,7 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="carry_id" type="string" value="gold"/>
+					<entry key="carry_id" type="string" value="road_rant_minerals"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="from_respawn" type="boolean" value="false"/>
@@ -50400,7 +50400,7 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="carry_id" type="string" value="gold"/>
+					<entry key="carry_id" type="string" value="road_rant_minerals"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="from_respawn" type="boolean" value="false"/>

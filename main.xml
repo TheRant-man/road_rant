@@ -8,6 +8,9 @@
 			<value_node value="levels/instances/shared/helicopter_secure_escape/world/world"/>
 		</packages>
 		<script_data_mods directory="scriptdata"/>
+		<xml>
+			<file path="scriptdata/custom_content.xml"/>
+		</xml>
 	</instance>
 	<instance id="road_gps">
 		<packages/>

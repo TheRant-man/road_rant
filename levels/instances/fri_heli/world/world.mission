@@ -452,7 +452,7 @@
 			</entry>
 			<entry index="18" type="table">
 				<entry key="class" type="string" value="ElementCarry"/>
-				<entry key="editor_name" type="string" value="secure_gold"/>
+				<entry key="editor_name" type="string" value="secure_minerals"/>
 				<entry key="id" type="number" value="100024"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
@@ -473,12 +473,12 @@
 					<entry key="position" type="vector3" value="5189 8773 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="trigger_times" type="number" value="0"/>
-					<entry key="type_filter" type="string" value="gold"/>
+					<entry key="type_filter" type="string" value="road_rant_minerals"/>
 				</entry>
 			</entry>
 			<entry index="19" type="table">
 				<entry key="class" type="string" value="ElementCarry"/>
-				<entry key="editor_name" type="string" value="remove_gold"/>
+				<entry key="editor_name" type="string" value="remove_minerals"/>
 				<entry key="id" type="number" value="100025"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
@@ -491,7 +491,7 @@
 					<entry key="position" type="vector3" value="2309 3764 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="trigger_times" type="number" value="0"/>
-					<entry key="type_filter" type="string" value="gold"/>
+					<entry key="type_filter" type="string" value="road_rant_minerals"/>
 				</entry>
 			</entry>
 			<entry index="20" type="table">
