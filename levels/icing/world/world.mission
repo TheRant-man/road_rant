@@ -39519,7 +39519,7 @@
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="functionality" type="string" value="flee_point"/>
 					<entry key="on_executed" type="table">
@@ -48791,6 +48791,10 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100039"/>
 						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100437"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-3043.38 -32045.3 5802.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
@@ -49038,6 +49042,10 @@
 						<entry index="2" type="table">
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100162"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100160"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-3352.86 -28872.4 5802.5"/>
