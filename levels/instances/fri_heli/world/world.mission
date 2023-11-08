@@ -12,10 +12,10 @@
 				<entry key="values" type="table">
 					<entry key="amount" type="string" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="depth" type="number" value="150"/>
+					<entry key="depth" type="number" value="300"/>
 					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="height" type="number" value="150"/>
+					<entry key="height" type="number" value="300"/>
 					<entry key="instigator" type="string" value="loot"/>
 					<entry key="interval" type="number" value="0.1"/>
 					<entry key="on_executed" type="table">
@@ -48,7 +48,7 @@
 							<entry key="id" type="number" value="100034"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="300 15 159"/>
+					<entry key="position" type="vector3" value="300 15 -27"/>
 					<entry key="radius" type="number" value="250"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="rules_element_ids" type="table">
@@ -60,7 +60,7 @@
 					<entry key="trigger_on" type="string" value="on_enter"/>
 					<entry key="trigger_times" type="number" value="0"/>
 					<entry key="use_disabled_shapes" type="boolean" value="false"/>
-					<entry key="width" type="number" value="150"/>
+					<entry key="width" type="number" value="800"/>
 				</entry>
 			</entry>
 			<entry index="2" type="table">
@@ -196,14 +196,14 @@
 			</entry>
 			<entry index="6" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutput"/>
-				<entry key="editor_name" type="string" value="output_gold_secured"/>
+				<entry key="editor_name" type="string" value="output_mandatory_secured"/>
 				<entry key="id" type="number" value="100000"/>
 				<entry key="module" type="string" value="CoreElementInstance"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="event" type="string" value="gold_secured"/>
+					<entry key="event" type="string" value="mandatory_secured"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
@@ -2141,7 +2141,7 @@
 						<entry index="1" type="table">
 							<entry key="name" type="string" value="run_sequence"/>
 							<entry key="notify_unit_id" type="number" value="100000"/>
-							<entry key="notify_unit_sequence" type="string" value="anim_chew_exit"/>
+							<entry key="notify_unit_sequence" type="string" value="redi_flyout_back"/>
 							<entry key="time" type="number" value="0"/>
 						</entry>
 					</entry>

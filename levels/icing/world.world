@@ -1923,7 +1923,7 @@
 		<entry key="environment_areas" type="table">
 		</entry>
 		<entry key="environment_values" type="table">
-			<entry key="color_grading" type="string" value="color_payday"/>
+			<entry key="color_grading" type="string" value="color_bhd"/>
 			<entry key="environment" type="string" value=".map/environments/env_icing"/>
 			<entry key="sky_rot" type="number" value="140"/>
 		</entry>
@@ -2000,9 +2000,6 @@
 					<entry index="100002" type="boolean" value="true"/>
 					<entry index="100003" type="boolean" value="true"/>
 					<entry index="100004" type="boolean" value="true"/>
-					<entry index="100009" type="boolean" value="true"/>
-					<entry index="100010" type="boolean" value="true"/>
-					<entry index="100021" type="boolean" value="true"/>
 					<entry index="100025" type="boolean" value="true"/>
 					<entry index="100027" type="boolean" value="true"/>
 					<entry index="100028" type="boolean" value="true"/>
@@ -2051,10 +2048,8 @@
 					<entry index="100302" type="boolean" value="true"/>
 					<entry index="100345" type="boolean" value="true"/>
 					<entry index="100346" type="boolean" value="true"/>
-					<entry index="100358" type="boolean" value="true"/>
 					<entry index="100359" type="boolean" value="true"/>
 					<entry index="100360" type="boolean" value="true"/>
-					<entry index="100365" type="boolean" value="true"/>
 					<entry index="100385" type="boolean" value="true"/>
 					<entry index="100441" type="boolean" value="true"/>
 					<entry index="100447" type="boolean" value="true"/>
@@ -2537,7 +2532,6 @@
 			</entry>
 			<entry key="group3" type="table">
 				<entry key="ids" type="table">
-					<entry index="100021" type="boolean" value="true"/>
 					<entry index="100023" type="boolean" value="true"/>
 					<entry index="100030" type="boolean" value="true"/>
 					<entry index="100031" type="boolean" value="true"/>
@@ -2580,8 +2574,6 @@
 					<entry index="100002" type="boolean" value="true"/>
 					<entry index="100003" type="boolean" value="true"/>
 					<entry index="100004" type="boolean" value="true"/>
-					<entry index="100009" type="boolean" value="true"/>
-					<entry index="100010" type="boolean" value="true"/>
 					<entry index="100049" type="boolean" value="true"/>
 					<entry index="100218" type="boolean" value="true"/>
 					<entry index="100295" type="boolean" value="true"/>
@@ -2745,8 +2737,6 @@
 			</entry>
 			<entry key="group5" type="table">
 				<entry key="ids" type="table">
-					<entry index="100009" type="boolean" value="true"/>
-					<entry index="100010" type="boolean" value="true"/>
 					<entry index="100025" type="boolean" value="true"/>
 					<entry index="100049" type="boolean" value="true"/>
 					<entry index="100062" type="boolean" value="true"/>
@@ -2770,10 +2760,8 @@
 					<entry index="100345" type="boolean" value="true"/>
 					<entry index="100346" type="boolean" value="true"/>
 					<entry index="100357" type="boolean" value="true"/>
-					<entry index="100358" type="boolean" value="true"/>
 					<entry index="100359" type="boolean" value="true"/>
 					<entry index="100360" type="boolean" value="true"/>
-					<entry index="100365" type="boolean" value="true"/>
 					<entry index="100423" type="boolean" value="true"/>
 					<entry index="100441" type="boolean" value="true"/>
 					<entry index="100445" type="boolean" value="true"/>
@@ -2830,7 +2818,6 @@
 					<entry index="104054" type="boolean" value="true"/>
 					<entry index="104145" type="boolean" value="true"/>
 					<entry index="104149" type="boolean" value="true"/>
-					<entry index="105054" type="boolean" value="true"/>
 					<entry index="105381" type="boolean" value="true"/>
 				</entry>
 				<entry key="shapes" type="table">
@@ -2846,8 +2833,6 @@
 			</entry>
 			<entry key="group6" type="table">
 				<entry key="ids" type="table">
-					<entry index="100009" type="boolean" value="true"/>
-					<entry index="100010" type="boolean" value="true"/>
 					<entry index="100023" type="boolean" value="true"/>
 					<entry index="100032" type="boolean" value="true"/>
 					<entry index="100040" type="boolean" value="true"/>
@@ -2905,11 +2890,9 @@
 					<entry index="100345" type="boolean" value="true"/>
 					<entry index="100346" type="boolean" value="true"/>
 					<entry index="100357" type="boolean" value="true"/>
-					<entry index="100358" type="boolean" value="true"/>
 					<entry index="100359" type="boolean" value="true"/>
 					<entry index="100360" type="boolean" value="true"/>
 					<entry index="100363" type="boolean" value="true"/>
-					<entry index="100365" type="boolean" value="true"/>
 					<entry index="100374" type="boolean" value="true"/>
 					<entry index="100377" type="boolean" value="true"/>
 					<entry index="100423" type="boolean" value="true"/>
@@ -3013,8 +2996,6 @@
 					<entry index="102538" type="boolean" value="true"/>
 					<entry index="102945" type="boolean" value="true"/>
 					<entry index="103073" type="boolean" value="true"/>
-					<entry index="103104" type="boolean" value="true"/>
-					<entry index="103105" type="boolean" value="true"/>
 					<entry index="103166" type="boolean" value="true"/>
 					<entry index="103167" type="boolean" value="true"/>
 					<entry index="103170" type="boolean" value="true"/>
@@ -3027,7 +3008,6 @@
 					<entry index="104992" type="boolean" value="true"/>
 					<entry index="105009" type="boolean" value="true"/>
 					<entry index="105010" type="boolean" value="true"/>
-					<entry index="105054" type="boolean" value="true"/>
 					<entry index="105628" type="boolean" value="true"/>
 					<entry index="106212" type="boolean" value="true"/>
 				</entry>
