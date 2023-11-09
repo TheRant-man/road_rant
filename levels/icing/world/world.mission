@@ -544,6 +544,10 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100165"/>
 						</entry>
+						<entry index="33" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100166"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="2996 4611 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
@@ -52022,7 +52026,7 @@
 			</entry>
 			<entry index="1934" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
-				<entry key="editor_name" type="string" value="mission_script_001"/>
+				<entry key="editor_name" type="string" value="van"/>
 				<entry key="id" type="number" value="100165"/>
 				<entry key="module" type="string" value="CoreMissionScriptElement"/>
 				<entry key="script" type="string" value="default"/>
@@ -52037,6 +52041,27 @@
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-3046.21 -28884.9 5802.5"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="1935" type="table">
+				<entry key="class" type="string" value="MissionScriptElement"/>
+				<entry key="editor_name" type="string" value="drug_car"/>
+				<entry key="id" type="number" value="100166"/>
+				<entry key="module" type="string" value="CoreMissionScriptElement"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+						<entry index="1" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="102542"/>
+						</entry>
+					</entry>
+					<entry key="position" type="vector3" value="-3032.05 -29038.3 5802.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
