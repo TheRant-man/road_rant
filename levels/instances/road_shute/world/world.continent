@@ -1,0 +1,13 @@
+<table>
+	<statics>
+		<table>
+			<unit_data continent="world" name="units/pd2_dlc_glace/architecture/glc_ext_waste_chute/glc_ext_waste_chute" name_id="glc_ext_waste_chute_001" position="-6.10352e-005 -6.10352e-005 0" rotation="0 0 -2.68221e-007 -1" unit_id="100159"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-6.10352e-005 -6.10352e-005 402" _prev_rot="0 0 -2.68221e-007 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/architecture/glc_ext_waste_chute/glc_ext_waste_chute_v2" name_id="glc_ext_waste_chute_v2_001" position="-0 -0 298.5" rotation="0 0 0 -1" unit_id="100000"/>
+		</table>
+	</statics>
+	<values>
+		<workviews/>
+	</values>
+</table>
