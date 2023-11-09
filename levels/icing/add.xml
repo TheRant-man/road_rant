@@ -27,4 +27,10 @@
 	<add from_db="true" path="effects/payday2/particles/emp/emp_explosion" type="effect">
 		<effect load="true" path="effects/payday2/particles/emp/emp_explosion"/>
 	</add>
+	<add from_db="true" path="units/pd2_dlc_berry/props/bry_prop_breaching_charge/bry_prop_breaching_charge" type="unit">
+		<unit path="units/pd2_dlc_berry/props/bry_prop_breaching_charge/bry_prop_breaching_charge"/>
+		<object path="units/pd2_dlc_berry/props/bry_prop_breaching_charge/bry_prop_breaching_charge"/>
+		<material_config path="units/pd2_dlc_berry/props/bry_prop_breaching_charge/bry_prop_breaching_charge"/>
+		<sequence_manager path="units/pd2_dlc_berry/props/bry_prop_breaching_charge/bry_prop_breaching_charge"/>
+	</add>
 </table>

@@ -83,25 +83,25 @@
 		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_011" position="100 -20100 6800" rotation="0 0 -0.342021 -0.939694" script="default" start_index="3650"/>
 		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_012" position="1389.81 -29809.3 6529" rotation="0 0 0.317305 0.948324" script="default" start_index="3800"/>
 		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_013" position="953.686 -37822.3 5672" rotation="0 0 0.130526 -0.991446" script="default" start_index="3950"/>
-		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_014" position="1247.92 -42884 5875" rotation="0 0 2.98023e-007 -1" script="default" start_index="4100"/>
+		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_014" position="1247.92 -35260 5875" rotation="0 0 2.98023e-007 -1" script="default" start_index="4100"/>
 		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_015" position="-5061.3 -35624.4 4951" rotation="0 0 -0.989016 0.14781" script="default" start_index="4250"/>
-		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_016" position="-4080.02 -40573.8 5500" rotation="0 0 -0.95882 0.284016" script="default" start_index="4400"/>
+		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_016" position="-2297.84 -36767 5500" rotation="0 0 -0.95882 0.284016" script="default" start_index="4400"/>
 		<table continent="world" folder="levels/instances/shared/harasser/world" index_size="150" name="harasser_001" position="-66.9993 -22260 6999" rotation="0 0 1 -1.49012e-007" script="default" start_index="7000"/>
 		<table continent="world" folder="levels/instances/shared/harasser/world" index_size="150" name="harasser_002" position="-66.9992 -22660 6999" rotation="0 0 1 -1.49012e-007" script="default" start_index="7150"/>
 		<table continent="world" folder="levels/instances/unique/glace/parachute_crate/world" index_size="100" mission_placed="true" name="glace_parachute_crate_001" position="-2800 -21100 9800" rotation="0 0 0 1" script="default" start_index="6600"/>
 		<table continent="world" folder="levels/instances/unique/glace/parachute_car/world" index_size="100" mission_placed="true" name="glace_parachute_car_001" position="-2700 -21600 9800" rotation="0 0 0.707107 0.707107" script="default" start_index="6700"/>
 		<table continent="world" folder="levels/instances/unique/glace/glace_ganster_cars/world" index_size="100" mission_placed="true" name="glace_ganster_cars_001" position="-2700 -22400 9800" rotation="0 0 0.707107 0.707107" script="default" start_index="6800"/>
-		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_017" position="-7800 -13446 6200" rotation="0 0 1 -1.49012e-007" script="default" start_index="7300"/>
+		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_017" position="-4367 -13446 6200" rotation="0 0 1 -1.49012e-007" script="default" start_index="7300"/>
 		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_018" position="1500 -13863 5800" rotation="0 0 -3.57628e-007 -1" script="default" start_index="7450"/>
-		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_019" position="-1502.09 -1577.82 6100" rotation="0 0 -0.707107 -0.707106" script="default" start_index="7600"/>
-		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_020" position="1100 -4700 5800" rotation="0 0 0.241922 0.970296" script="default" start_index="7750"/>
+		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_019" position="-1505.61 -13032.2 6100" rotation="0 0 -0.707107 -0.707106" script="default" start_index="7600"/>
+		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_020" position="1096.48 -16154.4 5800" rotation="0 0 0.241922 0.970296" script="default" start_index="7750"/>
 		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_021" position="-525.126 -24960.7 6500" rotation="0 0 -0.267238 0.96363" script="default" start_index="7900"/>
 		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_022" position="-710.151 -22251.5 6186" rotation="0 0 0.026177 0.999657" script="default" start_index="8050"/>
 		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_023" position="-7156.56 -19452.8 7133" rotation="0 0 0.91706 0.398749" script="default" start_index="8200"/>
 		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_024" position="-6316.12 -25583.9 6500" rotation="0 0 -0.92388 0.382683" script="default" start_index="8350"/>
 		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_025" position="-5200 -33500 6100" rotation="0 0 0.999048 -0.0436195" script="default" start_index="8500"/>
 		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_026" position="677.549 -32985.8 6100" rotation="0 0 -0.0436197 -0.999048" script="default" start_index="8650"/>
-		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_027" position="-4311.01 -43661.2 6100" rotation="0 0 -0.999048 0.0436198" script="default" start_index="8800"/>
+		<table continent="world" folder="levels/instances/unique/pet_helicopter_sniper/world" index_size="150" name="pet_helicopter_sniper_027" position="-4907.77 -36840.3 6100" rotation="0 0 -0.999048 0.0436198" script="default" start_index="8800"/>
 		<table continent="world" folder="levels/instances/unique/glace/glace_helicopter_swat/world" index_size="200" name="glace_helicopter_swat_001" position="-1941.49 -11175 5796" rotation="-1.56936e-015 1.30607e-015 0.731353 -0.681999" script="default" start_index="8950"/>
 		<table continent="world" folder="levels/instances/unique/glace/glace_helicopter_swat/world" index_size="200" name="glace_helicopter_swat_003" position="-591.208 -13857.4 5801" rotation="0 0 -0.608762 -0.793353" script="default" start_index="9350"/>
 		<table continent="world" folder="levels/instances/unique/glace/glace_helicopter_swat/world" index_size="200" name="glace_helicopter_swat_004" position="-843.429 -10741.2 5788" rotation="0 0 0.793353 -0.608761" script="default" start_index="9550"/>
@@ -113,7 +113,7 @@
 		<table continent="world" folder="levels/instances/unique/glace/glace_helicopter_swat/world" index_size="200" name="glace_helicopter_swat_012" position="-1423.63 -38388.8 5381" rotation="0 0 0.642787 -0.766045" script="default" start_index="5550"/>
 		<table continent="world" folder="levels/instances/unique/glace/glace_helicopter_dozer/world" index_size="200" name="glace_helicopter_dozer_001" position="-3442 -22200 7100" rotation="0 0 0 1" script="default" start_index="5750"/>
 		<table continent="world" folder="levels/instances/unique/glace/glace_helicopter_dozer/world" index_size="200" name="glace_helicopter_dozer_003" position="-1434.06 -32796.9 5568" rotation="0 0 0.999048 -0.0436201" script="default" start_index="13150"/>
-		<table continent="world" folder="levels/instances/unique/glace/glace_helicopter_dozer/world" index_size="200" name="glace_helicopter_dozer_004" position="-961.905 -5717.03 5757" rotation="0 0 -0.382684 -0.923879" script="default" start_index="13350"/>
+		<table continent="world" folder="levels/instances/unique/glace/glace_helicopter_dozer/world" index_size="200" name="glace_helicopter_dozer_004" position="-965.424 -17171.5 5757" rotation="0 0 -0.382684 -0.923879" script="default" start_index="13350"/>
 		<table continent="world" folder="levels/instances/shared/obj_link/world" index_size="150" name="obj_link_001" position="-4500 -17000 9800" rotation="0 0 0 1" script="default" start_index="6350"/>
 		<table continent="world" folder="levels/instances/shared/obj_link/world" index_size="150" name="obj_link_002" position="-4500 -17400 9800" rotation="0 0 0 1" script="default" start_index="13550"/>
 		<table continent="world" folder="levels/instances/shared/obj_link/world" index_size="150" name="obj_link_003" position="-4500 -17800 9800" rotation="0 0 0 1" script="default" start_index="13700"/>
@@ -3057,7 +3057,7 @@
 			<unit_data continent="world" name="units/dev_tools/level_tools/dev_collision_1m_2" name_id="dev_collision_1m_2_064" position="-1929 -26546 6324.65" rotation="0 0 -0.707107 -0.707107" unit_id="102958"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1004.83 -11586.2 5795.07" _prev_rot="0 0 0 -1" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="deactivate_door" name="units/pd2_dlc1/vehicles/str_vehicle_truck_gensec_transport/str_vehicle_truck_gensec_transport" name_id="truck_start_placeholder" position="-1004.83 -11586.2 5795.07" rotation="0 0 0 -1" unit_id="102519">
+			<unit_data _prev_pos="-1004.83 -11586.2 5790.07" _prev_rot="0 0 0 -1" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="deactivate_door" name="units/pd2_dlc1/vehicles/str_vehicle_truck_gensec_transport/str_vehicle_truck_gensec_transport" name_id="truck_start_placeholder" position="-1004.83 -11586.2 5790.07" rotation="0 0 0 -1" unit_id="102519">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 0.858824 0.576471" enabled="true" falloff_exponent="4" far_range="150" multiplier="@ID5035addc43a80b74@" name="lo_omni_1" near_range="0" spot_angle_end="1" spot_angle_start="1"/>
 					<table clipping_values="10000 -10000 0" color="1 0.861 0.584" enabled="true" falloff_exponent="4" far_range="150" multiplier="@ID5035addc43a80b74@" name="lo_omni_2" near_range="0" spot_angle_end="0" spot_angle_start="0"/>
@@ -12110,7 +12110,7 @@
 			<unit_data _prev_pos="-881.372 -29279.4 5686.05" _prev_rot="9.31358e-010 -0.00872653 0.999962 -8.94206e-008" continent="world" local_pos="-2165.6 72.522 -24.71" local_rot="0.00617059 0.00617059 -0.70708 -0.70708" name="units/pd2_dlc_glace/props/glc_prop_construction_cementpallet/glc_prop_construction_cementpallet" name_id="glc_prop_construction_cementpallet_005" position="-881.372 -29279.4 5708.05" rotation="9.31358e-010 -0.00872653 0.999962 -8.94206e-008" unit_id="100082"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1090.57 -11759.1 5947.31" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="yellow_on_black" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="alpha_gps_hack" position="-1090.57 -11759.1 5947.31" rotation="0 0 0.707107 -0.707107" unit_id="100095"/>
+			<unit_data _prev_pos="-1101.79 -11759.4 5936.01" _prev_rot="0 0 0.707107 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="yellow_on_black" name="units/pd2_indiana/props/gen_prop_security_timer/gen_prop_security_timer" name_id="alpha_gps_hack" position="-1101.79 -11759.4 5936.01" rotation="0 0 0.707107 -0.707107" unit_id="100095"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1320.53 -14736.5 5806.19" _prev_rot="0 0 0 -1" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="deactivate_door" name="units/pd2_dlc1/vehicles/str_vehicle_truck_gensec_transport/str_vehicle_truck_gensec_transport" name_id="truck_mid_placeholder1" position="-1320.53 -14736.5 5806.19" rotation="0 0 0 -1" unit_id="100096">
@@ -12574,6 +12574,12 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-262.115 -32492.2 5768.56" _prev_rot="0 0 0.707107 -0.707107" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/world/props/street/plywood_fence/plywood_fence_small" name_id="plywood_fence_small_015" position="-262.115 -32593.2 5768.56" rotation="0 0 0.707107 -0.707107" unit_id="100286"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1091.81 -11759 5945.95" _prev_rot="0 0.707107 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_berry/pickups/bry_pku_breaching_charges/bry_pku_breaching_charges" name_id="beta_gps" position="-1091.81 -11759 5945.95" rotation="0 0.707107 0 -0.707107" unit_id="100287"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1318.42 -11743.6 5795.58" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_berry/pickups/bry_pku_breaching_charges/bry_pku_breaching_charges" name_id="beta_jammer" position="-1318.42 -11702.6 5795.58" rotation="-0 0 -0 -1" unit_id="100288"/>
 		</table>
 	</statics>
 	<values>
