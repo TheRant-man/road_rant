@@ -2233,6 +2233,9 @@
 		<table>
 			<unit_data _prev_pos="-2174.23 -30382.2 5660.05" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="171 0 0" local_rot="0 0 0 1" name="units/dev_tools/level_tools/navigation_splitter" name_id="navigation_splitter_232" only_exists_in_editor="true" position="-2174.23 -30545.2 5660.05" rotation="0 0 0 -1" unit_id="400063"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="-4399 -31300 5800" _prev_rot="0 0 0 -1" continent="editor_only" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_149" position="-4399 -31300 5800" rotation="0 0 0 -1" unit_id="400065"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>

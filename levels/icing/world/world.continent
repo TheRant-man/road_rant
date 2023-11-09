@@ -131,6 +131,7 @@
 		<table continent="world" folder="levels/instances/mods/road_rant/road_ramp/world" index_size="250" name="road_ramp_004" position="-1797.9 -26570.7 5743.85" rotation="0 0 0 1" script="default" start_index="11400"/>
 		<table continent="world" folder="levels/instances/mods/road_rant/road_equipment_box/world" index_size="250" name="road_equipment_box_003" position="-1644 -19039 5838" rotation="-0 0 -0 -1" script="default" start_index="11650"/>
 		<table continent="world" folder="levels/instances/mods/road_rant/road_equipment_box/world" index_size="250" name="road_equipment_box_004" position="-2322.17 -30198 5733.57" rotation="-0 0 -0 -1" script="default" start_index="11900"/>
+		<table continent="world" folder="levels/instances/mods/road_rant/road_shute/world" index_size="250" name="road_shute_001" position="-2702.29 -33550.1 5756.07" rotation="0 0 0 1" script="default" start_index="12150"/>
 	</instances>
 	<statics>
 		<table>
@@ -9807,7 +9808,7 @@
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_run/props/run_prop_traffic_cone_02/run_prop_traffic_cone_02" name_id="run_prop_traffic_cone_02_010" position="-1895 -27549 5731" rotation="0 0 0 -1" unit_id="100215"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2150 -27068.1 5723.73" _prev_rot="-0.00959916 2.16618e-009 7.45093e-009 -0.999954" _visibility_counter="0" continent="world" disable_shadows="true" local_pos="45.7012 1341.15 12.9702" local_rot="0.00678763 -0.00678763 -0.707074 0.707074" name="units/pd2_dlc_run/props/run_prop_traffic_cone_02/run_prop_traffic_cone_02" name_id="run_prop_traffic_cone_02_011" position="-2150 -27068.1 5745.73" rotation="-0.00959916 2.16618e-009 7.45093e-009 -0.999954" unit_id="100216"/>
+			<unit_data _prev_pos="-1767.03 -30433.1 5683.89" _prev_rot="-0.00959916 2.16664e-009 7.45093e-009 -0.999954" _visibility_counter="0" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_traffic_cone_02/run_prop_traffic_cone_02" name_id="run_prop_traffic_cone_02_011" position="-1767.03 -30433.1 5683.89" rotation="-0.00959916 2.16664e-009 7.45093e-009 -0.999954" unit_id="100216"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_run/props/run_prop_traffic_cone_02/run_prop_traffic_cone_02" name_id="run_prop_traffic_cone_02_012" position="-1529.04 -22914.6 5774.31" rotation="0 0 0 -1" unit_id="100217"/>
@@ -12580,6 +12581,12 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-1318.42 -11743.6 5795.58" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="" name="units/pd2_dlc_berry/pickups/bry_pku_breaching_charges/bry_pku_breaching_charges" name_id="beta_jammer" position="-1318.42 -11702.6 5795.58" rotation="-0 0 -0 -1" unit_id="100288"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1309.66 -31755.2 5658.28" _prev_rot="0 0 0 -1" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/props/glc_prop_construction_portabletoilet/glc_prop_construction_portabletoilet_closed" name_id="glc_prop_construction_portabletoilet_closed_005" position="-1309.66 -31755.2 5658.28" rotation="0 0 0 -1" unit_id="100289"/>
+		</table>
+		<table>
+			<unit_data _prev_pos="-1309.66 -31627.2 5658.28" _prev_rot="0 0 0 -1" continent="world" disable_shadows="true" local_pos="0 128 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/props/glc_prop_construction_portabletoilet/glc_prop_construction_portabletoilet_closed" name_id="glc_prop_construction_portabletoilet_closed_006" position="-1309.66 -31627.2 5658.28" rotation="0 0 0 -1" unit_id="100291"/>
 		</table>
 	</statics>
 	<values>
