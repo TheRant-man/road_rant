@@ -28,14 +28,18 @@
 	<Localization default="english.yaml" directory="loc">
 		<loc file="english.yaml" language="english"/>
 	</Localization>
-	<level ai_group_type="america" briefing_dialog="" cube="cube_apply_heist_bank" flashlights_on="true" id="icing" intro_event="" max_bags="10" music="heist" player_style="">
+	<level ai_group_type="america" briefing_dialog="" cube="cube_apply_heist_bank" flashlights_on="true" id="icing" intro_event="" max_bags="10" music="heist" player_style="winter_suit">
 		<Achievements icon="guis/achievements/contra_pack" id="contra">
 			<achievement desc_id="DS_desc" icon="guis/achievements/contra_DS" id="DS" name_id="DS" objective_id="DS_obj" rank="3"/>
 			<achievement desc_id="OD_desc" icon="guis/achievements/contra_OD" id="OD" name_id="OD" objective_id="OD_obj" rank="4"/>
 			<achievement desc_id="earn_some_money_desc" icon="guis/achievements/contra_earn_some_money" id="earn_some_money" name_id="earn_some_money" objective_id="earn_some_money_obj" rank="3"/>
 			<achievement civvies="civvies" desc_id="civvies_desc" icon="guis/achievements/contra_civvis id=" objective_id="civvies_obj" rank="3"/>
 		</Achievements>
-		<assets/>
+		<assets>
+			<asset name="ammo_bag"/>
+			<asset name="health_bag"/>
+			<asset name="grenade_crate"/>
+		</assets>
 		<environment_effects/>
 		<equipment/>
 		<outro_event>

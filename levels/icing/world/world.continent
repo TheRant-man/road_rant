@@ -12550,6 +12550,9 @@
 		<table>
 			<unit_data _prev_pos="-3400 -24305 -3100" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/architecture/glc_ext_bridge/glc_ext_bridge_deck_destruction_b" name_id="glc_ext_bridge_deck_destruction_b_001" position="-3400 -24305 -3100" rotation="0 0 0 -1" unit_id="100166"/>
 		</table>
+		<table>
+			<unit_data _prev_pos="-36 -2400 2000" _prev_rot="-0 0 -0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/test/jocke/plane_black_temp" name_id="plane_black_temp_002" position="-36 -2400 2000" rotation="-0 0 -0 -1" unit_id="100160"/>
+		</table>
 	</statics>
 	<values>
 		<workviews/>
