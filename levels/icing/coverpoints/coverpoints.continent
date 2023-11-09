@@ -11,268 +11,28 @@
 			<unit_data _prev_pos="-4222 -22825 6818.75" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="-1077 516 -150.15" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_005" only_exists_in_editor="true" position="-4222 -22825 6818.75" rotation="0 0 0 -1" unit_id="500002"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-479 -4253 5674.75" _prev_rot="0 0 0.995694 -0.0927045" continent="coverpoints" local_pos="2666 19088 -1294.15" local_rot="-0 0 -0.995694 0.0927045" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_006" only_exists_in_editor="true" position="-479 -4253 5674.75" rotation="0 0 0.995694 -0.0927045" unit_id="500003"/>
+			<unit_data _prev_pos="-2700 -22050 6818.75" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="445 1291 -150.15" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_015" only_exists_in_editor="true" position="-2700 -22050 6818.75" rotation="0 0 0 -1" unit_id="500012"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-521.18 -4449.82 5689.46" _prev_rot="0 0 0.92388 0.382683" continent="coverpoints" local_pos="2623.82 18891.2 -1279.44" local_rot="0 0 -0.92388 -0.382683" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_007" only_exists_in_editor="true" position="-521.18 -4449.82 5689.46" rotation="0 -0 0.92388 0.382683" unit_id="500004"/>
+			<unit_data _prev_pos="-2625 -22925 6818.75" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="520 416 -150.15" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_018" only_exists_in_editor="true" position="-2625 -22925 6818.75" rotation="0 0 0 -1" unit_id="500015"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2059.36 -3870.76 5674.38" _prev_rot="0 0 0.999701 0.0244513" continent="coverpoints" local_pos="1085.64 19470.2 -1294.52" local_rot="0 0 -0.999701 -0.0244513" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_008" only_exists_in_editor="true" position="-2059.36 -3870.76 5674.38" rotation="0 -0 0.999701 0.0244513" unit_id="500005"/>
+			<unit_data _prev_pos="-2750 -22675 6818.75" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="395 666 -150.15" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_019" only_exists_in_editor="true" position="-2750 -22675 6818.75" rotation="0 0 0 -1" unit_id="500016"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2439.22 -4053.01 5728.49" _prev_rot="0 0 0.998602 0.0528583" continent="coverpoints" local_pos="705.78 19288 -1240.41" local_rot="0 0 -0.998602 -0.0528583" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_009" only_exists_in_editor="true" position="-2439.22 -4053.01 5728.49" rotation="0 -0 0.998602 0.0528583" unit_id="500006"/>
+			<unit_data _prev_pos="-2625 -22700 6818.75" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="520 641 -150.15" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_035" only_exists_in_editor="true" position="-2625 -22700 6818.75" rotation="0 0 0 -1" unit_id="500032"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2216.67 -3744.04 5677.75" _prev_rot="0 0 0.956105 -0.293024" continent="coverpoints" local_pos="928.33 19597 -1291.15" local_rot="-0 0 -0.956105 0.293024" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_010" only_exists_in_editor="true" position="-2216.67 -3744.04 5677.75" rotation="0 0 0.956105 -0.293024" unit_id="500007"/>
+			<unit_data _prev_pos="-2744 -23191 6818.75" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="401 150 -150.15" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_040" only_exists_in_editor="true" position="-2744 -23191 6818.75" rotation="0 0 0 -1" unit_id="500037"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1758.32 -3305.62 5590.99" _prev_rot="0 0 0.993194 -0.116476" continent="coverpoints" local_pos="1386.68 20035.4 -1377.91" local_rot="-0 0 -0.993194 0.116476" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_011" only_exists_in_editor="true" position="-1758.32 -3305.62 5590.99" rotation="0 0 0.993194 -0.116476" unit_id="500008"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1337 -3567 5595.14" _prev_rot="0 0 0.982443 0.186562" continent="coverpoints" local_pos="1808 19774 -1373.76" local_rot="0 0 -0.982443 -0.186562" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_012" only_exists_in_editor="true" position="-1337 -3567 5595.14" rotation="0 -0 0.982443 0.186562" unit_id="500009"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-974 -4159 5642.37" _prev_rot="0 0 0.92388 0.382683" continent="coverpoints" local_pos="2171 19182 -1326.53" local_rot="0 0 -0.92388 -0.382683" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_013" only_exists_in_editor="true" position="-974 -4159 5642.37" rotation="0 -0 0.92388 0.382683" unit_id="500010"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1157 -4320.63 5661.67" _prev_rot="0.00132354 0.00319535 0.923876 -0.382676" continent="coverpoints" local_pos="1988 19020.4 -1307.23" local_rot="-0.00132354 -0.00319535 -0.923876 0.382676" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_014" only_exists_in_editor="true" position="-1157 -4320.63 5661.67" rotation="0.00132354 0.00319535 0.923876 -0.382676" unit_id="500011"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2700 -22050 6818.75" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="445 1291 -150.15" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_015" only_exists_in_editor="true" position="-2700 -22050 6818.75" rotation="0 0 -0 -1" unit_id="500012"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2176.01 -4799.14 5720.3" _prev_rot="0 -0 0.999342 0.0362798" continent="coverpoints" local_pos="968.99 18541.9 -1248.6" local_rot="0 0 -0.999342 -0.0362798" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_016" only_exists_in_editor="true" position="-2176.01 -4799.14 5720.3" rotation="0 -0 0.999342 0.0362798" unit_id="500013"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1813 -4900 5719.74" _prev_rot="0 0 1 -1.19209e-007" continent="coverpoints" local_pos="1332 18441 -1249.16" local_rot="-0 0 -1 1.19209e-007" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_017" only_exists_in_editor="true" position="-1813 -4900 5719.74" rotation="0 0 1 -1.19209e-007" unit_id="500014"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2625 -22925 6818.75" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="520 416 -150.15" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_018" only_exists_in_editor="true" position="-2625 -22925 6818.75" rotation="0 0 -0 -1" unit_id="500015"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2750 -22675 6818.75" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="395 666 -150.15" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_019" only_exists_in_editor="true" position="-2750 -22675 6818.75" rotation="0 0 -0 -1" unit_id="500016"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2342.56 -6002.02 5755.63" _prev_rot="0 0 0.99872 0.0505848" continent="coverpoints" local_pos="802.44 17339 -1213.27" local_rot="0 0 -0.99872 -0.0505848" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_020" only_exists_in_editor="true" position="-2342.56 -6002.02 5755.63" rotation="0 -0 0.99872 0.0505848" unit_id="500017"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2211.49 -5828.2 5762.52" _prev_rot="0 0 0.92388 -0.382683" continent="coverpoints" local_pos="933.51 17512.8 -1206.38" local_rot="-0 0 -0.92388 0.382683" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_021" only_exists_in_editor="true" position="-2211.49 -5828.2 5762.52" rotation="0 0 0.92388 -0.382683" unit_id="500018"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1202.37 -6141.86 5765.58" _prev_rot="0 0 0.988936 -0.148346" continent="coverpoints" local_pos="1942.63 17199.1 -1203.32" local_rot="-0 0 -0.988936 0.148346" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_022" only_exists_in_editor="true" position="-1202.37 -6141.86 5765.58" rotation="0 0 0.988936 -0.148346" unit_id="500019"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-621.725 -5824.78 5763.93" _prev_rot="0 0 0.996703 -0.0811359" continent="coverpoints" local_pos="2523.27 17516.2 -1204.97" local_rot="-0 0 -0.996703 0.0811359" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_023" only_exists_in_editor="true" position="-621.725 -5824.78 5763.93" rotation="0 0 0.996703 -0.0811359" unit_id="500020"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2359 -6668 5764.17" _prev_rot="0 0 1 -1.19209e-007" continent="coverpoints" local_pos="786 16673 -1204.73" local_rot="-0 0 -1 1.19209e-007" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_024" only_exists_in_editor="true" position="-2359 -6668 5764.17" rotation="0 0 1 -1.19209e-007" unit_id="500021"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1780.74 -6734.76 5770.14" _prev_rot="0 0 0.92388 -0.382683" continent="coverpoints" local_pos="1364.26 16606.2 -1198.76" local_rot="-0 0 -0.92388 0.382683" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_025" only_exists_in_editor="true" position="-1780.74 -6734.76 5770.14" rotation="0 0 0.92388 -0.382683" unit_id="500022"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1383.56 -6746.32 5769.96" _prev_rot="0 0 0.996229 -0.0867586" continent="coverpoints" local_pos="1761.44 16594.7 -1198.94" local_rot="-0 0 -0.996229 0.0867586" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_026" only_exists_in_editor="true" position="-1383.56 -6746.32 5769.96" rotation="0 0 0.996229 -0.0867586" unit_id="500023"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-414.396 -7051.52 5767.39" _prev_rot="0 -0 0.900628 0.43459" continent="coverpoints" local_pos="2730.6 16289.5 -1201.51" local_rot="0 0 -0.900628 -0.43459" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_027" only_exists_in_editor="true" position="-414.396 -7051.52 5767.39" rotation="0 -0 0.900628 0.43459" unit_id="500024"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1910.35 -5424.23 5747.72" _prev_rot="0 0 0.382683 -0.92388" continent="coverpoints" local_pos="1234.65 17916.8 -1221.18" local_rot="-0 0 -0.382683 0.92388" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_028" only_exists_in_editor="true" position="-1910.35 -5424.23 5747.72" rotation="0 0 0.382683 -0.92388" unit_id="500025"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2225 -5300 5749.1" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="920 18041 -1219.8" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_029" only_exists_in_editor="true" position="-2225 -5300 5749.1" rotation="0 0 -0 -1" unit_id="500026"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2268 -4250 5704.06" _prev_rot="0 0 0.488043 -0.87282" continent="coverpoints" local_pos="877 19091 -1264.84" local_rot="-0 0 -0.488043 0.87282" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_030" only_exists_in_editor="true" position="-2268 -4250 5704.06" rotation="0 0 0.488043 -0.87282" unit_id="500027"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2450 -7150 5789.87" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="695 16191 -1179.03" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_031" only_exists_in_editor="true" position="-2450 -7150 5789.87" rotation="0 0 -0 -1" unit_id="500028"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1993.78 -6920.69 5774.36" _prev_rot="0 0 0.328504 -0.944503" continent="coverpoints" local_pos="1151.22 16420.3 -1194.54" local_rot="-0 0 -0.328504 0.944503" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_032" only_exists_in_editor="true" position="-1993.78 -6920.69 5774.36" rotation="0 0 0.328504 -0.944503" unit_id="500029"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1808.17 -7136.54 5765.78" _prev_rot="0 0 -0.102586 -0.994724" continent="coverpoints" local_pos="1336.83 16204.5 -1203.12" local_rot="0 0 0.102586 0.994724" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_033" only_exists_in_editor="true" position="-1808.17 -7136.54 5765.78" rotation="0 0 -0.102586 -0.994724" unit_id="500030"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1226.83 -7277.86 5766.73" _prev_rot="0 0 0.230188 -0.973146" continent="coverpoints" local_pos="1918.17 16063.1 -1202.17" local_rot="-0 0 -0.230188 0.973146" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_034" only_exists_in_editor="true" position="-1226.83 -7277.86 5766.73" rotation="0 0 0.230188 -0.973146" unit_id="500031"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2625 -22700 6818.75" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="520 641 -150.15" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_035" only_exists_in_editor="true" position="-2625 -22700 6818.75" rotation="0 0 -0 -1" unit_id="500032"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1717.43 -6366.21 5769.96" _prev_rot="0 0 0.995321 0.096625" continent="coverpoints" local_pos="1427.57 16974.8 -1198.94" local_rot="0 0 -0.995321 -0.096625" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_036" only_exists_in_editor="true" position="-1717.43 -6366.21 5769.96" rotation="0 -0 0.995321 0.096625" unit_id="500033"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1199 -6614 5768.25" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="1946 16727 -1200.65" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_037" only_exists_in_editor="true" position="-1199 -6614 5768.25" rotation="0 0 -0 -1" unit_id="500034"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-577.752 -7327.79 5772.53" _prev_rot="0 0 0.0488136 -0.998808" continent="coverpoints" local_pos="2567.25 16013.2 -1196.37" local_rot="-0 0 -0.0488136 0.998808" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_038" only_exists_in_editor="true" position="-577.752 -7327.79 5772.53" rotation="0 0 0.0488136 -0.998808" unit_id="500035"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-562 -6326 5759.71" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="2583 17015 -1209.19" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_039" only_exists_in_editor="true" position="-562 -6326 5759.71" rotation="0 0 -0 -1" unit_id="500036"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2744 -23191 6818.75" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="401 150 -150.15" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_040" only_exists_in_editor="true" position="-2744 -23191 6818.75" rotation="0 0 -0 -1" unit_id="500037"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-4172 -22625 6818.75" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="-1027 716 -150.15" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_041" only_exists_in_editor="true" position="-4172 -22625 6818.75" rotation="0 0 -0 -1" unit_id="500038"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2300 -6400 5761.9" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="845 16941 -1207" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_042" only_exists_in_editor="true" position="-2300 -6400 5761.9" rotation="0 0 -0 -1" unit_id="500039"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2092 -6360 5766.2" _prev_rot="0 0 -0.130526 -0.991445" continent="coverpoints" local_pos="1053 16981 -1202.7" local_rot="0 0 0.130526 0.991445" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_043" only_exists_in_editor="true" position="-2092 -6360 5766.2" rotation="0 0 -0.130526 -0.991445" unit_id="500040"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1618.61 -6225.97 5765.01" _prev_rot="0 0 -0.0828724 -0.99656" continent="coverpoints" local_pos="1526.39 17115 -1203.89" local_rot="0 0 0.0828724 0.99656" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_044" only_exists_in_editor="true" position="-1618.61 -6225.97 5765.01" rotation="0 0 -0.0828724 -0.99656" unit_id="500041"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1437.61 -6173.97 5764.97" _prev_rot="0 0 0.125392 -0.992107" continent="coverpoints" local_pos="1707.39 17167 -1203.93" local_rot="-0 0 -0.125392 0.992107" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_045" only_exists_in_editor="true" position="-1437.61 -6173.97 5764.97" rotation="0 0 0.125392 -0.992107" unit_id="500042"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1250 -5625 5761.83" _prev_rot="0 0 -0.5 -0.866025" continent="coverpoints" local_pos="1895 17716 -1207.07" local_rot="0 0 0.5 0.866025" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_046" only_exists_in_editor="true" position="-1250 -5625 5761.83" rotation="0 0 -0.5 -0.866025" unit_id="500043"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-741 -5553 5763.49" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="2404 17788 -1205.41" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_047" only_exists_in_editor="true" position="-741 -5553 5763.49" rotation="0 0 -0 -1" unit_id="500044"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-916.434 -5600.97 5760.94" _prev_rot="0 0 -0.201254 -0.979539" continent="coverpoints" local_pos="2228.57 17740 -1207.96" local_rot="0 0 0.201254 0.979539" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_048" only_exists_in_editor="true" position="-916.434 -5600.97 5760.94" rotation="0 0 -0.201254 -0.979539" unit_id="500045"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1693.79 -5553.11 5762.63" _prev_rot="0 0 0.866025 -0.5" continent="coverpoints" local_pos="1451.21 17787.9 -1206.27" local_rot="-0 0 -0.866025 0.5" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_049" only_exists_in_editor="true" position="-1693.79 -5553.11 5762.63" rotation="0 0 0.866025 -0.5" unit_id="500046"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-637.176 -6559.7 5768.76" _prev_rot="0 0 0.98102 0.193905" continent="coverpoints" local_pos="2507.82 16781.3 -1200.14" local_rot="0 0 -0.98102 -0.193905" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_050" only_exists_in_editor="true" position="-637.176 -6559.7 5768.76" rotation="0 -0 0.98102 0.193905" unit_id="500047"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1805 -6011 5765.42" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="1340 17330 -1203.48" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_051" only_exists_in_editor="true" position="-1805 -6011 5765.42" rotation="0 0 -0 -1" unit_id="500048"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1206 -4587 5682.42" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="1939 18754 -1286.48" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_052" only_exists_in_editor="true" position="-1206 -4587 5682.42" rotation="0 0 -0 -1" unit_id="500049"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-875 -4700 5690.39" _prev_rot="0 0 -0.372474 -0.928043" continent="coverpoints" local_pos="2270 18641 -1278.51" local_rot="0 0 0.372474 0.928043" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_053" only_exists_in_editor="true" position="-875 -4700 5690.39" rotation="0 0 -0.372474 -0.928043" unit_id="500050"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1267 -4433 5675.16" _prev_rot="0 0 -0.21571 -0.976458" continent="coverpoints" local_pos="1878 18908 -1293.74" local_rot="0 0 0.21571 0.976458" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_054" only_exists_in_editor="true" position="-1267 -4433 5675.16" rotation="0 0 -0.21571 -0.976458" unit_id="500051"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1998 -4813 5721.72" _prev_rot="0 0 0.34719 -0.937795" continent="coverpoints" local_pos="1147 18528 -1247.18" local_rot="-0 0 -0.34719 0.937795" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_055" only_exists_in_editor="true" position="-1998 -4813 5721.72" rotation="0 0 0.34719 -0.937795" unit_id="500052"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1999.17 -3157.32 5592.99" _prev_rot="0 0 0.993194 -0.116476" continent="coverpoints" local_pos="1145.83 20183.7 -1375.91" local_rot="-0 0 -0.993194 0.116476" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_056" only_exists_in_editor="true" position="-1999.17 -3157.32 5592.99" rotation="0 0 0.993194 -0.116476" unit_id="500053"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1682.74 -5705.04 5763.07" _prev_rot="0 0 0.902667 -0.430339" continent="coverpoints" local_pos="1462.26 17636 -1205.83" local_rot="-0 0 -0.902667 0.430339" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_057" only_exists_in_editor="true" position="-1682.74 -5705.04 5763.07" rotation="0 0 0.902667 -0.430339" unit_id="500054"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2170.6 -3300.88 5621.99" _prev_rot="0 0 0.993194 -0.116476" continent="coverpoints" local_pos="974.4 20040.1 -1346.91" local_rot="-0 0 -0.993194 0.116476" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_058" only_exists_in_editor="true" position="-2170.6 -3300.88 5621.99" rotation="0 0 0.993194 -0.116476" unit_id="500055"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-361.273 -5032.94 5756.98" _prev_rot="0 0 -0.866025 -0.5" continent="coverpoints" local_pos="2783.73 18308.1 -1211.92" local_rot="0 0 0.866025 0.5" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_059" only_exists_in_editor="true" position="-361.273 -5032.94 5756.98" rotation="0 0 -0.866025 -0.5" unit_id="500056"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-343 -6450 5779.02" _prev_rot="0 0 1 -0" continent="coverpoints" local_pos="2802 16891 -1189.88" local_rot="-0 0 -1 0" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_060" only_exists_in_editor="true" position="-343 -6450 5779.02" rotation="0 0 1 0" unit_id="500057"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1220.87 -2972.23 5525.99" _prev_rot="0 0 0.993194 -0.116476" continent="coverpoints" local_pos="1924.13 20368.8 -1442.91" local_rot="-0 0 -0.993194 0.116476" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_061" only_exists_in_editor="true" position="-1220.87 -2972.23 5525.99" rotation="0 0 0.993194 -0.116476" unit_id="500058"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-477.924 -5976.55 5764.05" _prev_rot="0 0 -0.866025 -0.5" continent="coverpoints" local_pos="2667.08 17364.4 -1204.85" local_rot="0 0 0.866025 0.5" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_062" only_exists_in_editor="true" position="-477.924 -5976.55 5764.05" rotation="0 0 -0.866025 -0.5" unit_id="500059"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-541 -5476 5763.49" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="2604 17865 -1205.41" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_063" only_exists_in_editor="true" position="-541 -5476 5763.49" rotation="0 0 -0 -1" unit_id="500060"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1647.48 -6883.77 5771.09" _prev_rot="0 0 0.94415 -0.329517" continent="coverpoints" local_pos="1497.52 16457.2 -1197.81" local_rot="-0 0 -0.94415 0.329517" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_064" only_exists_in_editor="true" position="-1647.48 -6883.77 5771.09" rotation="0 0 0.94415 -0.329517" unit_id="500061"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-567.263 -7546.67 5776.52" _prev_rot="0 0 0.997635 0.0687309" continent="coverpoints" local_pos="2577.74 15794.3 -1192.38" local_rot="0 0 -0.997635 -0.0687309" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_065" only_exists_in_editor="true" position="-567.263 -7546.67 5776.52" rotation="0 -0 0.997635 0.0687309" unit_id="500062"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-523 -3938 5650.75" _prev_rot="0 0 0.995694 -0.0927045" continent="coverpoints" local_pos="2622 19403 -1318.15" local_rot="-0 0 -0.995694 0.0927045" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_066" only_exists_in_editor="true" position="-523 -3938 5650.75" rotation="0 0 0.995694 -0.0927045" unit_id="500063"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-606 -4916 5763.49" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="2539 18425 -1205.41" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_067" only_exists_in_editor="true" position="-606 -4916 5763.49" rotation="0 0 -0 -1" unit_id="500064"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1918.91 -7276.39 5765.72" _prev_rot="0 0 0.998459 0.0554887" continent="coverpoints" local_pos="1226.09 16064.6 -1203.18" local_rot="0 0 -0.998459 -0.0554887" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_068" only_exists_in_editor="true" position="-1918.91 -7276.39 5765.72" rotation="0 -0 0.998459 0.0554887" unit_id="500065"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-913 -5038 5763.49" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="2232 18303 -1205.41" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_069" only_exists_in_editor="true" position="-913 -5038 5763.49" rotation="0 0 -0 -1" unit_id="500066"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-965 -7561 5775.09" _prev_rot="0 0 0.987074 0.160267" continent="coverpoints" local_pos="2180 15780 -1193.81" local_rot="0 0 -0.987074 -0.160267" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_070" only_exists_in_editor="true" position="-965 -7561 5775.09" rotation="0 -0 0.987074 0.160267" unit_id="500067"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2076.55 -8242.5 5780.08" _prev_rot="0 0 0.965926 -0.258819" continent="coverpoints" local_pos="1068.45 15098.5 -1188.82" local_rot="-0 0 -0.965926 0.258819" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_071" only_exists_in_editor="true" position="-2076.55 -8242.5 5780.08" rotation="0 0 0.965926 -0.258819" unit_id="500068"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2437 -8055 5796.04" _prev_rot="0 0 1 -0" continent="coverpoints" local_pos="708 15286 -1172.86" local_rot="-0 0 -1 0" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_072" only_exists_in_editor="true" position="-2437 -8055 5796.04" rotation="0 0 1 0" unit_id="500069"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1984 -7819 5776.99" _prev_rot="0 0 0.965926 -0.258819" continent="coverpoints" local_pos="1161 15522 -1191.91" local_rot="-0 0 -0.965926 0.258819" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_073" only_exists_in_editor="true" position="-1984 -7819 5776.99" rotation="0 0 0.965926 -0.258819" unit_id="500070"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-404 -7540 5791.52" _prev_rot="0 0 0.973869 0.22711" continent="coverpoints" local_pos="2741 15801 -1177.38" local_rot="0 0 -0.973869 -0.22711" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_074" only_exists_in_editor="true" position="-404 -7540 5791.52" rotation="0 -0 0.973869 0.22711" unit_id="500071"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-411 -6814 5773.29" _prev_rot="0 0 -0.707107 -0.707107" continent="coverpoints" local_pos="2734 16527 -1195.61" local_rot="0 0 0.707107 0.707107" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_075" only_exists_in_editor="true" position="-411 -6814 5773.29" rotation="0 0 -0.707107 -0.707107" unit_id="500072"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-971.326 -6755.99 5769.95" _prev_rot="0 0 0.999392 -0.034862" continent="coverpoints" local_pos="2173.67 16585 -1198.95" local_rot="-0 0 -0.999392 0.034862" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_076" only_exists_in_editor="true" position="-971.326 -6755.99 5769.95" rotation="0 0 0.999392 -0.034862" unit_id="500073"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-782.366 -8517.7 5783.97" _prev_rot="0 0 0.866025 -0.5" continent="coverpoints" local_pos="2362.63 14823.3 -1184.93" local_rot="-0 0 -0.866025 0.5" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_077" only_exists_in_editor="true" position="-782.366 -8517.7 5783.97" rotation="0 0 0.866025 -0.5" unit_id="500074"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1123.43 -5149.97 5760.94" _prev_rot="0 0 -0.201254 -0.979539" continent="coverpoints" local_pos="2021.57 18191 -1207.96" local_rot="0 0 0.201254 0.979539" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_078" only_exists_in_editor="true" position="-1123.43 -5149.97 5760.94" rotation="0 0 -0.201254 -0.979539" unit_id="500075"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-961.993 -8235.7 5771.02" _prev_rot="0 0 0.907857 0.41928" continent="coverpoints" local_pos="2183.01 15105.3 -1197.88" local_rot="0 0 -0.907857 -0.41928" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_079" only_exists_in_editor="true" position="-961.993 -8235.7 5771.02" rotation="0 -0 0.907857 0.41928" unit_id="500076"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1272.5 -8815.52 5785.39" _prev_rot="0 0 0.995557 -0.0941557" continent="coverpoints" local_pos="1872.5 14525.5 -1183.51" local_rot="-0 0 -0.995557 0.0941557" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_080" only_exists_in_editor="true" position="-1272.5 -8815.52 5785.39" rotation="0 0 0.995557 -0.0941557" unit_id="500077"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2300 -9530 5792.03" _prev_rot="0 0 0.707107 -0.707107" continent="coverpoints" local_pos="845 13811 -1176.87" local_rot="-0 0 -0.707107 0.707107" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_081" only_exists_in_editor="true" position="-2300 -9530 5792.03" rotation="0 0 0.707107 -0.707107" unit_id="500078"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1874 -8933 5784.03" _prev_rot="0 0 0.688263 -0.725461" continent="coverpoints" local_pos="1271 14408 -1184.87" local_rot="-0 0 -0.688263 0.725461" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_082" only_exists_in_editor="true" position="-1874 -8933 5784.03" rotation="0 0 0.688263 -0.725461" unit_id="500079"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-912 -9241 5786.71" _prev_rot="0 0 0.991445 -0.130526" continent="coverpoints" local_pos="2233 14100 -1182.19" local_rot="-0 0 -0.991445 0.130526" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_083" only_exists_in_editor="true" position="-912 -9241 5786.71" rotation="0 0 0.991445 -0.130526" unit_id="500080"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1659 -8563 5782.1" _prev_rot="0 0 0.990851 -0.134958" continent="coverpoints" local_pos="1486 14778 -1186.8" local_rot="-0 0 -0.990851 0.134958" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_084" only_exists_in_editor="true" position="-1659 -8563 5782.1" rotation="0 0 0.990851 -0.134958" unit_id="500081"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2350 -9230 5792.03" _prev_rot="0 0 0.707107 -0.707107" continent="coverpoints" local_pos="795 14111 -1176.87" local_rot="-0 0 -0.707107 0.707107" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_085" only_exists_in_editor="true" position="-2350 -9230 5792.03" rotation="0 0 0.707107 -0.707107" unit_id="500082"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-350.968 -8805.72 5798.94" _prev_rot="0 0 0.993142 0.116915" continent="coverpoints" local_pos="2794.03 14535.3 -1169.96" local_rot="0 0 -0.993142 -0.116915" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_086" only_exists_in_editor="true" position="-350.968 -8805.72 5798.94" rotation="0 -0 0.993142 0.116915" unit_id="500083"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1930.28 -9080.88 5787.5" _prev_rot="0 0 0.965926 -0.258819" continent="coverpoints" local_pos="1214.72 14260.1 -1181.4" local_rot="-0 0 -0.965926 0.258819" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_087" only_exists_in_editor="true" position="-1930.28 -9080.88 5787.5" rotation="0 0 0.965926 -0.258819" unit_id="500084"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2500 -9380 5808.03" _prev_rot="0 0 0.707107 -0.707107" continent="coverpoints" local_pos="645 13961 -1160.87" local_rot="-0 0 -0.707107 0.707107" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_088" only_exists_in_editor="true" position="-2500 -9380 5808.03" rotation="0 0 0.707107 -0.707107" unit_id="500085"/>
+			<unit_data _prev_pos="-4172 -22625 6818.75" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="-1027 716 -150.15" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_041" only_exists_in_editor="true" position="-4172 -22625 6818.75" rotation="0 0 0 -1" unit_id="500038"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-953 -9861 5791.03" _prev_rot="0 0 0.999452 -0.0330964" continent="coverpoints" local_pos="2192 13480 -1177.87" local_rot="-0 0 -0.999452 0.0330964" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_089" only_exists_in_editor="true" position="-953 -9861 5791.03" rotation="0 0 0.999452 -0.0330964" unit_id="500086"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1837.43 -6521.21 5769.96" _prev_rot="0 0 0.995321 0.096625" continent="coverpoints" local_pos="1307.57 16819.8 -1198.94" local_rot="0 0 -0.995321 -0.096625" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_090" only_exists_in_editor="true" position="-1837.43 -6521.21 5769.96" rotation="0 -0 0.995321 0.096625" unit_id="500087"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-619 -9543 5788.68" _prev_rot="0 0 -0.608761 -0.793353" continent="coverpoints" local_pos="2526 13798 -1180.22" local_rot="0 0 0.608761 0.793353" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_091" only_exists_in_editor="true" position="-619 -9543 5788.68" rotation="0 0 -0.608761 -0.793353" unit_id="500088"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-728.126 -10320.3 5794.14" _prev_rot="0 0 0.92388 0.382683" continent="coverpoints" local_pos="2416.87 13020.7 -1174.76" local_rot="0 0 -0.92388 -0.382683" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_092" only_exists_in_editor="true" position="-728.126 -10320.3 5794.14" rotation="0 0 0.92388 0.382683" unit_id="500089"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1925 -6175 5765.42" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="1220 17166 -1203.48" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_093" only_exists_in_editor="true" position="-1925 -6175 5765.42" rotation="0 0 -0 -1" unit_id="500090"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-2219 -9954 5792.25" _prev_rot="0 0 0.99065 -0.136428" continent="coverpoints" local_pos="926 13387 -1176.65" local_rot="-0 0 -0.99065 0.136428" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_094" only_exists_in_editor="true" position="-2219 -9954 5792.25" rotation="0 0 0.99065 -0.136428" unit_id="500091"/>
@@ -416,28 +176,10 @@
 			<unit_data _prev_pos="-536.497 -12047 5806.91" _prev_rot="0 0 0.965926 0.258819" continent="coverpoints" local_pos="2608.5 11294 -1161.99" local_rot="0 0 -0.965926 -0.258819" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_106" only_exists_in_editor="true" position="-536.497 -12047 5806.91" rotation="0 -0 0.965926 0.258819" unit_id="500137"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1600.79 -9936.23 5786.25" _prev_rot="0 0 0.99065 -0.136428" continent="coverpoints" local_pos="1544.21 13404.8 -1182.65" local_rot="-0 0 -0.99065 0.136428" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_107" only_exists_in_editor="true" position="-1600.79 -9936.23 5786.25" rotation="0 0 0.99065 -0.136428" unit_id="500138"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1384 -5911 5758.77" _prev_rot="0 0 -0.807804 -0.589451" continent="coverpoints" local_pos="1761 17430 -1210.13" local_rot="0 0 0.807804 0.589451" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_108" only_exists_in_editor="true" position="-1384 -5911 5758.77" rotation="0 0 -0.807804 -0.589451" unit_id="500139"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1219.98 -5318.94 5748.94" _prev_rot="0 0 0.965926 0.258819" continent="coverpoints" local_pos="1925.02 18022.1 -1219.96" local_rot="0 0 -0.965926 -0.258819" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_109" only_exists_in_editor="true" position="-1219.98 -5318.94 5748.94" rotation="0 -0 0.965926 0.258819" unit_id="500140"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2115.13 -9769.04 5786.25" _prev_rot="0 0 0.99065 -0.136428" continent="coverpoints" local_pos="1029.87 13572 -1182.65" local_rot="-0 0 -0.99065 0.136428" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_110" only_exists_in_editor="true" position="-2115.13 -9769.04 5786.25" rotation="0 0 0.99065 -0.136428" unit_id="500141"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-2468 -22607 5921" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="677 734 -1047.9" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1108" only_exists_in_editor="true" position="-2468 -22607 5921" rotation="0 0 -0 -1" unit_id="500142"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1184.98 -5499.94 5752.94" _prev_rot="0 0 0.965926 0.258819" continent="coverpoints" local_pos="1960.02 17841.1 -1215.96" local_rot="0 0 -0.965926 -0.258819" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_111" only_exists_in_editor="true" position="-1184.98 -5499.94 5752.94" rotation="0 -0 0.965926 0.258819" unit_id="500143"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-1325 -12500 5809.18" _prev_rot="0 0 0.992817 -0.119645" continent="coverpoints" local_pos="1820 10841 -1159.72" local_rot="-0 0 -0.992817 0.119645" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_112" only_exists_in_editor="true" position="-1325 -12500 5809.18" rotation="0 0 0.992817 -0.119645" unit_id="500144"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1584 -5911 5758.77" _prev_rot="0 0 -0.807804 -0.589451" continent="coverpoints" local_pos="1561 17430 -1210.13" local_rot="0 0 0.807804 0.589451" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_113" only_exists_in_editor="true" position="-1584 -5911 5758.77" rotation="0 0 -0.807804 -0.589451" unit_id="500145"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-2127 -12647 5810.15" _prev_rot="0 0 0.978385 -0.206793" continent="coverpoints" local_pos="1018 10694 -1158.75" local_rot="-0 0 -0.978385 0.206793" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_114" only_exists_in_editor="true" position="-2127 -12647 5810.15" rotation="0 0 0.978385 -0.206793" unit_id="500146"/>
@@ -446,34 +188,13 @@
 			<unit_data _prev_pos="-338.071 -12713.1 5816.66" _prev_rot="0 0 0.991658 0.1289" continent="coverpoints" local_pos="2806.93 10627.9 -1152.24" local_rot="0 0 -0.991658 -0.1289" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_115" only_exists_in_editor="true" position="-338.071 -12713.1 5816.66" rotation="0 -0 0.991658 0.1289" unit_id="500147"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2093.49 -5692.2 5762.52" _prev_rot="0 0 0.92388 -0.382683" continent="coverpoints" local_pos="1051.51 17648.8 -1206.38" local_rot="-0 0 -0.92388 0.382683" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_116" only_exists_in_editor="true" position="-2093.49 -5692.2 5762.52" rotation="0 0 0.92388 -0.382683" unit_id="500148"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-1586 -12636 5810.17" _prev_rot="0 0 1 -0" continent="coverpoints" local_pos="1559 10705 -1158.73" local_rot="-0 0 -1 0" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_117" only_exists_in_editor="true" position="-1586 -12636 5810.17" rotation="0 0 1 0" unit_id="500149"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1935.49 -5718.2 5762.52" _prev_rot="0 0 0.92388 -0.382683" continent="coverpoints" local_pos="1209.51 17622.8 -1206.38" local_rot="-0 0 -0.92388 0.382683" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_118" only_exists_in_editor="true" position="-1935.49 -5718.2 5762.52" rotation="0 0 0.92388 -0.382683" unit_id="500150"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2334.98 -6921.44 5766.22" _prev_rot="0 0 -0.258819 -0.965926" continent="coverpoints" local_pos="810.02 16419.6 -1202.68" local_rot="0 0 0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_119" only_exists_in_editor="true" position="-2334.98 -6921.44 5766.22" rotation="0 0 -0.258819 -0.965926" unit_id="500151"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2465.22 -7470.7 5787.99" _prev_rot="0 0 0.995433 -0.09546" continent="coverpoints" local_pos="679.78 15870.3 -1180.91" local_rot="-0 0 -0.995433 0.09546" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_120" only_exists_in_editor="true" position="-2465.22 -7470.7 5787.99" rotation="0 0 0.995433 -0.09546" unit_id="500152"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-393.037 -8267.28 5782.28" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="2751.96 15073.7 -1186.62" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_121" only_exists_in_editor="true" position="-393.037 -8267.28 5782.28" rotation="0 0 -0 -1" unit_id="500153"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-589.037 -8264.28 5767.92" _prev_rot="0 0 -0.209165 -0.97788" continent="coverpoints" local_pos="2555.96 15076.7 -1200.98" local_rot="0 0 0.209165 0.97788" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_122" only_exists_in_editor="true" position="-589.037 -8264.28 5767.92" rotation="0 0 -0.209165 -0.97788" unit_id="500154"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1975 -51877.3 5162.66" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="1170 -28536.3 -1806.24" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1228" only_exists_in_editor="true" position="-1975 -51877.3 5162.66" rotation="0 0 -0 -1" unit_id="500155"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1646 -52145.3 5160.07" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="1499 -28804.3 -1808.83" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1229" only_exists_in_editor="true" position="-1646 -52145.3 5160.07" rotation="0 0 -0 -1" unit_id="500156"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1789.49 -5822.2 5762.52" _prev_rot="0 0 0.92388 -0.382683" continent="coverpoints" local_pos="1355.51 17518.8 -1206.38" local_rot="-0 0 -0.92388 0.382683" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_123" only_exists_in_editor="true" position="-1789.49 -5822.2 5762.52" rotation="0 0 0.92388 -0.382683" unit_id="500157"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1004 -51889.3 5165.07" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="2141 -28548.3 -1803.83" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1230" only_exists_in_editor="true" position="-1004 -51889.3 5165.07" rotation="0 0 -0 -1" unit_id="500158"/>
@@ -485,61 +206,13 @@
 			<unit_data _prev_pos="-550 -52002.3 5161.84" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="2595 -28661.3 -1807.06" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_1232" only_exists_in_editor="true" position="-550 -52002.3 5161.84" rotation="0 0 -0 -1" unit_id="500160"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-827 -8875.64 5784.63" _prev_rot="0 0 -0.258819 -0.965926" continent="coverpoints" local_pos="2318 14465.4 -1184.27" local_rot="0 0 0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_124" only_exists_in_editor="true" position="-827 -8875.64 5784.63" rotation="0 0 -0.258819 -0.965926" unit_id="500161"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2297.46 -8773.05 5785.2" _prev_rot="0 0 0.258819 -0.965926" continent="coverpoints" local_pos="847.54 14568 -1183.7" local_rot="-0 0 -0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_125" only_exists_in_editor="true" position="-2297.46 -8773.05 5785.2" rotation="0 0 0.258819 -0.965926" unit_id="500162"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2450 -8650 5800.17" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="695 14691 -1168.73" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_126" only_exists_in_editor="true" position="-2450 -8650 5800.17" rotation="0 0 -0 -1" unit_id="500163"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1830 -8147 5779.19" _prev_rot="0 0 -0.258819 -0.965926" continent="coverpoints" local_pos="1315 15194 -1189.71" local_rot="0 0 0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_127" only_exists_in_editor="true" position="-1830 -8147 5779.19" rotation="0 0 -0.258819 -0.965926" unit_id="500164"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1647 -8147 5772.39" _prev_rot="0 0 0.258819 -0.965926" continent="coverpoints" local_pos="1498 15194 -1196.51" local_rot="-0 0 -0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_128" only_exists_in_editor="true" position="-1647 -8147 5772.39" rotation="0 0 0.258819 -0.965926" unit_id="500165"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1462.53 -7536.63 5776.02" _prev_rot="0 0 -0.258819 -0.965926" continent="coverpoints" local_pos="1682.47 15804.4 -1192.88" local_rot="0 0 0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_129" only_exists_in_editor="true" position="-1462.53 -7536.63 5776.02" rotation="0 0 -0.258819 -0.965926" unit_id="500166"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1331 -8144 5778.83" _prev_rot="0 0 0.119905 -0.992785" continent="coverpoints" local_pos="1814 15197 -1190.07" local_rot="-0 0 -0.119905 0.992785" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_130" only_exists_in_editor="true" position="-1331 -8144 5778.83" rotation="0 0 0.119905 -0.992785" unit_id="500167"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-777.752 -7327.79 5772.53" _prev_rot="0 0 0.0488136 -0.998808" continent="coverpoints" local_pos="2367.25 16013.2 -1196.37" local_rot="-0 0 -0.0488136 0.998808" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_131" only_exists_in_editor="true" position="-777.752 -7327.79 5772.53" rotation="0 0 0.0488136 -0.998808" unit_id="500168"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-990.905 -7264.02 5767.76" _prev_rot="0 0 -0.258819 -0.965926" continent="coverpoints" local_pos="2154.09 16077 -1201.14" local_rot="0 0 0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_132" only_exists_in_editor="true" position="-990.905 -7264.02 5767.76" rotation="0 0 -0.258819 -0.965926" unit_id="500169"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1917.55 -8407.5 5780.08" _prev_rot="0 0 0.965926 -0.258819" continent="coverpoints" local_pos="1227.45 14933.5 -1188.82" local_rot="-0 0 -0.965926 0.258819" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_133" only_exists_in_editor="true" position="-1917.55 -8407.5 5780.08" rotation="0 0 0.965926 -0.258819" unit_id="500170"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1700 -9475 5788.42" _prev_rot="0 0 -0.258819 -0.965926" continent="coverpoints" local_pos="1445 13866 -1180.48" local_rot="0 0 0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_134" only_exists_in_editor="true" position="-1700 -9475 5788.42" rotation="0 0 -0.258819 -0.965926" unit_id="500171"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-1954 -10348 5794.31" _prev_rot="0 0 0.258819 -0.965926" continent="coverpoints" local_pos="1191 12993 -1174.59" local_rot="-0 0 -0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_135" only_exists_in_editor="true" position="-1954 -10348 5794.31" rotation="0 0 0.258819 -0.965926" unit_id="500172"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-2217.55 -8107.5 5780.08" _prev_rot="0 0 0.965926 -0.258819" continent="coverpoints" local_pos="927.45 15233.5 -1188.82" local_rot="-0 0 -0.965926 0.258819" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_136" only_exists_in_editor="true" position="-2217.55 -8107.5 5780.08" rotation="0 0 0.965926 -0.258819" unit_id="500173"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1350.5 -9787.09 5790.12" _prev_rot="0 0 0.258819 -0.965926" continent="coverpoints" local_pos="1794.5 13553.9 -1178.78" local_rot="-0 0 -0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_137" only_exists_in_editor="true" position="-1350.5 -9787.09 5790.12" rotation="0 0 0.258819 -0.965926" unit_id="500174"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-916 -9579 5789.09" _prev_rot="0 0 0.130526 -0.991445" continent="coverpoints" local_pos="2229 13762 -1179.81" local_rot="-0 0 -0.130526 0.991445" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_138" only_exists_in_editor="true" position="-916 -9579 5789.09" rotation="0 0 0.130526 -0.991445" unit_id="500175"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-447 -9350 5782.17" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="2698 13991 -1186.73" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_139" only_exists_in_editor="true" position="-447 -9350 5782.17" rotation="0 0 -0 -1" unit_id="500176"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1942.51 -11361.6 5801.15" _prev_rot="0 0 0.258819 -0.965926" continent="coverpoints" local_pos="1202.49 11979.4 -1167.75" local_rot="-0 0 -0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_140" only_exists_in_editor="true" position="-1942.51 -11361.6 5801.15" rotation="0 0 0.258819 -0.965926" unit_id="500177"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1732.39 -11002.2 5798.7" _prev_rot="0 0 -0.258819 -0.965926" continent="coverpoints" local_pos="1412.61 12338.8 -1170.2" local_rot="0 0 0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_141" only_exists_in_editor="true" position="-1732.39 -11002.2 5798.7" rotation="0 0 -0.258819 -0.965926" unit_id="500178"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1825 -8735 5784.03" _prev_rot="0 0 0.688263 -0.725461" continent="coverpoints" local_pos="1320 14606 -1184.87" local_rot="-0 0 -0.688263 0.725461" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_142" only_exists_in_editor="true" position="-1825 -8735 5784.03" rotation="0 0 0.688263 -0.725461" unit_id="500179"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-677.485 -11412.2 5801.36" _prev_rot="0 0 -0.258819 -0.965926" continent="coverpoints" local_pos="2467.52 11928.8 -1167.54" local_rot="0 0 0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_143" only_exists_in_editor="true" position="-677.485 -11412.2 5801.36" rotation="0 0 -0.258819 -0.965926" unit_id="500180"/>
@@ -551,22 +224,7 @@
 			<unit_data _prev_pos="-1095.87 -10581 5795.7" _prev_rot="0 0 -0.258819 -0.965926" continent="coverpoints" local_pos="2049.13 12760 -1173.2" local_rot="0 0 0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_145" only_exists_in_editor="true" position="-1095.87 -10581 5795.7" rotation="0 0 -0.258819 -0.965926" unit_id="500182"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1287.5 -8470.52 5785.39" _prev_rot="0 0 0.995557 -0.0941557" continent="coverpoints" local_pos="1857.5 14870.5 -1183.51" local_rot="-0 0 -0.995557 0.0941557" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_146" only_exists_in_editor="true" position="-1287.5 -8470.52 5785.39" rotation="0 0 0.995557 -0.0941557" unit_id="500183"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-765 -10144 5792.87" _prev_rot="0 0 -0.5 -0.866025" continent="coverpoints" local_pos="2380 13197 -1176.03" local_rot="0 0 0.5 0.866025" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_147" only_exists_in_editor="true" position="-765 -10144 5792.87" rotation="0 0 -0.5 -0.866025" unit_id="500184"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1215.78 -10201.6 5793.27" _prev_rot="0 0 0.336227 -0.941781" continent="coverpoints" local_pos="1929.22 13139.4 -1175.63" local_rot="-0 0 -0.336227 0.941781" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_148" only_exists_in_editor="true" position="-1215.78 -10201.6 5793.27" rotation="0 0 0.336227 -0.941781" unit_id="500185"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1659.33 -9750.12 5784.12" _prev_rot="0 0 0.988918 0.148464" continent="coverpoints" local_pos="1485.67 13590.9 -1184.78" local_rot="0 0 -0.988918 -0.148464" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_149" only_exists_in_editor="true" position="-1659.33 -9750.12 5784.12" rotation="0 -0 0.988918 0.148464" unit_id="500186"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1569.92 -9450.13 5788.15" _prev_rot="0 0 0.986886 -0.161418" continent="coverpoints" local_pos="1575.08 13890.9 -1180.75" local_rot="-0 0 -0.986886 0.161418" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_150" only_exists_in_editor="true" position="-1569.92 -9450.13 5788.15" rotation="0 0 0.986886 -0.161418" unit_id="500187"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1831.71 -9449.59 5815.42" _prev_rot="0 0 0.5 -0.866025" continent="coverpoints" local_pos="1313.29 13891.4 -1153.48" local_rot="-0 0 -0.5 0.866025" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_151" only_exists_in_editor="true" position="-1831.71 -9449.59 5815.42" rotation="0 0 0.5 -0.866025" unit_id="500188"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1951 -10498 5795.39" _prev_rot="0 0 0.707107 -0.707107" continent="coverpoints" local_pos="1194 12843 -1173.51" local_rot="-0 0 -0.707107 0.707107" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_152" only_exists_in_editor="true" position="-1951 -10498 5795.39" rotation="0 0 0.707107 -0.707107" unit_id="500189"/>
@@ -578,25 +236,16 @@
 			<unit_data _prev_pos="-367 -9914 5808.84" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="2778 13427 -1160.06" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_154" only_exists_in_editor="true" position="-367 -9914 5808.84" rotation="0 0 -0 -1" unit_id="500191"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-300 -9584 5806.59" _prev_rot="0 0 0.985825 0.167776" continent="coverpoints" local_pos="2845 13757 -1162.31" local_rot="0 0 -0.985825 -0.167776" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_155" only_exists_in_editor="true" position="-300 -9584 5806.59" rotation="0 -0 0.985825 0.167776" unit_id="500192"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-624.865 -11849.6 5801.62" _prev_rot="0 0 0.965926 0.258819" continent="coverpoints" local_pos="2520.14 11491.4 -1167.28" local_rot="0 0 -0.965926 -0.258819" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_156" only_exists_in_editor="true" position="-624.865 -11849.6 5801.62" rotation="0 -0 0.965926 0.258819" unit_id="500193"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-731 -12065 5806.22" _prev_rot="0 0 -0.0976775 -0.995218" continent="coverpoints" local_pos="2414 11276 -1162.68" local_rot="0 0 0.0976775 0.995218" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_157" only_exists_in_editor="true" position="-731 -12065 5806.22" rotation="0 0 -0.0976775 -0.995218" unit_id="500194"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1131 -8144 5778.83" _prev_rot="0 0 0.119905 -0.992785" continent="coverpoints" local_pos="2014 15197 -1190.07" local_rot="-0 0 -0.119905 0.992785" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_158" only_exists_in_editor="true" position="-1131 -8144 5778.83" rotation="0 0 0.119905 -0.992785" unit_id="500195"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-1066.97 -11644.3 5803.37" _prev_rot="0 0 0.382683 -0.92388" continent="coverpoints" local_pos="2078.03 11696.7 -1165.53" local_rot="-0 0 -0.382683 0.92388" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_159" only_exists_in_editor="true" position="-1066.97 -11644.3 5803.37" rotation="0 0 0.382683 -0.92388" unit_id="500196"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-653.352 -11620.3 5803.34" _prev_rot="0 0 -0.342236 -0.939614" continent="coverpoints" local_pos="2491.65 11720.7 -1165.56" local_rot="0 0 0.342236 0.939614" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_160" only_exists_in_editor="true" position="-653.352 -11620.3 5803.34" rotation="0 0 -0.342236 -0.939614" unit_id="500197"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1462.53 -7765.63 5776.02" _prev_rot="0 0 -0.258819 -0.965926" continent="coverpoints" local_pos="1682.47 15575.4 -1192.88" local_rot="0 0 0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_161" only_exists_in_editor="true" position="-1462.53 -7765.63 5776.02" rotation="0 0 -0.258819 -0.965926" unit_id="500198"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1312 -12202 5807.13" _prev_rot="0 0 0.258819 -0.965926" continent="coverpoints" local_pos="1833 11139 -1161.77" local_rot="-0 0 -0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_162" only_exists_in_editor="true" position="-1312 -12202 5807.13" rotation="0 0 0.258819 -0.965926" unit_id="500199"/>
@@ -606,9 +255,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-1990 -12357 5808.3" _prev_rot="0 0 -0.0381561 -0.999272" continent="coverpoints" local_pos="1155 10984 -1160.6" local_rot="0 0 0.0381561 0.999272" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_164" only_exists_in_editor="true" position="-1990 -12357 5808.3" rotation="0 0 -0.0381561 -0.999272" unit_id="500201"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1462.53 -8036.63 5776.02" _prev_rot="0 0 -0.258819 -0.965926" continent="coverpoints" local_pos="1682.47 15304.4 -1192.88" local_rot="0 0 0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_165" only_exists_in_editor="true" position="-1462.53 -8036.63 5776.02" rotation="0 0 -0.258819 -0.965926" unit_id="500202"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-2147.48 -12136.4 5806.43" _prev_rot="0 0 0.225086 -0.974339" continent="coverpoints" local_pos="997.52 11204.6 -1162.47" local_rot="-0 0 -0.225086 0.974339" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_166" only_exists_in_editor="true" position="-2147.48 -12136.4 5806.43" rotation="0 0 0.225086 -0.974339" unit_id="500203"/>
@@ -641,16 +287,10 @@
 			<unit_data _prev_pos="-1093 -11232 5800.55" _prev_rot="0 0 -0.258819 -0.965926" continent="coverpoints" local_pos="2052 12109 -1168.35" local_rot="0 0 0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_175" only_exists_in_editor="true" position="-1093 -11232 5800.55" rotation="0 0 -0.258819 -0.965926" unit_id="500212"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-623 -3738 5626.75" _prev_rot="0 0 0.995694 -0.0927045" continent="coverpoints" local_pos="2522 19603 -1342.15" local_rot="-0 0 -0.995694 0.0927045" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_176" only_exists_in_editor="true" position="-623 -3738 5626.75" rotation="0 0 0.995694 -0.0927045" unit_id="500213"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-2225 -13450 5802.64" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="920 9891 -1166.26" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_177" only_exists_in_editor="true" position="-2225 -13450 5802.64" rotation="0 0 -0 -1" unit_id="500214"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1709 -13286 5814.6" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="1436 10055 -1154.3" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_178" only_exists_in_editor="true" position="-1709 -13286 5814.6" rotation="0 0 -0 -1" unit_id="500215"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1074 -3959 5624.37" _prev_rot="0 0 0.92388 0.382683" continent="coverpoints" local_pos="2071 19382 -1344.53" local_rot="0 0 -0.92388 -0.382683" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_179" only_exists_in_editor="true" position="-1074 -3959 5624.37" rotation="0 0 0.92388 0.382683" unit_id="500216"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-335 -13469 5819.06" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="2810 9872 -1149.84" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_180" only_exists_in_editor="true" position="-335 -13469 5819.06" rotation="0 0 -0 -1" unit_id="500217"/>
@@ -662,19 +302,10 @@
 			<unit_data _prev_pos="-1075 -13275 5814.57" _prev_rot="0 0 0.115243 -0.993337" continent="coverpoints" local_pos="2070 10066 -1154.33" local_rot="-0 0 -0.115243 0.993337" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_182" only_exists_in_editor="true" position="-1075 -13275 5814.57" rotation="0 0 0.115243 -0.993337" unit_id="500219"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-811 -3666 5604.75" _prev_rot="0 0 0.995694 -0.0927044" continent="coverpoints" local_pos="2334 19675 -1364.15" local_rot="-0 0 -0.995694 0.0927044" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_183" only_exists_in_editor="true" position="-811 -3666 5604.75" rotation="0 0 0.995694 -0.0927044" unit_id="500220"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-821 -13783 5817.63" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="2324 9558 -1151.27" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_184" only_exists_in_editor="true" position="-821 -13783 5817.63" rotation="0 0 -0 -1" unit_id="500221"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1184 -14114 5801.01" _prev_rot="0 0 0 -1" continent="coverpoints" local_pos="1961 9227 -1167.89" local_rot="-0 0 0 1" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_185" only_exists_in_editor="true" position="-1184 -14114 5801.01" rotation="0 0 -0 -1" unit_id="500222"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-974 -3728 5605.75" _prev_rot="0 0 0.995694 -0.0927044" continent="coverpoints" local_pos="2171 19613 -1363.15" local_rot="-0 0 -0.995694 0.0927044" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_186" only_exists_in_editor="true" position="-974 -3728 5605.75" rotation="0 0 0.995694 -0.0927044" unit_id="500223"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1625 -3975 5647.92" _prev_rot="0 0 0.982443 0.186562" continent="coverpoints" local_pos="1520 19366 -1320.98" local_rot="0 0 -0.982443 -0.186562" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_187" only_exists_in_editor="true" position="-1625 -3975 5647.92" rotation="0 -0 0.982443 0.186562" unit_id="500224"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-895.394 -12998.3 5812.85" _prev_rot="0 0 0.99462 0.103588" continent="coverpoints" local_pos="2249.61 10342.7 -1156.05" local_rot="0 0 -0.99462 -0.103588" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_188" only_exists_in_editor="true" position="-895.394 -12998.3 5812.85" rotation="0 -0 0.99462 0.103588" unit_id="500225"/>
@@ -689,9 +320,6 @@
 			<unit_data _prev_pos="-1266.22 -13480.5 5816.08" _prev_rot="0 0 -0.866025 -0.5" continent="coverpoints" local_pos="1878.78 9860.5 -1152.82" local_rot="0 0 0.866025 0.5" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_191" only_exists_in_editor="true" position="-1266.22 -13480.5 5816.08" rotation="0 0 -0.866025 -0.5" unit_id="500228"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1425 -4125 5647.97" _prev_rot="0 0 0.982443 0.186562" continent="coverpoints" local_pos="1720 19216 -1320.93" local_rot="0 0 -0.982443 -0.186562" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_192" only_exists_in_editor="true" position="-1425 -4125 5647.97" rotation="0 -0 0.982443 0.186562" unit_id="500229"/>
-		</table>
-		<table>
 			<unit_data _prev_pos="-1623.65 -14850 5810.79" _prev_rot="0 0 -0.0245901 -0.999698" continent="coverpoints" local_pos="1521.35 8491 -1158.11" local_rot="0 0 0.0245901 0.999698" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_193" only_exists_in_editor="true" position="-1623.65 -14850 5810.79" rotation="0 0 -0.0245901 -0.999698" unit_id="500230"/>
 		</table>
 		<table>
@@ -699,9 +327,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-2209.67 -13817.8 5820.79" _prev_rot="0 0 0.965926 -0.258819" continent="coverpoints" local_pos="935.33 9523.2 -1148.11" local_rot="-0 0 -0.965926 0.258819" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_195" only_exists_in_editor="true" position="-2209.67 -13817.8 5820.79" rotation="0 0 0.965926 -0.258819" unit_id="500232"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-1775 -4500 5692.75" _prev_rot="0 0 0.982443 0.186562" continent="coverpoints" local_pos="1370 18841 -1276.15" local_rot="0 0 -0.982443 -0.186562" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_196" only_exists_in_editor="true" position="-1775 -4500 5692.75" rotation="0 -0 0.982443 0.186562" unit_id="500233"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-329 -14026 5833.81" _prev_rot="0 0 1 -0" continent="coverpoints" local_pos="2816 9315 -1135.09" local_rot="-0 0 -1 0" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_197" only_exists_in_editor="true" position="-329 -14026 5833.81" rotation="0 0 1 0" unit_id="500234"/>
@@ -1493,7 +1118,7 @@
 			<unit_data _prev_pos="-445.801 -29292.4 5696.86" _prev_rot="0 0 -0.866025 -0.5" continent="coverpoints" local_pos="2699.2 -5951.4 -1272.04" local_rot="0 0 0.866025 0.5" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_520" only_exists_in_editor="true" position="-445.801 -29292.4 5696.86" rotation="0 0 -0.866025 -0.5" unit_id="500496"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-483.643 -28640.6 5710.27" _prev_rot="0 0 0.908158 0.418627" continent="coverpoints" local_pos="2661.36 -5299.6 -1258.63" local_rot="0 0 -0.908158 -0.418627" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_521" only_exists_in_editor="true" position="-483.643 -28640.6 5710.27" rotation="0 -0 0.908158 0.418627" unit_id="500497"/>
+			<unit_data _prev_pos="-483.643 -28640.6 5710.27" _prev_rot="0 -0 0.908158 0.418627" continent="coverpoints" local_pos="2661.36 -5299.6 -1258.63" local_rot="0 0 -0.908158 -0.418627" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_521" only_exists_in_editor="true" position="-483.643 -28640.6 5710.27" rotation="0 -0 0.908158 0.418627" unit_id="500497"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-423.954 -29116.6 5700.08" _prev_rot="0 0 -0.258819 -0.965926" continent="coverpoints" local_pos="2721.05 -5775.6 -1268.82" local_rot="0 0 0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_522" only_exists_in_editor="true" position="-423.954 -29116.6 5700.08" rotation="0 0 -0.258819 -0.965926" unit_id="500498"/>
