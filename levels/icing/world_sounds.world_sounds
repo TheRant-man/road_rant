@@ -8,668 +8,386 @@
 	<entry key="sound_emitters" type="table">
 		<entry index="1" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_007"/>
-			<entry key="position" type="vector3" value="-1100 -16765 5900"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="2" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_010"/>
-			<entry key="position" type="vector3" value="-1353 -15009 5900"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="3" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_011"/>
-			<entry key="position" type="vector3" value="-2104 -16280 5931"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="4" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_013"/>
-			<entry key="position" type="vector3" value="-541 -12422 5901"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="5" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_014"/>
-			<entry key="position" type="vector3" value="-1651 -13010 5906"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="6" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_009"/>
-			<entry key="position" type="vector3" value="-650 -17300 5900"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="7" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_017"/>
-			<entry key="position" type="vector3" value="-1696 -16901 5900"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="8" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_022"/>
-			<entry key="position" type="vector3" value="-668 -16299 5900"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="9" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_027"/>
-			<entry key="position" type="vector3" value="-2124 -13020 5906"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="10" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_030"/>
-			<entry key="position" type="vector3" value="-2197 -11001 5915"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="11" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_031"/>
-			<entry key="position" type="vector3" value="-1723 -10670 5900"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="12" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_054"/>
-			<entry key="position" type="vector3" value="-1245 -20578 5941"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="13" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_055"/>
-			<entry key="position" type="vector3" value="-924 -21282 5869"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="14" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_056"/>
-			<entry key="position" type="vector3" value="-495 -21784 5928"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="15" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_060"/>
-			<entry key="position" type="vector3" value="-573 -23905 5897"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="16" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_062"/>
-			<entry key="position" type="vector3" value="-1251 -25458 5858"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="17" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_063"/>
-			<entry key="position" type="vector3" value="-925 -25676 5838"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="18" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_064"/>
-			<entry key="position" type="vector3" value="-747 -26370 5852"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="19" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_065"/>
 			<entry key="position" type="vector3" value="-404 -25030 5838"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="20" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_066"/>
-			<entry key="position" type="vector3" value="-1252 -26523 5857"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="21" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_067"/>
-			<entry key="position" type="vector3" value="-481 -27028 5838"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="22" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_068"/>
-			<entry key="position" type="vector3" value="-975 -27824 5828"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="23" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_069"/>
-			<entry key="position" type="vector3" value="-1425 -27778 5838"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="24" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_070"/>
-			<entry key="position" type="vector3" value="-1874 -28412 5838"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="25" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_071"/>
-			<entry key="position" type="vector3" value="-1223 -28993 5803"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="26" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_073"/>
-			<entry key="position" type="vector3" value="-628 -29057 5803"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="27" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_077"/>
-			<entry key="position" type="vector3" value="-599 -32218 5772"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="28" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_078"/>
-			<entry key="position" type="vector3" value="-1948 -32298 5737"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="29" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_079"/>
-			<entry key="position" type="vector3" value="-1150 -32754 5738"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="30" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_081"/>
-			<entry key="position" type="vector3" value="-1547 -33191 5752"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="31" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_082"/>
-			<entry key="position" type="vector3" value="-2193 -33247 5752"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="32" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_083"/>
-			<entry key="position" type="vector3" value="-1825 -34046 5706"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="33" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_084"/>
-			<entry key="position" type="vector3" value="-2147 -34734 5697"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="34" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_085"/>
-			<entry key="position" type="vector3" value="-1607 -34982 5675"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="35" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_086"/>
-			<entry key="position" type="vector3" value="-523 -34546 5675"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="36" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_087"/>
-			<entry key="position" type="vector3" value="-749 -35777 5651"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="37" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_088"/>
-			<entry key="position" type="vector3" value="-1426 -35824 5651"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="38" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_089"/>
-			<entry key="position" type="vector3" value="-2203 -36063 5651"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="39" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_090"/>
-			<entry key="position" type="vector3" value="-621 -36547 5651"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="40" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_091"/>
-			<entry key="position" type="vector3" value="-1145 -37170 5651"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="41" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_092"/>
-			<entry key="position" type="vector3" value="-1598 -36657 5657"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="42" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_093"/>
-			<entry key="position" type="vector3" value="-2028 -37397 5642"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="43" type="table">
+		<entry index="2" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_094"/>
 			<entry key="position" type="vector3" value="-1549 -38405 5615"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="44" type="table">
+		<entry index="3" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_095"/>
 			<entry key="position" type="vector3" value="-973 -38256 5615"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="45" type="table">
+		<entry index="4" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_096"/>
 			<entry key="position" type="vector3" value="-2100 -38694 5612"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="46" type="table">
+		<entry index="5" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_097"/>
 			<entry key="position" type="vector3" value="-1522 -39430 5586"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="47" type="table">
+		<entry index="6" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_098"/>
 			<entry key="position" type="vector3" value="-1053 -39131 5625"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="48" type="table">
+		<entry index="7" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_099"/>
 			<entry key="position" type="vector3" value="-522 -39500 5586"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="49" type="table">
+		<entry index="8" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_100"/>
 			<entry key="position" type="vector3" value="-432 -41099 5567"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="50" type="table">
+		<entry index="9" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_101"/>
 			<entry key="position" type="vector3" value="-1580 -40385 5605"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="51" type="table">
+		<entry index="10" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_102"/>
 			<entry key="position" type="vector3" value="-800 -41702 5539"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="52" type="table">
+		<entry index="11" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_103"/>
 			<entry key="position" type="vector3" value="-2125 -41454 5539"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="53" type="table">
+		<entry index="12" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_104"/>
 			<entry key="position" type="vector3" value="-2290 -42489 5554"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="54" type="table">
+		<entry index="13" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_105"/>
 			<entry key="position" type="vector3" value="-1545 -43338 5527"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="55" type="table">
+		<entry index="14" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_106"/>
 			<entry key="position" type="vector3" value="-570 -43491 5527"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="56" type="table">
+		<entry index="15" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_107"/>
 			<entry key="position" type="vector3" value="-1000 -43781 5479"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="57" type="table">
+		<entry index="16" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_108"/>
 			<entry key="position" type="vector3" value="-1546 -44343 5449"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="58" type="table">
+		<entry index="17" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_109"/>
 			<entry key="position" type="vector3" value="-2048 -44073 5461"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="59" type="table">
+		<entry index="18" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_110"/>
 			<entry key="position" type="vector3" value="-2198 -45316 5461"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="60" type="table">
+		<entry index="19" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_111"/>
 			<entry key="position" type="vector3" value="-1243 -45051 5434"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="61" type="table">
+		<entry index="20" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_112"/>
 			<entry key="position" type="vector3" value="-479 -45172 5434"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="62" type="table">
+		<entry index="21" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_113"/>
 			<entry key="position" type="vector3" value="-1023 -45832 5421"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="63" type="table">
+		<entry index="22" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_114"/>
 			<entry key="position" type="vector3" value="-1785 -45457 5421"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="64" type="table">
+		<entry index="23" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_115"/>
 			<entry key="position" type="vector3" value="-2100 -46636 5383"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="65" type="table">
+		<entry index="24" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_116"/>
 			<entry key="position" type="vector3" value="-697 -46433 5383"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="66" type="table">
+		<entry index="25" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_117"/>
 			<entry key="position" type="vector3" value="-2200 -49372 5346"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="67" type="table">
+		<entry index="26" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_118"/>
 			<entry key="position" type="vector3" value="-2308 -50606 5292"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="68" type="table">
+		<entry index="27" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_119"/>
 			<entry key="position" type="vector3" value="-472 -50602 5283"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="69" type="table">
+		<entry index="28" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_121"/>
 			<entry key="position" type="vector3" value="-1308 -51915 5266"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="70" type="table">
+		<entry index="29" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_122"/>
 			<entry key="position" type="vector3" value="-2202 -51911 5261"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="71" type="table">
+		<entry index="30" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_metal_hollow_large"/>
 			<entry key="name" type="string" value="sound_emitter_126"/>
 			<entry key="position" type="vector3" value="-2379 -20372 6238"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="72" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_generic"/>
-			<entry key="name" type="string" value="sound_emitter_127"/>
-			<entry key="position" type="vector3" value="-1261 -23741 6130"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="73" type="table">
+		<entry index="31" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_129"/>
 			<entry key="position" type="vector3" value="-3009 -21920 6092"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="74" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_generic"/>
-			<entry key="name" type="string" value="sound_emitter_130"/>
-			<entry key="position" type="vector3" value="-3877 -22520 7424"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="75" type="table">
+		<entry index="32" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_131"/>
 			<entry key="position" type="vector3" value="-3025 -21920 6388"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="76" type="table">
+		<entry index="33" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_132"/>
 			<entry key="position" type="vector3" value="-3563 -21920 6388"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="77" type="table">
+		<entry index="34" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_133"/>
 			<entry key="position" type="vector3" value="-3859 -21920 6092"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="78" type="table">
+		<entry index="35" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_134"/>
 			<entry key="position" type="vector3" value="-2719 -21926 6685"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="79" type="table">
+		<entry index="36" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_135"/>
 			<entry key="position" type="vector3" value="-3858 -21920 6685"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="80" type="table">
+		<entry index="37" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_136"/>
 			<entry key="position" type="vector3" value="-4334 -22423 6685"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="81" type="table">
+		<entry index="38" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_137"/>
 			<entry key="position" type="vector3" value="-3326 -21920 6973"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="82" type="table">
+		<entry index="39" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_138"/>
 			<entry key="position" type="vector3" value="-4334 -22700 6382"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="83" type="table">
+		<entry index="40" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_139"/>
 			<entry key="position" type="vector3" value="-4334 -23186 6382"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="84" type="table">
+		<entry index="41" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_140"/>
 			<entry key="position" type="vector3" value="-4334 -23186 6682"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="85" type="table">
+		<entry index="42" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_141"/>
 			<entry key="position" type="vector3" value="-4334 -23186 6079"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="86" type="table">
+		<entry index="43" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_142"/>
 			<entry key="position" type="vector3" value="-2928 -23404 6079"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="87" type="table">
+		<entry index="44" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_143"/>
 			<entry key="position" type="vector3" value="-3328 -23404 6368"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="88" type="table">
+		<entry index="45" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_144"/>
 			<entry key="position" type="vector3" value="-3839 -23404 6365"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="89" type="table">
+		<entry index="46" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_145"/>
 			<entry key="position" type="vector3" value="-2589 -23367 6658"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="90" type="table">
+		<entry index="47" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_146"/>
 			<entry key="position" type="vector3" value="-2999 -23404 7002"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="91" type="table">
+		<entry index="48" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_147"/>
 			<entry key="position" type="vector3" value="-3535 -23404 6954"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="92" type="table">
+		<entry index="49" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_149"/>
 			<entry key="position" type="vector3" value="-2534 -22404 6354"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="93" type="table">
+		<entry index="50" type="table">
 			<entry key="emitter_event" type="string" value="emitter_tarp_wind"/>
 			<entry key="name" type="string" value="sound_emitter_150"/>
 			<entry key="position" type="vector3" value="-2534 -22592 6958"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="94" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_metal_hollow_large"/>
-			<entry key="name" type="string" value="sound_emitter_148"/>
-			<entry key="position" type="vector3" value="-2226 -24998 6159"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="95" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_generic"/>
-			<entry key="name" type="string" value="sound_emitter_161"/>
-			<entry key="position" type="vector3" value="-2866 -22447 7488"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="96" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_generic"/>
-			<entry key="name" type="string" value="sound_emitter_162"/>
-			<entry key="position" type="vector3" value="-2454 -23201 7482"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="97" type="table">
+		<entry index="51" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_generic"/>
 			<entry key="name" type="string" value="sound_emitter_167"/>
 			<entry key="position" type="vector3" value="-999 -40443 5865"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="98" type="table">
+		<entry index="52" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_generic"/>
 			<entry key="name" type="string" value="sound_emitter_168"/>
 			<entry key="position" type="vector3" value="-2101 -39929 5866"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="99" type="table">
+		<entry index="53" type="table">
 			<entry key="emitter_event" type="string" value="emitter_generator"/>
 			<entry key="name" type="string" value="sound_emitter_182"/>
 			<entry key="position" type="vector3" value="-1623 -23226 5889"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="100" type="table">
-			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
-			<entry key="name" type="string" value="sound_emitter_191"/>
-			<entry key="position" type="vector3" value="-996 -34130 5906"/>
-			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-		</entry>
-		<entry index="101" type="table">
+		<entry index="54" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_192"/>
 			<entry key="position" type="vector3" value="-2142 -39455 5813"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="102" type="table">
+		<entry index="55" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_193"/>
 			<entry key="position" type="vector3" value="-1000 -39983 5801"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="103" type="table">
+		<entry index="56" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_194"/>
 			<entry key="position" type="vector3" value="-1578 -41227 5784"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="104" type="table">
+		<entry index="57" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_195"/>
 			<entry key="position" type="vector3" value="-1475 -46108 5647"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="105" type="table">
+		<entry index="58" type="table">
 			<entry key="emitter_event" type="string" value="emitter_rain_on_car"/>
 			<entry key="name" type="string" value="sound_emitter_196"/>
 			<entry key="position" type="vector3" value="-1703 -47580 5624"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="106" type="table">
+		<entry index="59" type="table">
 			<entry key="emitter_event" type="string" value="emitter_truck_idle_02"/>
 			<entry key="name" type="string" value="sound_emitter_198"/>
 			<entry key="position" type="vector3" value="-2379 -14100 5975"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="107" type="table">
+		<entry index="60" type="table">
 			<entry key="emitter_event" type="string" value="emitter_truck_idle_02"/>
 			<entry key="name" type="string" value="sound_emitter_199"/>
 			<entry key="position" type="vector3" value="-2210 -29864 5800"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="108" type="table">
+		<entry index="61" type="table">
 			<entry key="emitter_event" type="string" value="emitter_car_idle_03_gen_20"/>
 			<entry key="name" type="string" value="sound_emitter_201"/>
-			<entry key="position" type="vector3" value="-1531 -13622 5872"/>
+			<entry key="position" type="vector3" value="-1762 -13416 5872"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="109" type="table">
+		<entry index="62" type="table">
 			<entry key="emitter_event" type="string" value="emitter_car_idle_07"/>
 			<entry key="name" type="string" value="sound_emitter_202"/>
-			<entry key="position" type="vector3" value="-1921 -11808 5876"/>
+			<entry key="position" type="vector3" value="-2206.52 -10861.3 5845.52"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="110" type="table">
+		<entry index="63" type="table">
 			<entry key="emitter_event" type="string" value="emitter_car_idle_10"/>
 			<entry key="name" type="string" value="sound_emitter_205"/>
 			<entry key="position" type="vector3" value="-693 -19550 5864"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
-		<entry index="111" type="table">
+		<entry index="64" type="table">
 			<entry key="emitter_event" type="string" value="emitter_truck_idle_02"/>
 			<entry key="name" type="string" value="sound_emitter_207"/>
-			<entry key="position" type="vector3" value="-795 -18049 5944"/>
+			<entry key="position" type="vector3" value="-868 -19027 5944"/>
 			<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 		</entry>
 	</entry>

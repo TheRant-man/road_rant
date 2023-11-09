@@ -349,10 +349,10 @@
 		<value_node value="-874 -24199 5764"/>
 		<value_node value="-1816 -24156 5767"/>
 		<value_node value="-447 -24258 5760"/>
-		<value_node value="-1165 -24265 5763"/>
-		<value_node value="-1316 -24266 5766"/>
+		<value_node value="-1433 -24291 5766"/>
 		<value_node value="-2921 -24267 5758"/>
 		<value_node value="-1827 -24378 5745"/>
+		<value_node value="-1194 -24416 5763"/>
 		<value_node value="-1382 -24450 5759"/>
 		<value_node value="112 -24507 5772"/>
 		<value_node value="-148 -24519 5772"/>
@@ -485,9 +485,9 @@
 		<value_node value="-1705 -32096 5650"/>
 		<value_node value="-2178 -32129 5641"/>
 		<value_node value="-1705 -32296 5650"/>
-		<value_node value="-325 -32350 5665"/>
 		<value_node value="-1040 -32339 5645"/>
 		<value_node value="-1255 -32346 5645"/>
+		<value_node value="-325 -32350 5766"/>
 		<value_node value="-2178 -32329 5637"/>
 		<value_node value="-441 -32452 5644"/>
 		<value_node value="-1386 -32502 5650"/>
@@ -1163,10 +1163,10 @@
 		<value_node value="180"/>
 		<value_node value="30"/>
 		<value_node value="150"/>
-		<value_node value="-11"/>
 		<value_node value="135"/>
 		<value_node value="-120"/>
 		<value_node value="30"/>
+		<value_node value="-11"/>
 		<value_node value="170"/>
 		<value_node value="150"/>
 		<value_node value="150"/>
@@ -1299,9 +1299,9 @@
 		<value_node value="180"/>
 		<value_node value="180"/>
 		<value_node value="180"/>
+		<value_node value="166"/>
+		<value_node value="166"/>
 		<value_node value="0"/>
-		<value_node value="166"/>
-		<value_node value="166"/>
 		<value_node value="180"/>
 		<value_node value="120"/>
 		<value_node value="180"/>

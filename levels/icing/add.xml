@@ -24,4 +24,7 @@
 		<sequence_manager path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small"/>
 		<unit path="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small"/>
 	</add>
+	<add from_db="true" path="effects/payday2/particles/emp/emp_explosion" type="effect">
+		<effect load="true" path="effects/payday2/particles/emp/emp_explosion"/>
+	</add>
 </table>
