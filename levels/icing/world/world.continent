@@ -200,7 +200,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1925 -15475 5806.06" _prev_rot="-2.77675e-009 -0.00345113 0.999994 -8.64191e-007" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_fake_lights_on" name="units/payday2/vehicles/str_vehicle_car_ford/str_vehicle_car_ford" name_id="vehicle_ford_004" position="-2124 -15475 5806.06" rotation="-2.77675e-009 -0.00345117 0.999994 -8.64195e-007" unit_id="100054">
+			<unit_data _prev_pos="-2124 -15475 5806.06" _prev_rot="-2.77675e-009 -0.00345117 0.999994 -8.64195e-007" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_fake_lights_on" name="units/payday2/vehicles/str_vehicle_car_ford/str_vehicle_car_ford" name_id="vehicle_ford_004" position="-2124 -15475 5806.06" rotation="-2.77675e-009 -0.00345117 0.999994 -8.64195e-007" unit_id="100054">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 0.94 0.7" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
 					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
@@ -288,7 +288,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-454.026 -22309.5 5775.92" _prev_rot="-0.00013013 -0.00344864 0.999283 -0.0377052" _visibility_counter="0" continent="world" disable_shadows="true" local_pos="274.502 14.9739 -24.0835" local_rot="-0.00234654 0.00253057 -0.679938 0.733261" name="units/payday2/vehicles/str_vehicle_car_mondeo/str_vehicle_car_mondeo" name_id="vehicle_mondeo_005" position="-454.026 -22309.5 5775.92" rotation="-0.00013013 -0.00344864 0.999283 -0.0377052" unit_id="100290">
+			<unit_data _prev_pos="-454.026 -22309.5 5775.92" _prev_rot="-0.00013013 -0.00344864 0.999283 -0.0377052" _visibility_counter="0" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/vehicles/str_vehicle_car_mondeo/str_vehicle_car_mondeo" name_id="vehicle_mondeo_005" position="-454.026 -22309.5 5775.92" rotation="-0.00013013 -0.00344864 0.999283 -0.0377052" unit_id="100290">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
 					<table clipping_values="10000 -10000 0" color="1 0.94 0.7" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDbca13ba1d306f87b@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
@@ -9348,7 +9348,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1350 -14975 5809.52" _prev_rot="-8.73115e-011 -0.00345113 0.999994 -6.70552e-008" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_lights_off" name="units/payday2/vehicles/str_vehicle_car_taxi/str_vehicle_car_taxi" name_id="vehicle_taxi_032" position="-1610 -14975 5809.52" rotation="-8.73113e-011 -0.00345116 0.999994 -6.70552e-008" unit_id="104992">
+			<unit_data _prev_pos="-1610 -14975 5809.52" _prev_rot="-8.73113e-011 -0.00345116 0.999994 -6.70552e-008" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_lights_off" name="units/payday2/vehicles/str_vehicle_car_taxi/str_vehicle_car_taxi" name_id="vehicle_taxi_032" position="-1610 -14975 5809.52" rotation="-8.73113e-011 -0.00345116 0.999994 -6.70552e-008" unit_id="104992">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="0" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_left" near_range="0" spot_angle_end="40" spot_angle_start="40"/>
 					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_right" near_range="0" spot_angle_end="40" spot_angle_start="40"/>
@@ -12549,27 +12549,6 @@
 		</table>
 		<table>
 			<unit_data _prev_pos="-3400 -24305 -3100" _prev_rot="0 0 0 -1" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/architecture/glc_ext_bridge/glc_ext_bridge_deck_destruction_b" name_id="glc_ext_bridge_deck_destruction_b_001" position="-3400 -24305 -3100" rotation="0 0 0 -1" unit_id="100166"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-912 -9241 5786.71" _prev_rot="0 0 0.991445 -0.130526" continent="world" local_pos="799.428 -191.35 -1.70996" local_rot="0 0 -0.991445 -0.130526" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_014" only_exists_in_editor="true" position="-912 -9241 5786.71" rotation="0 0 0.991445 -0.130526" unit_id="100177"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-916 -9579 5789.09" _prev_rot="0 0 0.130526 -0.991445" continent="world" local_pos="626.964 -482.067 0.669922" local_rot="0 0 -0.382683 0.92388" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_016" only_exists_in_editor="true" position="-916 -9579 5789.09" rotation="0 0 0.130526 -0.991445" unit_id="100178"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-619 -9543 5788.68" _prev_rot="0 0 -0.608761 -0.793353" continent="world" local_pos="902.174 -599.39 0.260254" local_rot="0 0 0.382684 0.92388" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_017" only_exists_in_editor="true" position="-619 -9543 5788.68" rotation="0 0 -0.608761 -0.793353" unit_id="100179"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-447 -9350 5782.17" _prev_rot="0 0 0 -1" continent="world" local_pos="1147.63 -518.247 -6.25" local_rot="0 0 -0.258819 0.965926" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_020" only_exists_in_editor="true" position="-447 -9350 5782.17" rotation="0 0 0 -1" unit_id="100180"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-300 -9584 5806.59" _prev_rot="0 0 0.985825 0.167776" continent="world" local_pos="1157.94 -794.397 18.1699" local_rot="-0 0 -0.90881 -0.41721" name="units/dev_tools/level_tools/ai_coverpoint" name_id="ai_coverpoint_021" only_exists_in_editor="true" position="-300 -9584 5806.59" rotation="0 0 0.985825 0.167776" unit_id="100181"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-719.824 -9094.4 5753.71" _prev_rot="0 0 0.0871557 -0.996195" continent="world" local_pos="1039.16 -160.479 -34.71" local_rot="0 0 -0.34202 0.939693" name="units/dev_tools/level_tools/navigation_splitter" name_id="navigation_splitter_001" only_exists_in_editor="true" position="-719.824 -9094.4 5753.71" rotation="0 0 0.0871557 -0.996195" unit_id="100182"/>
-		</table>
-		<table>
-			<unit_data _prev_pos="-621.343 -9111.77 5753.71" _prev_rot="0 0 0.0871557 -0.996195" continent="world" local_pos="1115.76 -224.762 -34.71" local_rot="0 0 -0.34202 0.939693" name="units/dev_tools/level_tools/navigation_splitter" name_id="navigation_splitter_002" only_exists_in_editor="true" position="-621.343 -9111.77 5753.71" rotation="0 0 0.0871557 -0.996195" unit_id="100183"/>
 		</table>
 	</statics>
 	<values>
