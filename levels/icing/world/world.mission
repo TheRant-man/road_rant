@@ -3405,6 +3405,14 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="103082"/>
 						</entry>
+						<entry index="5" type="table">
+							<entry key="delay" type="number" value="3"/>
+							<entry key="id" type="number" value="100125"/>
+						</entry>
+						<entry index="6" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100153"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="7050 2188 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
@@ -48706,6 +48714,10 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100437"/>
 						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="103542"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-3043.38 -32045.3 5802.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
@@ -51104,6 +51116,24 @@
 							<entry key="time" type="number" value="0"/>
 						</entry>
 					</entry>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="1895" type="table">
+				<entry key="class" type="string" value="ElementFadeToBlack"/>
+				<entry key="editor_name" type="string" value="fade_to_black_001"/>
+				<entry key="id" type="number" value="100153"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="fade_in" type="string" value="fade_out_in"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="position" type="vector3" value="-158.417 -23890.7 5295.41"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="state" type="boolean" value="true"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
