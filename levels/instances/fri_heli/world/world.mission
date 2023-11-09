@@ -334,43 +334,6 @@
 				</entry>
 			</entry>
 			<entry index="12" type="table">
-				<entry key="class" type="string" value="ElementMissionEnd"/>
-				<entry key="editor_name" type="string" value="func_mission_end_001"/>
-				<entry key="id" type="number" value="100016"/>
-				<entry key="script" type="string" value="default"/>
-				<entry key="values" type="table">
-					<entry key="base_delay" type="number" value="0"/>
-					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="on_executed" type="table">
-					</entry>
-					<entry key="position" type="vector3" value="-25 225 150"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-					<entry key="state" type="string" value="success"/>
-					<entry key="trigger_times" type="number" value="0"/>
-				</entry>
-			</entry>
-			<entry index="13" type="table">
-				<entry key="class" type="string" value="ElementTeammateComment"/>
-				<entry key="editor_name" type="string" value="tc_mission_end"/>
-				<entry key="id" type="number" value="100019"/>
-				<entry key="script" type="string" value="default"/>
-				<entry key="values" type="table">
-					<entry key="base_delay" type="number" value="0"/>
-					<entry key="close_to_element" type="boolean" value="false"/>
-					<entry key="comment" type="string" value="g24"/>
-					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="execute_on_startup" type="boolean" value="false"/>
-					<entry key="on_executed" type="table">
-					</entry>
-					<entry key="position" type="vector3" value="-100 225 150"/>
-					<entry key="radius" type="number" value="0"/>
-					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
-					<entry key="trigger_times" type="number" value="0"/>
-					<entry key="use_instigator" type="boolean" value="false"/>
-				</entry>
-			</entry>
-			<entry index="14" type="table">
 				<entry key="class" type="string" value="ElementCarry"/>
 				<entry key="editor_name" type="string" value="secure_coke"/>
 				<entry key="id" type="number" value="100018"/>
@@ -392,7 +355,7 @@
 					<entry key="type_filter" type="string" value="coke"/>
 				</entry>
 			</entry>
-			<entry index="15" type="table">
+			<entry index="13" type="table">
 				<entry key="class" type="string" value="ElementCarry"/>
 				<entry key="editor_name" type="string" value="remove_coke"/>
 				<entry key="id" type="number" value="100021"/>
@@ -410,7 +373,7 @@
 					<entry key="type_filter" type="string" value="coke"/>
 				</entry>
 			</entry>
-			<entry index="16" type="table">
+			<entry index="14" type="table">
 				<entry key="class" type="string" value="ElementCarry"/>
 				<entry key="editor_name" type="string" value="secure_diamonds"/>
 				<entry key="id" type="number" value="100022"/>
@@ -432,7 +395,7 @@
 					<entry key="type_filter" type="string" value="diamonds"/>
 				</entry>
 			</entry>
-			<entry index="17" type="table">
+			<entry index="15" type="table">
 				<entry key="class" type="string" value="ElementCarry"/>
 				<entry key="editor_name" type="string" value="remove_diamonds"/>
 				<entry key="id" type="number" value="100023"/>
@@ -450,7 +413,7 @@
 					<entry key="type_filter" type="string" value="diamonds"/>
 				</entry>
 			</entry>
-			<entry index="18" type="table">
+			<entry index="16" type="table">
 				<entry key="class" type="string" value="ElementCarry"/>
 				<entry key="editor_name" type="string" value="secure_minerals"/>
 				<entry key="id" type="number" value="100024"/>
@@ -476,7 +439,7 @@
 					<entry key="type_filter" type="string" value="road_rant_minerals"/>
 				</entry>
 			</entry>
-			<entry index="19" type="table">
+			<entry index="17" type="table">
 				<entry key="class" type="string" value="ElementCarry"/>
 				<entry key="editor_name" type="string" value="remove_minerals"/>
 				<entry key="id" type="number" value="100025"/>
@@ -494,7 +457,7 @@
 					<entry key="type_filter" type="string" value="road_rant_minerals"/>
 				</entry>
 			</entry>
-			<entry index="20" type="table">
+			<entry index="18" type="table">
 				<entry key="class" type="string" value="ElementCarry"/>
 				<entry key="editor_name" type="string" value="secure_money"/>
 				<entry key="id" type="number" value="100026"/>
@@ -516,7 +479,7 @@
 					<entry key="type_filter" type="string" value="money"/>
 				</entry>
 			</entry>
-			<entry index="21" type="table">
+			<entry index="19" type="table">
 				<entry key="class" type="string" value="ElementCarry"/>
 				<entry key="editor_name" type="string" value="remove_money"/>
 				<entry key="id" type="number" value="100027"/>
@@ -534,7 +497,7 @@
 					<entry key="type_filter" type="string" value="money"/>
 				</entry>
 			</entry>
-			<entry index="22" type="table">
+			<entry index="20" type="table">
 				<entry key="class" type="string" value="ElementTeammateComment"/>
 				<entry key="editor_name" type="string" value="tc_loot_secured"/>
 				<entry key="id" type="number" value="100028"/>
@@ -554,7 +517,7 @@
 					<entry key="use_instigator" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="23" type="table">
+			<entry index="21" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutput"/>
 				<entry key="editor_name" type="string" value="output_mission_end"/>
 				<entry key="id" type="number" value="100029"/>
@@ -572,7 +535,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="24" type="table">
+			<entry index="22" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutput"/>
 				<entry key="editor_name" type="string" value="output_all_escape_area"/>
 				<entry key="id" type="number" value="100030"/>
@@ -590,7 +553,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="25" type="table">
+			<entry index="23" type="table">
 				<entry key="class" type="string" value="ElementInstigatorRule"/>
 				<entry key="editor_name" type="string" value="data_instigator_rule_001"/>
 				<entry key="id" type="number" value="100031"/>
@@ -620,7 +583,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="26" type="table">
+			<entry index="24" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="seq_add_loot_bag"/>
 				<entry key="id" type="number" value="100009"/>
@@ -645,7 +608,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="27" type="table">
+			<entry index="25" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutput"/>
 				<entry key="editor_name" type="string" value="heli_arrived"/>
 				<entry key="id" type="number" value="100010"/>
@@ -663,7 +626,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="28" type="table">
+			<entry index="26" type="table">
 				<entry key="class" type="string" value="ElementWaypoint"/>
 				<entry key="editor_name" type="string" value="wp_loot"/>
 				<entry key="id" type="number" value="100011"/>
@@ -682,7 +645,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="29" type="table">
+			<entry index="27" type="table">
 				<entry key="class" type="string" value="ElementPlayEffect"/>
 				<entry key="editor_name" type="string" value="play_effect_dust_circle"/>
 				<entry key="id" type="number" value="100020"/>
@@ -704,7 +667,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="30" type="table">
+			<entry index="28" type="table">
 				<entry key="class" type="string" value="ElementOverlayEffect"/>
 				<entry key="editor_name" type="string" value="fadeout"/>
 				<entry key="id" type="number" value="100032"/>
@@ -725,7 +688,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="31" type="table">
+			<entry index="29" type="table">
 				<entry key="class" type="string" value="ElementTeammateComment"/>
 				<entry key="editor_name" type="string" value="teammate_comment_ourride"/>
 				<entry key="id" type="number" value="100017"/>
@@ -746,7 +709,7 @@
 					<entry key="use_instigator" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="32" type="table">
+			<entry index="30" type="table">
 				<entry key="class" type="string" value="ElementTeammateComment"/>
 				<entry key="editor_name" type="string" value="teammate_comment_lootmovin"/>
 				<entry key="id" type="number" value="100033"/>
@@ -767,7 +730,7 @@
 					<entry key="use_instigator" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="33" type="table">
+			<entry index="31" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="toggle_area"/>
 				<entry key="id" type="number" value="100036"/>
@@ -789,7 +752,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="34" type="table">
+			<entry index="32" type="table">
 				<entry key="class" type="string" value="ElementAreaTrigger"/>
 				<entry key="editor_name" type="string" value="area_trigger_VO"/>
 				<entry key="id" type="number" value="100037"/>
@@ -822,7 +785,7 @@
 					<entry key="width" type="number" value="1000"/>
 				</entry>
 			</entry>
-			<entry index="35" type="table">
+			<entry index="33" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="any_loot_secured001"/>
 				<entry key="id" type="number" value="100034"/>
@@ -903,7 +866,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="36" type="table">
+			<entry index="34" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter001"/>
 				<entry key="id" type="number" value="100035"/>
@@ -927,7 +890,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="37" type="table">
+			<entry index="35" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter002"/>
 				<entry key="id" type="number" value="100038"/>
@@ -951,7 +914,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="38" type="table">
+			<entry index="36" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter003"/>
 				<entry key="id" type="number" value="100039"/>
@@ -975,7 +938,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="39" type="table">
+			<entry index="37" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter004"/>
 				<entry key="id" type="number" value="100040"/>
@@ -999,7 +962,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="40" type="table">
+			<entry index="38" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter005"/>
 				<entry key="id" type="number" value="100041"/>
@@ -1023,7 +986,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="41" type="table">
+			<entry index="39" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter006"/>
 				<entry key="id" type="number" value="100042"/>
@@ -1047,7 +1010,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="42" type="table">
+			<entry index="40" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter007"/>
 				<entry key="id" type="number" value="100043"/>
@@ -1071,7 +1034,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="43" type="table">
+			<entry index="41" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter008"/>
 				<entry key="id" type="number" value="100044"/>
@@ -1095,7 +1058,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="44" type="table">
+			<entry index="42" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter009"/>
 				<entry key="id" type="number" value="100045"/>
@@ -1119,7 +1082,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="45" type="table">
+			<entry index="43" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot009"/>
 				<entry key="id" type="number" value="100046"/>
@@ -1140,7 +1103,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="46" type="table">
+			<entry index="44" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot008"/>
 				<entry key="id" type="number" value="100047"/>
@@ -1165,7 +1128,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="47" type="table">
+			<entry index="45" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot007"/>
 				<entry key="id" type="number" value="100048"/>
@@ -1186,7 +1149,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="48" type="table">
+			<entry index="46" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot006"/>
 				<entry key="id" type="number" value="100049"/>
@@ -1207,7 +1170,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="49" type="table">
+			<entry index="47" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot005"/>
 				<entry key="id" type="number" value="100050"/>
@@ -1228,7 +1191,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="50" type="table">
+			<entry index="48" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot004"/>
 				<entry key="id" type="number" value="100051"/>
@@ -1253,7 +1216,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="51" type="table">
+			<entry index="49" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot003"/>
 				<entry key="id" type="number" value="100052"/>
@@ -1274,7 +1237,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="52" type="table">
+			<entry index="50" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot002"/>
 				<entry key="id" type="number" value="100053"/>
@@ -1295,7 +1258,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="53" type="table">
+			<entry index="51" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot001"/>
 				<entry key="id" type="number" value="100054"/>
@@ -1316,7 +1279,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="54" type="table">
+			<entry index="52" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot001"/>
 				<entry key="id" type="number" value="100055"/>
@@ -1335,7 +1298,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="55" type="table">
+			<entry index="53" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot002"/>
 				<entry key="id" type="number" value="100056"/>
@@ -1354,7 +1317,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="56" type="table">
+			<entry index="54" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot003"/>
 				<entry key="id" type="number" value="100057"/>
@@ -1373,7 +1336,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="57" type="table">
+			<entry index="55" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot004"/>
 				<entry key="id" type="number" value="100058"/>
@@ -1396,7 +1359,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="58" type="table">
+			<entry index="56" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot005"/>
 				<entry key="id" type="number" value="100059"/>
@@ -1415,7 +1378,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="59" type="table">
+			<entry index="57" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot006"/>
 				<entry key="id" type="number" value="100060"/>
@@ -1434,7 +1397,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="60" type="table">
+			<entry index="58" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot007"/>
 				<entry key="id" type="number" value="100061"/>
@@ -1453,7 +1416,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="61" type="table">
+			<entry index="59" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot008"/>
 				<entry key="id" type="number" value="100062"/>
@@ -1472,7 +1435,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="62" type="table">
+			<entry index="60" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot009"/>
 				<entry key="id" type="number" value="100063"/>
@@ -1491,7 +1454,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="63" type="table">
+			<entry index="61" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter_all_mall"/>
 				<entry key="id" type="number" value="100064"/>
@@ -1515,7 +1478,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="64" type="table">
+			<entry index="62" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot015"/>
 				<entry key="id" type="number" value="100065"/>
@@ -1530,21 +1493,13 @@
 							<entry key="delay" type="number" value="3"/>
 							<entry key="id" type="number" value="100066"/>
 						</entry>
-						<entry index="2" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100077"/>
-						</entry>
-						<entry index="3" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100092"/>
-						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="283 -934 236"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="65" type="table">
+			<entry index="63" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot015"/>
 				<entry key="id" type="number" value="100066"/>
@@ -1563,7 +1518,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="66" type="table">
+			<entry index="64" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter011"/>
 				<entry key="id" type="number" value="100067"/>
@@ -1587,7 +1542,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="67" type="table">
+			<entry index="65" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot011"/>
 				<entry key="id" type="number" value="100068"/>
@@ -1612,7 +1567,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="68" type="table">
+			<entry index="66" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot011"/>
 				<entry key="id" type="number" value="100069"/>
@@ -1632,7 +1587,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="69" type="table">
+			<entry index="67" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="dialogue_escape"/>
 				<entry key="id" type="number" value="100070"/>
@@ -1651,7 +1606,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="70" type="table">
+			<entry index="68" type="table">
 				<entry key="class" type="string" value="ElementExperience"/>
 				<entry key="editor_name" type="string" value="experience_extra_bags"/>
 				<entry key="id" type="number" value="100071"/>
@@ -1674,7 +1629,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="71" type="table">
+			<entry index="69" type="table">
 				<entry key="class" type="string" value="ElementExperience"/>
 				<entry key="editor_name" type="string" value="experience_vault_loot"/>
 				<entry key="id" type="number" value="100072"/>
@@ -1697,7 +1652,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="72" type="table">
+			<entry index="70" type="table">
 				<entry key="class" type="string" value="ElementToggle"/>
 				<entry key="editor_name" type="string" value="toggle_extra_exp"/>
 				<entry key="id" type="number" value="100073"/>
@@ -1719,7 +1674,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="73" type="table">
+			<entry index="71" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutput"/>
 				<entry key="editor_name" type="string" value="instance_output_you_got_enough"/>
 				<entry key="id" type="number" value="100074"/>
@@ -1737,7 +1692,7 @@
 					<entry key="trigger_times" type="number" value="1"/>
 				</entry>
 			</entry>
-			<entry index="74" type="table">
+			<entry index="72" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="debug_001"/>
 				<entry key="id" type="number" value="100075"/>
@@ -1757,7 +1712,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="75" type="table">
+			<entry index="73" type="table">
 				<entry key="class" type="string" value="ElementDebug"/>
 				<entry key="editor_name" type="string" value="debug_002"/>
 				<entry key="id" type="number" value="100076"/>
@@ -1766,7 +1721,7 @@
 				<entry key="values" type="table">
 					<entry key="as_subtitle" type="boolean" value="false"/>
 					<entry key="base_delay" type="number" value="0"/>
-					<entry key="debug_string" type="string" value="Heli:EXP Clearance Sale!!!"/>
+					<entry key="debug_string" type="string" value="Heli:EXP All loot"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
@@ -1777,7 +1732,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="76" type="table">
+			<entry index="74" type="table">
 				<entry key="class" type="string" value="ElementTeammateComment"/>
 				<entry key="editor_name" type="string" value="teammate_comment_all_loot"/>
 				<entry key="id" type="number" value="100077"/>
@@ -1798,7 +1753,7 @@
 					<entry key="use_instigator" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="77" type="table">
+			<entry index="75" type="table">
 				<entry key="class" type="string" value="ElementTeammateComment"/>
 				<entry key="editor_name" type="string" value="tc_loot_enough?"/>
 				<entry key="id" type="number" value="100078"/>
@@ -1819,7 +1774,7 @@
 					<entry key="use_instigator" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="78" type="table">
+			<entry index="76" type="table">
 				<entry key="class" type="string" value="ElementPlaySound"/>
 				<entry key="editor_name" type="string" value="bank"/>
 				<entry key="id" type="number" value="100079"/>
@@ -1841,7 +1796,7 @@
 					<entry key="use_instigator" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="79" type="table">
+			<entry index="77" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter_12"/>
 				<entry key="id" type="number" value="100080"/>
@@ -1865,7 +1820,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="80" type="table">
+			<entry index="78" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot012"/>
 				<entry key="id" type="number" value="100081"/>
@@ -1880,17 +1835,13 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100082"/>
 						</entry>
-						<entry index="2" type="table">
-							<entry key="delay" type="number" value="0"/>
-							<entry key="id" type="number" value="100072"/>
-						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="138 -934 236"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 -1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="81" type="table">
+			<entry index="79" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot012"/>
 				<entry key="id" type="number" value="100082"/>
@@ -1909,7 +1860,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="82" type="table">
+			<entry index="80" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter_013"/>
 				<entry key="id" type="number" value="100083"/>
@@ -1933,7 +1884,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="83" type="table">
+			<entry index="81" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot013"/>
 				<entry key="id" type="number" value="100084"/>
@@ -1954,7 +1905,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="84" type="table">
+			<entry index="82" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot013"/>
 				<entry key="id" type="number" value="100085"/>
@@ -1973,7 +1924,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="85" type="table">
+			<entry index="83" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter_014"/>
 				<entry key="id" type="number" value="100086"/>
@@ -1997,7 +1948,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="86" type="table">
+			<entry index="84" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot014"/>
 				<entry key="id" type="number" value="100087"/>
@@ -2018,7 +1969,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="87" type="table">
+			<entry index="85" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot014"/>
 				<entry key="id" type="number" value="100088"/>
@@ -2037,7 +1988,7 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="88" type="table">
+			<entry index="86" type="table">
 				<entry key="class" type="string" value="ElementCounter"/>
 				<entry key="editor_name" type="string" value="lootcounter010"/>
 				<entry key="id" type="number" value="100089"/>
@@ -2061,7 +2012,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="89" type="table">
+			<entry index="87" type="table">
 				<entry key="class" type="string" value="MissionScriptElement"/>
 				<entry key="editor_name" type="string" value="loot015"/>
 				<entry key="id" type="number" value="100090"/>
@@ -2077,8 +2028,16 @@
 							<entry key="id" type="number" value="100091"/>
 						</entry>
 						<entry index="2" type="table">
-							<entry key="delay" type="number" value="1.25"/>
-							<entry key="id" type="number" value="100792"/>
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100072"/>
+						</entry>
+						<entry index="3" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100092"/>
+						</entry>
+						<entry index="4" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100077"/>
 						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="50 -934 236"/>
@@ -2086,7 +2045,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="90" type="table">
+			<entry index="88" type="table">
 				<entry key="class" type="string" value="ElementDialogue"/>
 				<entry key="editor_name" type="string" value="loot010"/>
 				<entry key="id" type="number" value="100091"/>
@@ -2106,9 +2065,9 @@
 					<entry key="use_position" type="boolean" value="false"/>
 				</entry>
 			</entry>
-			<entry index="91" type="table">
+			<entry index="89" type="table">
 				<entry key="class" type="string" value="ElementInstanceOutput"/>
-				<entry key="editor_name" type="string" value="instance_output_001"/>
+				<entry key="editor_name" type="string" value="instance_output_all"/>
 				<entry key="id" type="number" value="100092"/>
 				<entry key="module" type="string" value="CoreElementInstance"/>
 				<entry key="script" type="string" value="default"/>
@@ -2124,7 +2083,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="92" type="table">
+			<entry index="90" type="table">
 				<entry key="class" type="string" value="ElementUnitSequence"/>
 				<entry key="editor_name" type="string" value="fly_away"/>
 				<entry key="id" type="number" value="100002"/>
@@ -2149,7 +2108,7 @@
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
 			</entry>
-			<entry index="93" type="table">
+			<entry index="91" type="table">
 				<entry key="class" type="string" value="ElementInstanceInput"/>
 				<entry key="editor_name" type="string" value="instance_input_001"/>
 				<entry key="id" type="number" value="100004"/>
@@ -2165,8 +2124,33 @@
 							<entry key="delay" type="number" value="0"/>
 							<entry key="id" type="number" value="100002"/>
 						</entry>
+						<entry index="2" type="table">
+							<entry key="delay" type="number" value="0"/>
+							<entry key="id" type="number" value="100093"/>
+						</entry>
 					</entry>
 					<entry key="position" type="vector3" value="-236 -371 0"/>
+					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
+					<entry key="trigger_times" type="number" value="0"/>
+				</entry>
+			</entry>
+			<entry index="92" type="table">
+				<entry key="class" type="string" value="ElementOperator"/>
+				<entry key="editor_name" type="string" value="operator_001"/>
+				<entry key="id" type="number" value="100093"/>
+				<entry key="module" type="string" value="CoreElementOperator"/>
+				<entry key="script" type="string" value="default"/>
+				<entry key="values" type="table">
+					<entry key="base_delay" type="number" value="0"/>
+					<entry key="elements" type="table">
+						<entry index="1" type="number" value="100011"/>
+					</entry>
+					<entry key="enabled" type="boolean" value="true"/>
+					<entry key="execute_on_startup" type="boolean" value="false"/>
+					<entry key="on_executed" type="table">
+					</entry>
+					<entry key="operation" type="string" value="remove"/>
+					<entry key="position" type="vector3" value="-585 -171 0"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="trigger_times" type="number" value="0"/>
 				</entry>
