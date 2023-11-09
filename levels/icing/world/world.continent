@@ -414,7 +414,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2259.52 -29561 5668.36" _prev_rot="0 -0.00139626 0 -0.999999" _visibility_counter="0" continent="world" local_pos="-2447.2 1450.67 -42.3999" local_rot="0.000987305 0.000987305 -0.707106 0.707106" mesh_variation="turn_fake_lights_on" name="units/vehicles/truck_regular/man_vehicle_truck" name_id="man_vehicle_truck_006" position="-2259.52 -29561 5690.36" rotation="0 -0.00139626 0 -0.999999" unit_id="100461">
+			<unit_data _prev_pos="-2259.52 -29561 5690.36" _prev_rot="0 -0.00139626 0 -0.999999" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_fake_lights_on" name="units/vehicles/truck_regular/man_vehicle_truck" name_id="man_vehicle_truck_006" position="-2259.52 -29561 5690.36" rotation="0 -0.00139626 0 -0.999999" unit_id="100461">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 0.937255 0.698039" enabled="false" falloff_exponent="1" far_range="1000" multiplier="@IDbca13ba1d306f87b@" name="ls_left" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
 					<table clipping_values="10000 -10000 0" color="1 0.934481 0.657" enabled="false" falloff_exponent="1" far_range="1000" multiplier="@IDbca13ba1d306f87b@" name="ls_right" near_range="0" spot_angle_end="40.0728" spot_angle_start="40.0728"/>
@@ -2015,7 +2015,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_glace/props/glc_prop_bridge_lamp_lamppost/glc_prop_bridge_lamp_lamppost" name_id="glc_prop_bridge_lamp_lamppost_058" position="-2468.98 -29730.8 5710.33" rotation="-0.00244032 0.00244032 -0.707103 -0.707102" unit_id="100537">
+			<unit_data _prev_pos="-2468.98 -29730.8 5710.33" _prev_rot="-0.00244032 0.00244032 -0.707103 -0.707102" continent="world" disable_shadows="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/props/glc_prop_bridge_lamp_lamppost/glc_prop_bridge_lamp_lamppost" name_id="glc_prop_bridge_lamp_lamppost_058" position="-2468.98 -30207.8 5707.04" rotation="-0.00244032 0.00244032 -0.707103 -0.707102" unit_id="100537">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="0.454902 0.792157 0.905882" enabled="true" falloff_exponent="5" far_range="1600" multiplier="@IDc1749c1433ffb099@" name="ls_spotlight" near_range="80" spot_angle_end="85" spot_angle_start="60"/>
 				</lights>
@@ -4420,7 +4420,7 @@
 			<unit_data continent="world" name="units/dev_tools/level_tools/dev_collision/dev_collision_1x3m" name_id="dev_collision_1x3m_295" position="-2553.99 -39604 6310" rotation="0 0 -0.707107 -0.707107" unit_id="101677"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-2278.87 -30381.7 5658.65" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="-3267.9 1470.02 -52.1099" local_rot="0 0 -1 0" name="units/pd2_dlc_glace/vehicles/glc_vehicle_truck_skidsteerloader/glc_vehicle_truck_skidsteerloader_breaker" name_id="glc_vehicle_truck_skidsteerloader_breaker_001" position="-2278.87 -30381.7 5680.65" rotation="0 0 0.707107 -0.707107" unit_id="100594"/>
+			<unit_data _prev_pos="-2278.87 -30381.7 5680.65" _prev_rot="0 0 0.707107 -0.707107" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/vehicles/glc_vehicle_truck_skidsteerloader/glc_vehicle_truck_skidsteerloader_breaker" name_id="glc_vehicle_truck_skidsteerloader_breaker_001" position="-2278.87 -30381.7 5680.65" rotation="0 0 0.707107 -0.707107" unit_id="100594"/>
 		</table>
 		<table>
 			<unit_data continent="world" disable_on_ai_graph="true" disable_shadows="true" mesh_variation="close" name="units/world/props/street/plywood_fence/plywood_fence_door" name_id="plywood_fence_door_002" position="-2561 -23086 5920.48" rotation="0 0 -0.707107 -0.707107" unit_id="101359"/>
