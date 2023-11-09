@@ -11816,7 +11816,7 @@
 			<unit_data continent="world" name="units/payday2/props/gen_prop_plywood/gen_prop_plywood_v3" name_id="gen_prop_plywood_v3_002" position="-3729 -22743 7117.76" rotation="-0.5 0.5 0.5 -0.5" unit_id="100596"/>
 		</table>
 		<table>
-			<unit_data continent="world" disable_collision="true" disable_on_ai_graph="true" name="units/pd2_dlc_glace/architecture/glc_ext_bridge/glc_ext_bridge_deck_destruction_bottom" name_id="glc_ext_bridge_deck_destruction_bottom_001" position="-3400 -24305 -3100" rotation="-1.86265e-008 -6.51926e-009 -5.86733e-008 -1" unit_id="100598"/>
+			<unit_data _prev_pos="-3400 -24305 -3100" _prev_rot="-1.86265e-008 -6.51926e-009 -5.86733e-008 -1" _visibility_counter="0" continent="world" disable_collision="true" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/architecture/glc_ext_bridge/glc_ext_bridge_deck_destruction_bottom" name_id="glc_ext_bridge_deck_destruction_bottom_001" position="-3400 -24305 -3100" rotation="-1.86265e-008 -6.51926e-009 -5.86733e-008 -1" unit_id="100598"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-3400 -67448 -3078" _prev_rot="0 0 0 -1" _visibility_counter="0" continent="world" disable_collision="true" disable_on_ai_graph="true" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_glace/architecture/glc_ext_bridge/glc_ext_bridge_deck_b_bottom" name_id="glc_ext_bridge_deck_b_bottom_001" position="-3400 -67448 -3078" rotation="0 0 0 -1" unit_id="100599"/>
