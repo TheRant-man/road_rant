@@ -9331,7 +9331,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data _prev_pos="-842.106 -14702.5 5801.31" _prev_rot="-0.003438 0.000300785 -0.0871551 -0.996189" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_fake_lights_on" name="units/payday2/vehicles/str_vehicle_car_taxi/str_vehicle_car_taxi" name_id="vehicle_taxi_031" position="-604.768 -14660.7 5801.6" rotation="-0.00343802 0.00030078 -0.0871551 -0.996189" unit_id="104989">
+			<unit_data _prev_pos="-604.768 -14660.7 5801.6" _prev_rot="-0.00343802 0.00030078 -0.0871551 -0.996189" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="turn_fake_lights_on" name="units/payday2/vehicles/str_vehicle_car_taxi/str_vehicle_car_taxi" name_id="vehicle_taxi_031" position="-604.768 -14660.7 5801.6" rotation="-0.00343802 0.00030078 -0.0871551 -0.996189" unit_id="104989">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="0" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_left" near_range="0" spot_angle_end="40" spot_angle_start="40"/>
 					<table clipping_values="10000 -10000 0" color="1 1 1" enabled="false" falloff_exponent="1" far_range="2000" multiplier="@IDccbbe27c7fdc0fd9@" name="ls_right" near_range="0" spot_angle_end="40" spot_angle_start="40"/>

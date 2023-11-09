@@ -3514,7 +3514,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_1/civ_male_casual_1"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_1/civ_male_worker_docks_1"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -3554,7 +3554,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_2/civ_male_casual_2"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_2/civ_male_worker_docks_2"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -3574,7 +3574,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_3/civ_male_casual_3"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_2/civ_male_worker_docks_2"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -3594,7 +3594,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_female_casual_6/civ_female_casual_6"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_1/civ_male_worker_docks_1"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -3614,7 +3614,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_6/civ_male_casual_6"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_1/civ_male_worker_docks_1"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -3634,7 +3634,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_female_casual_5/civ_female_casual_5"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_3/civ_male_worker_docks_3"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -3654,7 +3654,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_3/civ_male_casual_3"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_3/civ_male_worker_docks_3"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -3678,7 +3678,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_4/civ_male_casual_4"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_2/civ_male_worker_docks_2"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -3702,7 +3702,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_female_casual_6/civ_female_casual_6"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_1/civ_male_worker_docks_1"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -3726,7 +3726,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_female_casual_4/civ_female_casual_4"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_1/civ_male_worker_docks_1"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -3750,7 +3750,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_female_casual_1/civ_female_casual_1"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_2/civ_male_worker_docks_2"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -3774,7 +3774,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_1/civ_male_casual_1"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_1/civ_male_worker_docks_1"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -3798,7 +3798,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_female_casual_4/civ_female_casual_4"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_3/civ_male_worker_docks_3"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -3944,7 +3944,7 @@
 				<entry key="module" type="string" value="CoreElementRandom"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
-					<entry key="amount" type="number" value="12"/>
+					<entry key="amount" type="number" value="4"/>
 					<entry key="amount_random" type="number" value="0"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
@@ -35469,7 +35469,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_2/civ_male_casual_2"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_2/civ_male_worker_docks_2"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -35493,7 +35493,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_5/civ_male_casual_5"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_1/civ_male_worker_docks_1"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -35502,7 +35502,7 @@
 							<entry key="id" type="number" value="100187"/>
 						</entry>
 					</entry>
-					<entry key="position" type="vector3" value="-650 -14850 5807"/>
+					<entry key="position" type="vector3" value="-740 -14850 5807"/>
 					<entry key="rotation" type="quaternion" value="0 0 1 6.33299e-008"/>
 					<entry key="state" type="string" value="none"/>
 					<entry key="team" type="string" value="default"/>
@@ -35517,7 +35517,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_4/civ_male_casual_4"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_3/civ_male_worker_docks_3"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -35541,7 +35541,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_12/civ_male_casual_12"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_1/civ_male_worker_docks_1"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -35565,7 +35565,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_6/civ_male_casual_6"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_2/civ_male_worker_docks_2"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -35589,7 +35589,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_8/civ_male_casual_8"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_1/civ_male_worker_docks_1"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
@@ -35612,7 +35612,7 @@
 				<entry key="module" type="string" value="CoreElementRandom"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
-					<entry key="amount" type="number" value="7"/>
+					<entry key="amount" type="number" value="4"/>
 					<entry key="amount_random" type="number" value="0"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
@@ -35661,7 +35661,7 @@
 				<entry key="values" type="table">
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
-					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_casual_2/civ_male_casual_2"/>
+					<entry key="enemy" type="string" value="units/payday2/characters/civ_male_worker_docks_3/civ_male_worker_docks_3"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="force_pickup" type="string" value="none"/>
 					<entry key="on_executed" type="table">
