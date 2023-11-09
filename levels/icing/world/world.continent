@@ -2091,28 +2091,7 @@
 			</unit_data>
 		</table>
 		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_glace/props/glc_prop_bridge_lamp_lamppost/glc_prop_bridge_lamp_lamppost" name_id="glc_prop_bridge_lamp_lamppost_062" position="-2469.03 3563.72 5648.77" rotation="-0.0579115 0.0579114 -0.704732 -0.704731" unit_id="100570">
-				<lights>
-					<table clipping_values="10000 -10000 0" color="0.454902 0.792157 0.905882" enabled="true" falloff_exponent="5" far_range="1600" multiplier="@IDc1749c1433ffb099@" name="ls_spotlight" near_range="80" spot_angle_end="85" spot_angle_start="60"/>
-				</lights>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_glace/props/glc_prop_bridge_lamp_lamppost/glc_prop_bridge_lamp_lamppost" name_id="glc_prop_bridge_lamp_lamppost_063" position="-269.034 5975.72 5619.04" rotation="-0.00244032 -0.00244032 0.707102 -0.707103" unit_id="100571">
-				<lights>
-					<table clipping_values="10000 -10000 0" color="0.454902 0.792157 0.905882" enabled="true" falloff_exponent="5" far_range="1600" multiplier="@IDc1749c1433ffb099@" name="ls_spotlight" near_range="80" spot_angle_end="85" spot_angle_start="60"/>
-				</lights>
-			</unit_data>
-		</table>
-		<table>
 			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_glace/props/glc_prop_bridge_lamp_lamppost/glc_prop_bridge_lamp_lamppost" name_id="glc_prop_bridge_lamp_lamppost_064" position="-269.047 14775.5 5679.78" rotation="-0.00244032 -0.00244032 0.707102 -0.707103" unit_id="100574">
-				<lights>
-					<table clipping_values="10000 -10000 0" color="0.454902 0.792157 0.905882" enabled="true" falloff_exponent="5" far_range="1600" multiplier="@IDc1749c1433ffb099@" name="ls_spotlight" near_range="80" spot_angle_end="85" spot_angle_start="60"/>
-				</lights>
-			</unit_data>
-		</table>
-		<table>
-			<unit_data continent="world" disable_shadows="true" name="units/pd2_dlc_glace/props/glc_prop_bridge_lamp_lamppost/glc_prop_bridge_lamp_lamppost" name_id="glc_prop_bridge_lamp_lamppost_065" position="-2497.04 9376.32 5543.51" rotation="-0.00244032 0.00244032 -0.707103 -0.707102" unit_id="100688">
 				<lights>
 					<table clipping_values="10000 -10000 0" color="0.454902 0.792157 0.905882" enabled="true" falloff_exponent="5" far_range="1600" multiplier="@IDc1749c1433ffb099@" name="ls_spotlight" near_range="80" spot_angle_end="85" spot_angle_start="60"/>
 				</lights>
@@ -9256,13 +9235,6 @@
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" mesh_variation="state_blinking_red" name="units/pd2_dlc_fish/props/lxy_prop_glow_01_blink/lxy_prop_glow_01_blink" name_id="lxy_prop_glow_01_blink_030" position="-976.12 -18959.1 5917.05" rotation="0.70421 -0.0254094 0.0252345 -0.709088" unit_id="104997"/>
-		</table>
-		<table>
-			<unit_data continent="world" name="core/units/light_omni/light_omni" name_id="light_omni_056" position="-418 -2595 5560.57" rotation="0 0 0 -1" unit_id="105216">
-				<lights>
-					<table clipping_values="10000 -10000 0" color="1 0 0" enabled="true" falloff_exponent="1" far_range="150" multiplier="@ID5035addc43a80b74@" name="lo_omni" near_range="80" spot_angle_end="-1" spot_angle_start="-1"/>
-				</lights>
-			</unit_data>
 		</table>
 		<table>
 			<unit_data continent="world" disable_shadows="true" mesh_variation="state_static_red" name="units/pd2_dlc_fish/props/lxy_prop_glow_01_blink/lxy_prop_glow_01_blink" name_id="lxy_prop_glow_01_blink_035" position="-1340 -24136.9 5890.23" rotation="0.704662 -1.84262e-008 -5.9177e-008 -0.709543" unit_id="105220"/>
