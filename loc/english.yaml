@@ -1,14 +1,14 @@
 # heist info
 heist_icing_name: "Queensboro Bridge"
 heist_road_rant_name: "Road Rage: Ranted"
-heist_road_rant_brief: "So you wanna get back in the game? Earn some money? I haven't forgotten what you did for me back in San Francisco. \n\n» Locate the EMP. \n» Stop the transport. \n» Hack the autopilot. \n» Escort the transport. \n» Open the doors. \n» Steal the minerals. \n» Escape."
+heist_road_rant_brief: "So you wanna get back in the game? Earn some money? I haven't forgotten what you did for me back in San Francisco. It is my pleasure to work with you again. \n\n» Locate the EMP. \n» Stop the transport. \n» Hack the autopilot. \n» Escort the transport. \n» Open the doors. \n» Steal the minerals. \n» Escape."
 heist_icing_brief: "We're going to rob an armored transport carrying valuable rare-earth elements, a key part in the manufacutring of electronic components. There's already a decoy in place to reroute the transport to the upper level of Queensboro Bridge - currently undergoing renovation - while also confusing the transport's SWAT escort. It should give us a few minutes to set everything up. Just don't do anything to alert the driver. "
 # objectives
 drill_bottom: "Breach the armoured transport"
-find_emp: "Find the jammer"
+find_emp: "Retrieve the jammer"
 payload: "Escort the transport"
 place_ramp: "Place a ramp"
-hack_truck: "Start the hack"
+hack_truck: "Override the armoured transport"
 protecc_hacc: "Protect the hack"
 secure_loot: "Secure the rare elements"
 loot_truck: "Loot the transport"
