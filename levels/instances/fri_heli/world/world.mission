@@ -613,6 +613,7 @@
 								<entry index="4" type="string" value="diamonds"/>
 								<entry index="5" type="string" value="gold"/>
 								<entry index="6" type="string" value="money"/>
+								<entry index="7" type="string" value="road_rant_minerals"/>
 							</entry>
 						</entry>
 					</entry>
