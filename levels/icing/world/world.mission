@@ -48347,13 +48347,14 @@
 				<entry key="id" type="number" value="100025"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
+					<entry key="achievement_id" type="string" value="civvies"/>
 					<entry key="amount_increase" type="number" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="true"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="package_id" type="string" value=""/>
+					<entry key="package_id" type="string" value="contra"/>
 					<entry key="position" type="vector3" value="-4227.04 -29904.8 5802.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -48365,12 +48366,14 @@
 				<entry key="id" type="number" value="100026"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
+					<entry key="achievement_id" type="string" value="rOaD"/>
 					<entry key="amount_increase" type="number" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
+					<entry key="package_id" type="string" value="contra"/>
 					<entry key="position" type="vector3" value="-4234.69 -30001.5 5802.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -48382,12 +48385,14 @@
 				<entry key="id" type="number" value="100027"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
+					<entry key="achievement_id" type="string" value="roaDS"/>
 					<entry key="amount_increase" type="number" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
+					<entry key="package_id" type="string" value="contra"/>
 					<entry key="position" type="vector3" value="-4224.67 -30094.8 5802.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -48399,12 +48404,14 @@
 				<entry key="id" type="number" value="100028"/>
 				<entry key="script" type="string" value="default"/>
 				<entry key="values" type="table">
+					<entry key="achievement_id" type="string" value="earn_some_money"/>
 					<entry key="amount_increase" type="number" value="1"/>
 					<entry key="base_delay" type="number" value="0"/>
 					<entry key="enabled" type="boolean" value="false"/>
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
+					<entry key="package_id" type="string" value="contra"/>
 					<entry key="position" type="vector3" value="-4221.35 -30199.4 5802.5"/>
 					<entry key="rotation" type="quaternion" value="0 0 0 1"/>
 					<entry key="trigger_times" type="number" value="0"/>
