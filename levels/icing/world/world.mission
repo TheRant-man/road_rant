@@ -118,7 +118,7 @@
 					<entry key="execute_on_startup" type="boolean" value="false"/>
 					<entry key="on_executed" type="table">
 					</entry>
-					<entry key="position" type="vector3" value="-1730.46 -30710.9 5673.89"/>
+					<entry key="position" type="vector3" value="-1839.46 -30710.9 5673.89"/>
 					<entry key="rotation" type="quaternion" value="-0.00345161 -2.05715e-010 -7.10555e-013 -0.999994"/>
 					<entry key="state" type="string" value="standard"/>
 					<entry key="trigger_times" type="number" value="0"/>
@@ -301,8 +301,8 @@
 						</entry>
 					</entry>
 					<entry key="participate_to_group_ai" type="boolean" value="false"/>
-					<entry key="position" type="vector3" value="1799.65 -24687.4 8706.12"/>
-					<entry key="rotation" type="quaternion" value="0 0 0.173648 -0.984808"/>
+					<entry key="position" type="vector3" value="1829.06 -24606.6 8706.12"/>
+					<entry key="rotation" type="quaternion" value="0 0 -0.573577 -0.819152"/>
 					<entry key="spawn_action" type="string" value="e_sp_up_ledge"/>
 					<entry key="team" type="string" value="default"/>
 					<entry key="trigger_times" type="number" value="0"/>
