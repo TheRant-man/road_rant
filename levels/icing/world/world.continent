@@ -12296,7 +12296,7 @@
 			<unit_data _prev_pos="-1344.87 -30521.3 5608.17" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/payday2/architecture/mkp/mkp_int_floor_2x2m_a" name_id="mkp_int_floor_2x2m_a_049" position="-1543.87 -30521.3 5608.17" rotation="-0.707107 0 0 -0.707107" unit_id="100133"/>
 		</table>
 		<table>
-			<unit_data _prev_pos="-1365.6 -30303.7 5848.17" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_show" name="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small" name_id="beta_drill" position="-1365.6 -30303.7 5851.17" rotation="-0.707107 0 0 -0.707107" unit_id="100049"/>
+			<unit_data _prev_pos="-1365.6 -30303.7 5851.17" _prev_rot="-0.707107 0 0 -0.707107" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" mesh_variation="state_show" name="units/payday2/equipment/gen_interactable_drill_small/gen_interactable_drill_small" name_id="beta_drill" position="-1365.6 -30303.7 5854.17" rotation="-0.707107 0 0 -0.707107" unit_id="100049"/>
 		</table>
 		<table>
 			<unit_data _prev_pos="-1608.53 -30724.5 5681.64" _prev_rot="0.00308394 -0.00155406 0.918665 0.395023" _visibility_counter="0" continent="world" local_pos="0 0 0" local_rot="0 0 0 1" name="units/pd2_dlc_run/props/run_prop_concrete_barrier_01/run_prop_concrete_barrier_small_01" name_id="run_prop_concrete_barrier_stripes_single_01_007" position="-1608.53 -30724.5 5681.64" rotation="0.00308394 -0.00155406 0.918665 0.395023" unit_id="100000"/>
